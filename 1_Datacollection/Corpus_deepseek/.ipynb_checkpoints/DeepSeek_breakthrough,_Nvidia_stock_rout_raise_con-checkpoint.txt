@@ -1,0 +1,15 @@
+DeepSeek, a little-known Chinese start-up whose affordable technology matches the likes of the most formidable American tech titans such as OpenAI and Meta Platforms, has raised investor concerns over the necessity of pouring billions of dollars into research and development.
+
+Advertisement
+
+The Chinese artificial intelligence (AI) company released its open-source reasoning model, R1, earlier this month. The model’s capabilities roughly match those of advanced models from OpenAI, Anthropic, and Google while having significantly lower training costs.
+
+“The impressive performance/cost dynamics have raised investor concerns about the necessity of the billions of dollars of capital expenditures by large US tech companies and the billions more they are planning to spend on generative AI in the coming years,” said Malik Ahmed Khan, an equity analyst from Morningstar.
+
+Large US tech companies may follow suit and replicate some of the AI training techniques that DeepSeek leveraged to drive the cost of R1 down, he said in a research note on Tuesday.
+
+When DeepSeek launched, it quickly became the most downloaded app in Apple’s US AppStore. The better-than-expected performance of DeepSeek led to a sell-off of Nvidia and tech peers on Wall Street on Monday. Its shares plunged 17 per cent to US$118.58, erasing almost US$600 billion of market value.
+
+Nvidia’s logo and a decreasing stock graph are seen in this illustration taken January 27, 2025. Photo: Reuters
+
+The narrative on Monday was that the eye-watering sums spent on AI by mega-cap tech companies could be somewhat obsolete if a cheaper solution exists, analysts at Montreal-based BCA Research said. In essence, the moat protecting the “Magnificent Seven” US tech giants may not be as wide as previously thought, it said.

@@ -1,0 +1,81 @@
+With new US firm Stargate announcing a half trillion-dollar investment in artificial intelligence, and China's DeepSeek shaking up the industry, what does it all mean for AI's environmental impact?
+
+Chinese artificial intelligence firm DeepSeek has dropped a new AI chatbot it says is much cheaper than the systems operated by US tech giants like Microsoft and Google, and could make the technology less power hungry.
+
+That could have big environment and climate implications, as training and running current AI models requires vast amounts of energy . The long-held assumption was that the next AI wave would require massive data center expansion to satisfy increasing demand.
+
+Today's more than 8,000 data centers already consume about 1 to 2% of global electricity, according to the International Energy Agency.
+
+"AI has a huge, a ferocious appetite essentially, for energy," said Paul Deane, senior lecturer in clean energy futures at University College Cork, Ireland.
+
+How much energy does AI need?
+
+There's plenty of hype about how AI could be applied, from helping to find cures for cancer to combating climate change. That hype applies to future AI energy demand projections too, said Deane.
+
+Just before DeepSeek launched its AI chatbot, US President Donald Trump announced the "largest AI infrastructure project, by far, in history" with newly founded AI company Stargate. The company said it would immediately pump $100 billion (about €95 billion) into facilities like data centers.
+
+"A lot of large companies are building very large data centers to run these very large AI algorithms," said Deane.
+
+Financial services company Goldman Sachs estimates that data center power demand could grow 160% by 2030, while global electricity use could rise to around 4% by 2030. Already, asking OpenAI's ChatGPT a question uses nearly 10 times as much electricity as one Google search.
+
+Data centers need more access to power quickly, said Deane.
+
+"AI will certainly partner very well with things like solar and batteries," said Deane, and that would potentially work in many regions around the world but can take longer to build out.
+
+Pairing energy-hungry data centers with solar parks could work well particularly for sunny places like Texas, in the US Image: Scott Coleman/Zuma/picture alliance
+
+The small modular nuclear reactors companies like Microsoft are investing in to provide energy for data centers are a long way from commercial viability, he added. But "in the States at the moment, there's a big interest in coupling AI with cheap gas, which can be built relatively quickly," said Deane. That's the case in one of the Stargate data centers in Texas, according to US media reports.
+
+But burning fossil fuels, like gas, also drives the greenhouse gas emissions causing planetary heating. Data center emissions may double by 2030, according to Goldman Sachs.
+
+Why does AI need so much water?
+
+Lots of water is used to produce the powerful microchips needed to run AI's extremely fast calculations. Manufacturing one chip takes more than 2,200 gallons (8,300 liters) of water. AI chips also emit more heat, meaning data centers require more water to keep their servers and facilities cool.
+
+The 2023 study "Making AI less thirsty" from the University of California, Riverside, found training a large-language model like OpenAI's Chat GPT-3 "can consume millions of liters of water." And running 10 to 50 queries can use up to 500 milliliters, depending on where in the world it is taking place. So, asking an AI model to write a work email or to generate a picture of a unicorn on Mars is like dumping a half a liter of water.
+
+If you use fossil fuel, nuclear or hydroelectric plants to power data centers, "there is also a huge amount of water consumption," said Shaolei Ren, a professor of electrical and computer engineering, at University of California, Riverside.
+
+Ren, who co-authored the UC Riverside study, found that by 2027 AI could be withdrawing 6.6 billion cubic meters of water a year globally. That's around six times more than Denmark.
+
+Data centers need lots of water for cooling servers. Building them in drought-ridden regions can put even bigger strain on supplies Image: Bruno Kelly/REUTERS
+
+In countries like Ireland that aren't water stressed, this doesn't pose a major problem — for now.
+
+But "if we are using crazy amounts of water in Arizona, or Spain, or Uruguay, that's not a good practice," said Ren.
+
+Can AI run with less environmental impact?
+
+"We can't put the genie back in the bottle, but we can certainly try and make the genie better, cleaner and more efficient," said Paul Deane from UCC.
+
+One of the big ways to reduce data center environmental impact is "to make the energy that they're using cleaner and more efficient," said Deane. That would mean building more renewables with batteries to power data centers, or locating data centers where there's already abundant solar and wind supplies.
+
+The data centers that train AI models could also operate in daylight hours only to take advantage of the sun's energy, as that side of the technology is not time-sensitive. But when it comes to people using AI, energy is needed around the clock. That requires large storage batteries for renewables, or less use of climate-friendly energy sources like gas.
+
+Using excess heat from data centers for district heating in nearby communities could also help use energy more efficiently in some locations, said Deane.
+
+What about reducing the water footprint of AI?
+
+When it comes to water, Ren said AI companies need to be more transparent about how much they are using, and consider the climate and resources when choosing data center locations.
+
+"For those drought-prone areas or regions, we need to really be careful about how much water pressure we're putting on the local water bodies," said Ren.
+
+Reusing and recycling water and rainwater harvesting, as well as implementing closed-loop liquid cooling systems will also help cut water use, he said.
+
+Like for energy, AI training can be scheduled for when public water use is low or in data centers with better water efficiency. And water-conscious AI users could use the technology during water efficient-hours.
+
+More efficient chips could also help reduce the environmental impact of AI Image: Imaginechina-Tuchong/imago images
+
+Can DeepSeek make AI less energy-hungry?
+
+DeepSeak's technology could mean predictions about AI's expanding resource use are exaggerated and some of the planned data centers might not be needed.
+
+The company "uses a much smaller amount of resources and the performance is on par with OpenAI's newest model. That's really impressive," said Ren.
+
+DeepSeek claims its tech is so efficient because they didn't have access to US company Nvidia's powerful AI chips and had to innovate instead. If DeepSeek turns out to live up to the hype, new data centers that are built in the future might operate more efficiently. Some queries might even run on smartphones and not need data centers at all.
+
+Still, the potentially more efficient technology could lead to something called Jevons paradox, warn experts. This means that efficiency gains are eaten up because they result in increased demand, as the cost of using the technology drops.
+
+"So whether we're going be seeing this continued growth? There's a lot more uncertainties now," said Ren.
+
+Edited by: Anke Rasper
