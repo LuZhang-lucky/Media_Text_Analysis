@@ -1,13 +1,8 @@
 # Text Analysis of News Coverage
+
 ## Project Overview
 This project analyzes sentiment trends and key discussion topics from international news coverage using Python and Jupyter Notebooks. It demonstrates the application of Natural Language Processing (NLP) techniques, exploratory data analysis, and data visualization in a real-world scenario.
 
-## About This Project
-The project analyzes media text data using a structured workflow inspired by the learning material *Introduction to Cultural Analytics and Python* (Designed by Melanie Walsh)（https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html）. It follows key steps including data collection, text preprocessing, and various text analysis methods such as TF-IDF, sentiment analysis, topic modeling, and part-of-speech tagging.
-
-The directory structure is organized to reflect these analytical stages, making it easy to follow the process from raw data to insights.
-
-Unlike the diverse data sources used in the course assignments of *Introduction to Cultural Analytics and Python*, this project focuses on a **single corpus** centered around the topical and timely news theme of **DeepSeek**. By using one unified dataset of newsletters and articles, the analysis aims to provide a clear, coherent investigation into the topics discussed and sentiments expressed in the media coverage.
 
 ## Project Background
 
@@ -17,7 +12,16 @@ The initial version of the project was completed under tight time constraints, s
 
 During the summer of 2025, I revisited the project with more time to study and apply methods from the learning material. I expanded the corpus and reworked the analysis, producing this new version with a more structured workflow, larger dataset, and improved insights.
 
+## About This Project
 
+Unlike the diverse datasets used in the course assignments of *Introduction to Cultural Analytics and Python*, this project focuses on a **single corpus** centered around the topical and timely news theme of **DeepSeek**. By using one unified dataset of newsletters and articles, the analysis aims to provide a clear, coherent investigation into what topics are discussed and the sentiments expressed in the media coverage.
+
+The main workflow involves:
+
+- Collecting an expanded corpus of media articles about DeepSeek
+- Applying text mining techniques such as TF-IDF to identify unique and frequent words
+- Using topic modeling to explore thematic structures, though limited by the relatively small and specialized corpus, which makes distinct topic separation somewhat ambiguous
+- Conducting sentiment analysis that reveals notable patterns, including sentiment shifts over time and identifying articles with strongly negative sentiment
 ## 📁 Project Structure
 
 
@@ -31,6 +35,9 @@ DeepSeek_Media_Text_Analysis/
 └── README.md                # Documentation
 ```
 ## Example Output
+
+
+
 
 
 ## 🚀 Main Features
