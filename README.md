@@ -1,6 +1,13 @@
-# Sentiment and Topic Analysis of News Coverage
-
+# Text Analysis of News Coverage
+## Project Overview
 This project analyzes sentiment trends and key discussion topics from international news coverage using Python and Jupyter Notebooks. It demonstrates the application of Natural Language Processing (NLP) techniques, exploratory data analysis, and data visualization in a real-world scenario.
+
+## About This Project
+The project analyzes media text data using a structured workflow inspired by the learning material *Introduction to Cultural Analytics and Python* (Designed by Melanie Walsh)（https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html）.It follows key steps including data collection, text preprocessing, and various text analysis methods such as TF-IDF, sentiment analysis, topic modeling, and part-of-speech tagging.
+
+The directory structure is organized to reflect these analytical stages, making it easy to follow the process from raw data to insights.
+
+Unlike the diverse data sources used in the course assignments of *Introduction to Cultural Analytics and Python*, this project focuses on a **single corpus** centered around the topical and timely news theme of **DeepSeek**. By using one unified dataset of newsletters and articles, the analysis aims to provide a clear, coherent investigation into the topics discussed and sentiments expressed in the media coverage.
 
 ## Project Background
 
@@ -8,7 +15,7 @@ This project began in February–March 2025 as part of the master's course **Dis
 
 The initial version of the project was completed under tight time constraints, so the first version was raw, with a small corpus and limited depth.
 
-During the summer of 2025, I revisited the project with more time to study and apply methods from the learning material *Introduction to Cultural Analytics and Python*(Designed by Melanie Walsh)（https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html）. I expanded the corpus and reworked the analysis, producing this **2.0 version** with a more structured workflow, larger dataset, and improved insights.
+During the summer of 2025, I revisited the project with more time to study and apply methods from the learning material. I expanded the corpus and reworked the analysis, producing this new version with a more structured workflow, larger dataset, and improved insights.
 
 
 ## 📁 Project Structure
@@ -18,11 +25,12 @@ During the summer of 2025, I revisited the project with more time to study and a
 DeepSeek_Media_Text_Analysis/
 ├── 1_Datacollection/        # Raw data & metadata
 ├── 2_Preprocessing/         # Text cleaning
-├── 3_TF-IDF/                # Feature extraction
+├── 3_TF-IDF/                # Feature words extraction
 ├── 4_topic_modeling/        # Topic modeling
-├── 5_sentiment_analysis/    # Sentiment analysis
+├── 5_sentiment_analysis/    # Sentiment analysis on both texts and words
 └── README.md                # Documentation
 ```
+## Example Output
 
 
 ## 🚀 Main Features
