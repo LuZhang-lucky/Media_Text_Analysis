@@ -13,59 +13,58 @@ During the summer of 2025, I revisited the project with more time to study and a
 
 ## 📁 Project Structure
 
-DeepSeek_Media_Analysis_2.0_ExpandedCorpus/
-    │
-    ├──1_Datacollection
-    │    ├── corpus_deepseek/                 # Raw corpus with 100+articles
-    │    ├── all_texts.txt                    # combined text
-    │    ├── corpus_set_up.jpynb               # notebook
-    │    └── metadata_all_texts_complete.csv    # metadata
-    │
-    ├──2_Preprocessing
-    │    ├── corpus_deepseek_cleaned     # Cleaned texts
-    │    ├── nltk_preprocessing.ipynb
-    │    ├── outputs 
-    │    │    ├──cleaned_text.txt
-    │    │    └──word_frequency_all_texts.csv
-    │    └── visualizations  
-    │         └── wordcloud_output.png
-    │
-    ├──3_TF-IDF/ 
-    │     ├── heatmap_chart.html       # tfidf visualization
-    │     ├─- tfidf_all_corpus.jpynb   # notebook
-    │     └── top_tfidf_results.csv    # output
-    │
-    ├──4_topic_modeling/ 
-    │    ├──topic_gensim.ipynb
-    │    └──topic_tomotopy.ipynb
-    │
-    ├──5_sentiment_analysis/
-    │   ├── negative_DeepSeek_texts/      # Subcorpus contains all negative texts
-    │   ├── notebooks/                     # All Jupyter files
-    │   │     ├── sentiment_analysis_word.ipynb
-    │   │     ├── sentiment_transformers.ipynb
-    │   │     ├── vader_sentiment_deepseek.ipynb
-    │   │     ├── negative_texts_tfidf.ipynb
-    │   │     ├── POS_keywords_neg_texts.ipynb
-    │   │     └── topic_negative_texts.ipynb
-    │   ├── outputs/                     # All .csv data outputs
-    │   │     ├── deepseek_vadersentiment_results.csv
-    │   │     ├── negative_sentiment_words_update.csv
-    │   │     ├── positive_sentiment_words_update_merge.csv
-    │   │     ├── sentiment_transformers_deepseek.csv
-    │   │     ├── sentiment_word_frequencies_textblob_update.csv
-    │   │     ├── tfidf_negative_texts.csv
-    │   │     └── negative_texts.csv
-    │   └── visualizations/               # All charts & HTML 
-    │         ├── sentiment_over_time.png
-    │         ├── sentiment_over_time.html
-    │         ├── negative_word_frequency_vs_sentiment.png
-    │         ├── negative_word_frequency_vs_sentiment_zoom_in.png
-    │         ├── positive_word_frequency_vs_sentiment.png
-    │         └── Negative_texts_TF-IDF_Score.html
-    │
-    └── README.md                     # Description for v2.0
-
+DeepSeek_Media_Text_Analysis
+│
+├── 1_Datacollection # 📊 Collecting raw data & metadata
+│ ├── corpus_deepseek/ # Raw corpus with 100+ articles
+│ ├── all_texts.txt # Combined text
+│ ├── corpus_set_up.jpynb # Notebook
+│ └── metadata_all_texts_complete.csv # Metadata
+│
+├── 2_Preprocessing # 🧹 Cleaning & preparing text data
+│ ├── corpus_deepseek_cleaned # Cleaned texts
+│ ├── nltk_preprocessing.ipynb
+│ ├── outputs
+│ │ ├── cleaned_text.txt
+│ │ └── word_frequency_all_texts.csv
+│ └── visualizations
+│ └── wordcloud_output.png
+│
+├── 3_TF-IDF # 🔎 Feature extraction with TF-IDF
+│ ├── heatmap_chart.html # TF-IDF visualization
+│ ├── tfidf_all_corpus.jpynb # Notebook
+│ └── top_tfidf_results.csv # Output
+│
+├── 4_topic_modeling # 🧠 Topic modeling with LDA / Tomotopy
+│ ├── topic_gensim.ipynb
+│ └── topic_tomotopy.ipynb
+│
+├── 5_sentiment_analysis # 😊 Sentiment & opinion mining
+│ ├── negative_DeepSeek_texts/ # Subcorpus: all negative texts
+│ ├── notebooks/ # All Jupyter files
+│ │ ├── sentiment_analysis_word.ipynb
+│ │ ├── sentiment_transformers.ipynb
+│ │ ├── vader_sentiment_deepseek.ipynb
+│ │ ├── negative_texts_tfidf.ipynb
+│ │ ├── POS_keywords_neg_texts.ipynb
+│ │ └── topic_negative_texts.ipynb
+│ ├── outputs/ # All .csv data outputs
+│ │ ├── deepseek_vadersentiment_results.csv
+│ │ ├── negative_sentiment_words_update.csv
+│ │ ├── positive_sentiment_words_update_merge.csv
+│ │ ├── sentiment_transformers_deepseek.csv
+│ │ ├── sentiment_word_frequencies_textblob_update.csv
+│ │ ├── tfidf_negative_texts.csv
+│ │ └── negative_texts.csv
+│ └── visualizations/ # All charts & HTML
+│ ├── sentiment_over_time.png
+│ ├── sentiment_over_time.html
+│ ├── negative_word_frequency_vs_sentiment.png
+│ ├── negative_word_frequency_vs_sentiment_zoom_in.png
+│ ├── positive_word_frequency_vs_sentiment.png
+│ └── Negative_texts_TF-IDF_Score.html
+│
+└── README.md # 📘 Project documentation (v2.0)
 
 
 ## 🚀 Main Features
