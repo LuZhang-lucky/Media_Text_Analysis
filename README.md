@@ -1,8 +1,9 @@
 # Text Analysis of News Coverage
 
 ## Project Overview
-This project analyzes sentiment trends and key discussion topics from international news coverage using Python and Jupyter Notebooks. It demonstrates the application of Natural Language Processing (NLP) techniques, exploratory data analysis, and data visualization in a real-world scenario.
+This project analyzes media coverage of DeepSeek in major news outlets. It follows key steps including data collection, text preprocessing, and various text analysis methods such as TF-IDF, sentiment analysis, topic modeling, and part-of-speech tagging.
 
+The directory structure is organized to reflect these analytical stages, making it easy to follow the process from raw data to insights.
 
 ## Project Background
 
@@ -37,10 +38,15 @@ DeepSeek_Media_Text_Analysis/
 ## Example Output
 ![positive words](5_Sentiment_Analysis/visualizations/positive_word_frequency_vs_sentiment.png)
 ![negative words](5_Sentiment_Analysis/visualizations/negative_word_frequency_vs_sentiment.png)
-One of the valuable outputs of this project is an interesting two-dimensional visualization that maps word frequency against sentiment scores, helping to surface meaningful insights from the text data.
+Reflection: One of the valuable outputs of this project is the interesting two-dimensional visualization that maps word frequency against sentiment scores, helping to surface meaningful insights from the text data.
 
 ![sentiment_over_time by source](5_Sentiment_Analysis/visualizations/sentiment_over_time.png)
+Reflection: Most sentiment scores are between 0.0 and 1.0 → generally positive. High density of articles between Jan 26 and Feb 23 → suggests an important event (likely stock-related). Many articles have strong positive sentiment (0.6–1.0). A few articles have negative sentiment → potential outliers or critical views.
 
+![Negative texts tfidf](5_Sentiment_Analysis/visualizations/Negative_texts_TF-IDF_Score.html)
+Reflection: These are the texts with negative sentiment, using
+ TF-IDF to identify unique words.
+ 
 Overall, this project reflects a focused curiosity about media narratives surrounding DeepSeek, integrating computational analysis with interpretive perspectives to reveal meaningful patterns and insights.
 
 
