@@ -1,0 +1,69 @@
+Hong Kong CNN —
+
+People across China are hailing the success of homegrown tech startup DeepSeek and its founder, after the company’s newest artificial intelligence model sent shock waves through Silicon Valley and Wall Street.
+
+“DeepSeek overturns the US stocks overnight” one trending hashtag with tens of millions of views proclaimed on Chinese social media platform Weibo. “DeepSeek makes Meta panic,” said another, in reference to the US tech giant that’s invested heavily in developing its own AI models.
+
+More than a dozen hashtags related to the cutting-edge technology were trending on Weibo early this week as DeepSeek surged to the top of international app store charts, surpassing American company OpenAI’s ChatGPT on Monday.
+
+DeepSeek founder Liang Wenfeng was also hailed as a tech visionary who could help China usher in a culture of innovation to rival that of Silicon Valley.
+
+The engineer-turned-entrepreneur, who rarely gives interviews, is known for hiring only domestic talent and keeping his AI models open source, allowing other companies or users to test and build upon the model.
+
+Liang, a co-founder of AI-oriented hedge fund High-Flyer Quant, founded DeepSeek in 2023. The startup’s newest model DeepSeek R1, unveiled on January 20, can nearly match the capabilities of its far more famous American rivals, including OpenAI’s GPT-4, Meta’s Llama and Google’s Gemini. However, it cost less than $6 million to build, the company claims – a fraction of the investment from those other firms.
+
+Famed tech investor Marc Andreessen hailed the model as a “Sputnik moment” and US President Donald Trump on Monday called the breakthrough a “wake-up call” for America in its rivalry with China. Technological dominance, especially in AI, has become a key battleground between the two powers, with the US in recent years limiting Chinese firms’ access to chips that could power rapid AI development.
+
+Analysts say that more information is needed to verify DeepSeek’s claims about its product’s pricetag and point out that the app operates within the stringent restrictions on speech and information imposed by the Chinese government. That means its AI assistant’s answers to questions on the Tiananmen Square massacre or Hong Kong’s pro-democracy protests will mirror Beijing’s line – or a response will be declined altogether.
+
+But for many in China, the success of the technology – and Liang’s vision and ethos for DeepSeek – mark a significant step forward for the country in a competitive international arena.
+
+“No matter how powerful the old guard is, they may be overturned overnight,” read one triumphant comment on Weibo with over a thousand likes.
+
+“(Liang’s) achievements … can be called a national destiny,” another read.
+
+CNN has reached out to Liang, DeepSeek and High-Flyer Quant for comment.
+
+‘Changing the rules of the game’
+
+Born in the 1980s as the son of a primary school teacher, Liang grew up in a small city in China’s southern province of Guangdong. He went on to study information and electronic engineering at Zhejiang University, a prestigious school in China’s eastern tech hub Hangzhou, according to Chinese state media.
+
+Early business associates interviewed by state-linked financial outlet Yicai in recent days remembered the future DeepSeek founder as a bit “nerdy” and recalled “a terrible haircut” he sported in the past.
+
+Liang talked about his idea of training large AI models and “changing the rules of the game,” but no one took him seriously, the outlet reported, without naming the early associates. Such feats were typically only deemed possible for China’s tech giants like ByteDance or Alibaba, it said.
+
+Liang co-founded his AI-oriented hedge fund High-Flyer Quant in 2015, less than decade after he finished his undergraduate studies, according to state media reports. The fund incorporates AI machine learning models into its operations, according to the company’s website.
+
+At the same time, the firm was amassing computing power into a basketball court–sized AI supercomputer, becoming among the top companies in China in terms of processing capabilities – and the only one that was not a major tech giant, according to state-linked outlet The Paper.
+
+In 2023, Liang founded DeepSeek, with a focus on advancing the field of general artificial intelligence – and, apparently, revamping China’s culture around innovation.
+
+“We often say there’s a one or two-year gap between China and the US, but the real gap is between originality and imitation. If this doesn’t change, China will always be a follower,” Liang said in a rare media interview with the finance and tech-focused Chinese media outlet 36Kr last July.
+
+The rise of DeepSeek roughly coincides with the wind-down of a heavy-handed state crackdown on the country’s tech giants by authorities seeking to re-assert control over a cohort of innovative private firms that had grown too powerful in the government’s eyes.
+
+But Beijing has also placed tremendous emphasis on cultivating technological prowess, with Chinese leaders vowing over the past year to boost self-reliance and strength in technology – especially in the face of mounting tech competition with the United States.
+
+Liang appeared to reference difficulties posed by US tech export controls – saying in the 36Kr interview last year that his company’s challenges have not been about money, but the embargo on “high-end chips.”
+
+But he also expressed optimism about China’s ability to compete in the future.
+
+“When society allows hardcore innovators to succeed, collective thinking will change. We just need more concrete examples and processes,” Liang told the outlet.
+
+‘We don’t do mediocre’
+
+The company, which has teams in Beijing and Hangzhou, has remained small, with just under 140 researchers and engineers, according to state media – a far cry from the large firms both in China and the US that have led the creation of AI models.
+
+DeepSeek’s employees have been recruited domestically, Liang said in the same interview last year, describing his team as fresh graduates and doctorate students from top Chinese universities.
+
+“The top 50 talents may not be in China, but maybe we can create such people ourselves,” he told 36Kr, noting that the work is divided “naturally” by who has what strengths. “Innovation first requires confidence. This confidence is usually more obvious in young people,” he added.
+
+Zihan Wang, a former DeepSeek employee now studying in the US, told MIT Technology Review in an interview published this month that the company offered “a luxury that few fresh graduates would get at any company” - access to abundant computing resources and the freedom to experiment.
+
+The whole team shared a “collaborative culture” around research, Wang said.
+
+Active recruitment ads on the DeepSeek website and major job seeking sites show the company hiring deep learning researchers, engineers, and user interface designers.
+
+Among them, the highest paid engineers’ positions are listed with a monthly salary range of up to 90,000 yuan ($12,400). By comparison, the higher end of the base pay for a Google software engineer is upwards of $29,000, according to tech industry salary insight platform levels.fyi.
+
+A post on DeepSeek’s official Wechat social media account declares that the company’s devotion is to “exploring the essence of AGI” or artificial general intelligence. “We don’t do mediocre things and answer the biggest questions with curiosity and a far-reaching vision,” the post added.

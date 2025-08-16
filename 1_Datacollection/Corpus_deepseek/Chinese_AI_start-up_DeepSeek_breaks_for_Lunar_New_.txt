@@ -1,0 +1,17 @@
+Chinese artificial intelligence (AI) start-up DeepSeek has gone quiet this week as it enters “holiday mode” for Lunar New Year while its recent technological developments continue to send shock waves through Wall Street and Silicon Valley, prompting reflections about current industry strategies and business models.
+
+Advertisement
+
+DeepSeek’s rapid rise in AI has attracted attention across the Pacific this week with comments from US President Donald Trump and OpenAI co-founder and CEO Sam Altman, after stocks related to the industry saw significant declines on Monday. The correction resulted in the largest single-day loss ever for semiconductor giant Nvidia
+
+Yet the Hangzhou-based start-up, including founder Liang Wenfeng and the firm’s young scientists, has shunned public attention as China entered its week-long Lunar New Year holiday. The company made its last update at midnight on Monday – the day before Lunar New Year’s Eve, a traditional festival for family reunions – with the launch of its first multimodal model, Janus-Pro. The 7 billion-parameter version of the image generation model outperformed OpenAI’s DALL-E 3 and Stability AI’s Stable Diffusion in benchmark tests, according to the company’s technical report.
+
+During a Tuesday morning visit to its headquarters in Hangzhou, capital of eastern Zhejiang province, the office building where DeepSeek occupies one floor was deserted. A security guard confirmed that no one had been at the office for the day because of the public holiday, but added that there had been many uninvited visitors in the past two days. They were all turned away, as some tried knocking at the door of what has become the hottest tech start-up in the country.
+
+US President Donald Trump speaks in the Roosevelt Room flanked by (left to right) Oracle executive chairman Larry Ellison, SoftBank chairman and CEO Masayoshi Son, and OpenAI co-founder and CEO Sam Altman at the White House on January 21. Photo: AFP
+
+Unlike other tech start-ups, which are often set up at tech parks, the high-rise that houses DeepSeek mainly hosts tenants from the finance industry. The listed address for High-Flyer Quant, the hedge fund owned by DeepSeek’s Liang, is in the same building.
+
+Advertisement
+
+One source who knows the firm told the Post that the company is so low profile that it does not have anyone handling public relations. Another person who is close to the firm said many of the company’s young employees are amazed to see how the world is responding to its cheap-but-high-performing AI models.

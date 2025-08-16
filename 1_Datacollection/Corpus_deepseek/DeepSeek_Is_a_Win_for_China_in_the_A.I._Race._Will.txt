@@ -1,0 +1,7 @@
+In 2017, China watched in awe — and shock — as AlphaGo, an artificial intelligence program backed by Google, defeated a Chinese prodigy at a complex board game, Go. The decisive loss to a foreign computer program, which had similarly trounced a South Korean player, was a sort of Sputnik moment for China.
+
+That year, Chinese officials laid out a bold plan to lead the world in A.I. by 2030, pledging billions to companies and researchers focused on the technology. From this fervor emerged DeepSeek, the largely unknown Chinese start-up that upended the technology landscape by creating a powerful A.I. model with far less money than experts had thought possible.
+
+DeepSeek is private, with no apparent state backing, but its success embodies the ambitions of China’s top leader, Xi Jinping, who has exhorted his country to “occupy the commanding heights” of technology. Mr. Xi wants the Chinese economy to be powered not by old growth engines like debt-fueled real estate and cheap exports, but by the most advanced technologies like A.I., supercomputing and green energy.
+
+For Mr. Xi, this moment helps dent the aura of superiority the United States has held in A.I., a critical field in a fierce superpower rivalry. China has cast itself as a benevolent global partner to developing countries, willing to share its know-how, with Mr. Xi saying that A.I. should not be a “game of rich countries and the wealthy.”

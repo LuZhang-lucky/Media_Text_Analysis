@@ -1,0 +1,15 @@
+Combined, they could spend roughly $100 billion more than last year on these projects.
+
+Executives urged patience. The problem right now, they said, is that customers want more A.I. than the companies can supply. And the only way they can meet demand is to build as much as they can as quickly as they can.
+
+“Whenever I see someone else do something better, I say, ‘Ugh, we should have done that,’” Mark Zuckerberg, Meta’s chief executive, told employees at a companywide meeting last week, according to a recording obtained by The New York Times. “Competition is good,” he added, “but we need to make sure that we win.”
+
+Here are some key points to understand this spend-happy moment for tech:
+
+Tech companies need more data centers than they have.
+
+Many of the companies say they’re constrained by the supply of chips, land and power needed to build data centers, and are racing to get more of them open. Microsoft, Alphabet and Amazon all said they could have had higher cloud computing sales if they had the capacity. Cloud services are the typical way A.I. is delivered to customers.
+
+Alphabet saw “demand that exceeds our available capacity,” Anat Ashkenazi, Alphabet’s finance chief, told investors. “So we’ll be working hard to address that and make sure we bring more capacity online.”
+
+Microsoft has been saying it has been constrained for a while, and previously told investors that the pressure would ease early this year. But last week, when it reported its latest earnings, executives told investors that it might take until summer to get enough capacity up and running to meet the full demand. Its stock fell about 5 percent in after-hours trading after the report.

@@ -1,0 +1,25 @@
+The Chinese AI platform DeepSeek has become unavailable for download from some app stores in Italy as regulators in Rome and in Ireland demanded answers from the company about its handling of citizens’ data.
+
+Amid growing concern on Wednesday about how data harvested by the new chatbot could be used by the Chinese government, the app disappeared from the Apple and Google app stores in Italy with customers seeing messages that said it was “currently not available in the country or area you are in” for Apple and the download “was not supported” for Google, Reuters reported.
+
+The Guardian confirmed it was not available in the Google app store, but it was available in the Apple store for at least one user. Both Google and Apple have been approached for comment.
+
+After the Chinese chatbot was released last week close to $1tn (£804m) was wiped off the leading US tech stock index. The UK government said on Tuesday it was up to citizens if they wanted to use the app, with officials in London monitoring any national security threat to data from the new AI platform and saying they would not hesitate to take action if threats emerged.
+
+The Italian regulator for the protection of personal data, known as the Garante, said it wanted to know what personal data is collected, from which sources, for what purposes, on what legal basis and whether it is stored in China. It gave DeepSeek and its affiliated companies 20 days to respond to its questions.
+
+“Our office will launch an in-depth investigation to see if GDPR rules [European Union data protection regulations] are being respected,” said the head of the Italian data regulator, Pasquale Stanzione, according to the Italian ANSA news agency.
+
+A spokesperson for the Irish Data Protection Commission in Dublin, meanwhile, told the Guardian it had also “written to DeepSeek requesting information on the data processing conducted in relation to data subjects in Ireland”.
+
+DeepSeek became the most downloaded free app in the Apple app store in the US and the UK after it emerged it could achieve comparable performance to competitors such as OpenAI’s ChatGPT at a fraction of the cost.
+
+The Chinese app’s privacy policy states personal information it collects from users is held “on secure servers located in the People’s Republic of China”. It says it uses data to “comply with our legal obligations, or as necessary to perform tasks in the public interest, or to protect the vital interests of our users and other people”.
+
+skip past newsletter promotion Sign up to TechScape Free weekly newsletter A weekly dive in to how technology is shaping our lives Enter your email address Sign up Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
+
+China’s national intelligence law states that all enterprises, organisations and citizens “shall support, assist and cooperate with national intelligence efforts”.
+
+In a further development, Open AI said it was “reviewing indications that DeepSeek may have inappropriately distilled our models”. Distilling is the process of condensing one large AI model into a smaller faster one.
+
+Open AI said: “We know that groups in the PRC are actively working to use methods, including what’s known as distillation, to try to replicate advanced US AI models. We take aggressive, proactive countermeasures to protect our technology and will continue working closely with the US government to protect the most capable models being built here.”

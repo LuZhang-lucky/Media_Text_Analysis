@@ -1,0 +1,13 @@
+What is DeepSeek?
+
+DeepSeek is a start-up founded and owned by the Chinese stock trading firm High-Flyer. Its goal is to build A.I. technologies along the lines of OpenAI’s ChatGPT chatbot or Google’s Gemini. By 2021, DeepSeek had acquired thousands of computer chips from the U.S. chipmaker Nvidia, which are a fundamental part of any effort to create powerful A.I. systems.
+
+In China, the start-up is known for grabbing young and talented A.I. researchers from top universities, promising high salaries and an opportunity to work on cutting-edge research projects. Both High-Flyer and DeepSeek are run by Liang Wenfeng, a Chinese entrepreneur.
+
+Over the past few years, DeepSeek has released several large language models, which is the kind of technology that underpins chatbots like ChatGPT and Gemini. On Jan. 10, it released its first free chatbot app, which was based on a new model called DeepSeek-V3.
+
+Why did the stock market react to it now?
+
+When DeepSeek introduced its DeepSeek-V3 model the day after Christmas, it matched the abilities of the best chatbots from U.S. companies like OpenAI and Google. That alone would have been impressive.
+
+But the team behind the new system also revealed a bigger step forward. In a research paper explaining how it built the technology, DeepSeek said it used only a fraction of the computer chips that leading A.I. companies relied on to train their systems.

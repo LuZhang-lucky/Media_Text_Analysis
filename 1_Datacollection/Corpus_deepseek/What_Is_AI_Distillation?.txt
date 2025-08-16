@@ -1,0 +1,19 @@
+This is Atlantic Intelligence, a newsletter in which our writers help you wrap your mind around artificial intelligence and a new machine age. Sign up here.
+
+OpenAI has said that it believes that DeepSeek, the Chinese start-up behind the shockingly powerful AI model that launched last month, may have ripped off its technology. The irony is rich: We’ve known for some time that generative AI tends to be built on stolen media—books, movie subtitles, visual art. The companies behind the technology don’t seem to care much about the creatives who produced that training data in the first place; Sam Altman said early last year that it would be “impossible” to make powerful AI tools without copyrighted material, and that he feels the law is on his side.
+
+If DeepSeek did indeed rip off OpenAI, it would have done so through a process called “distillation.” As Michael Schuman explained in an article for The Atlantic this week, “In essence, the firm allegedly bombarded ChatGPT with questions, tracked the answers, and used those results to train its own models. When asked ‘What model are you?’ DeepSeek’s recently released chatbot at first answered ‘ChatGPT’ (but it no longer seems to share that highly suspicious response).” In other words, DeepSeek is impressive—about as capable as other cutting-edge models, and developed at a much lower cost—but it may be so only because it was effectively built on top of existing work. (DeepSeek did not respond to Schuman’s request for comment.)
+
+“What DeepSeek is accused of doing is nothing like hacking, but it’s still a violation of OpenAI’s terms of service,” Schuman writes. “And if DeepSeek did indeed do this, it helped the firm to create a competitive AI model at a much lower cost than OpenAI.” (The Atlantic recently entered into a corporate partnership with OpenAI.) Whether or not DeepSeek distilled OpenAI’s technology, others will likely find a way to do the same thing. We may be approaching the era of the AI copycat. For a time, it took immense wealth—not to mention energy—to train powerful new AI models. That may no longer be the case.
+
+Illustration by The Atlantic
+
+DeepSeek and the Truth About Chinese Tech
+
+By Michael Schuman
+
+When the upstart Chinese firm DeepSeek revealed its latest AI model in January, Silicon Valley was impressed. The engineers had used fewer chips, and less money, than most in the industry thought possible. Wall Street panicked and tech stocks dropped. Washington worried that it was losing ground in a vital strategic sector. Beijing and its supporters concurred: “DeepSeek has shaken the myth of the invincibility of U.S. high technology,” one nationalist commentator, Hu Xijin, crowed on Chinese social media. Then, however, OpenAI, which operates ChatGPT, revealed that it was investigating DeepSeek for having allegedly trained its chatbot using ChatGPT. China’s Silicon Valley–slayer may have mooched off Silicon Valley after all.
+
+Read the full article.
+
+What to Read Next

@@ -1,0 +1,11 @@
+Last month, U.S. financial markets tumbled after a Chinese start-up called DeepSeek said it had built one of the world’s most powerful artificial intelligence systems using far fewer computer chips than many experts thought possible.
+
+A.I. companies typically train their chatbots using supercomputers packed with 16,000 specialized chips or more. But DeepSeek said it needed only about 2,000.
+
+As DeepSeek engineers detailed in a research paper published just after Christmas, the start-up used several technological tricks to significantly reduce the cost of building its system. Its engineers needed only about $6 million in raw computing power, roughly one-tenth of what Meta spent in building its latest A.I. technology.
+
+What exactly did DeepSeek do? Here is a guide.
+
+How are A.I. technologies built?
+
+The leading A.I. technologies are based on what scientists call neural networks, mathematical systems that learn their skills by analyzing enormous amounts of data.

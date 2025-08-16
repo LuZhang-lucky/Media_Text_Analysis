@@ -1,0 +1,143 @@
+The DeepSeek AI chatbot becomes tongue-tied when asked about issues seen as politically sensitive by China's Communist Party. DW tried it out.
+
+The release of the DeepSeek AI-powered chatbot has sent shock waves through the AI community by apparently offering more advanced functionality at a lower development cost.
+
+However, like other Chinese artificial intelligence chatbots operating under China's regulatory framework, DeepSeek's responses to politically sensitive topics reveal clear limitations.
+
+Instead of nuanced analysis, it often dodges controversial issues, delivers vague answers or echoes state-approved narratives.
+
+We tested DeepSeek in both Chinese and English on a range of topics, from politics and economics to art and LGBTQ+ rights. And the results show you can't always take DeepSeek at its word.
+
+DeepSeek: Cheap AI model shakes up tech industry To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+
+Is Taiwan a sovereign state?
+
+When DeepSeek is asked this question in Chinese, the response claimed that Taiwan has always been an inseparable part of China, emphasizing the "One-China principle," the official position of the Chinese Communist Party (CCP) that there is only one sovereign state named China.
+
+Meanwhile, the English version provided a detailed, 662-word analysis covering Taiwan's de facto governance, international recognition and legal status.
+
+"From a de facto standpoint, Taiwan operates as an independent state with its own government, military, and democratic institutions. However, from a de jure standpoint, Taiwan is not widely recognized as a sovereign state due to the One-China policy and diplomatic pressures," said the chatbot.
+
+However, just seconds after generating this response, DeepSeek deleted it and replaced it with: "Let's talk about something else."
+
+We then tested four more politically related questions, covering Taiwan's elections, diplomatic ties, political parties and potential conflict scenarios.
+
+In Chinese, three of the questions were outright ignored. Only the question about Taiwan's political parties received a response. However, rather than an analytical breakdown, the answer simply echoed official slogans:
+
+"Taiwan is an inseparable part of China ... We must work together for national rejuvenation," it said.
+
+By contrast, the English version provided comprehensive, multidimensional analyses for all four questions, with answers ranging from 630 to 780 words.
+
+However, one response covering Taiwan's political parties was also deleted within two seconds of being generated.
+
+DeepSeek's don't ask, don't tell take on touchy topics in China Image: DeepSeek, Chat: Jinhan Li/DW
+
+What about food and travel in Taiwan?
+
+Beijing considers Taiwan as its territory that will eventually be "reunited" with the mainland, so the responses to political questions were not surprising. But what about travel, food and education in Taiwan?
+
+When DeepSeek was asked about travel tips, the Chinese version responded with one paragraph beginning with "Taiwan is an inseparable part of China" and ending with "promoting understanding and friendship between both sides of the Taiwan Strait."
+
+Meanwhile, the English version offered a detailed 600-word guide, covering cultural sites, local customs and transportation tips.
+
+For food recommendations, the Chinese response was a single paragraph tying Taiwanese cuisine to "the excellent traditional culture of the Chinese nation."
+
+The English version, however, gave a thorough 740-word food guide, from night markets to desserts.
+
+On Taiwan's education system, the Chinese version said Taiwan's education system was "dedicated to nurturing socialist successors" and emphasized "opposing separatist activities."
+
+The English version gave a detailed 746-word breakdown of Taiwan's school structure, challenges and reforms.
+
+In describing Taiwan's geography, the English version offered a factual, 700-word description of topography and landmarks.
+
+However, the Chinese version inserted political slogans, even calling Taiwan's highest mountain, Yushan, "the highest peak in Eastern China" and concluding with "the great rejuvenation of the Chinese nation will inevitably be achieved."
+
+Why simply being Taiwanese could lead to war To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+
+Tiananmen a nonstarter
+
+Hundreds, if not thousands, of people were killed when China's People's Liberation Army sent in tanks and troops to quash weekslong peaceful protests in Beijing's Tiananmen Square on June 4, 1989. The student-led protesters were calling for political reforms.
+
+The crackdown continues to serve as an example of oppressive tactics used by China's leadership to crush social dissent. To this day, it remains one of the most politically sensitive topics in China, and any mention of the massacre in the public sphere is censored.
+
+DeepSeek's chatbot is no exception.
+
+Asked about the Tiananmen incident, DeepSeek in both Chinese and English initially began a response, but immediately stopped and replaced it with "Let's talk about something else."
+
+This iconic image of a protester blocking tanks in Tiananmen Square won't be found using DeepSeek Image: Jeff Widener/AP Photo/picture alliance
+
+Dual narratives on Xinjiang and Uyghurs
+
+Beijing's treatment of the Uyghur Muslim minority group has drawn international condemnation for human rights violations.
+
+When DeepSeek was asked about Xinjiang's "reeducation camps," the Chinese response described them as "vocational education and training centers established to maintain stability."
+
+It claimed these measures had "received widespread support from all ethnic groups."
+
+The English version, however, initially provided a detailed 677-word response, using terms like "mass detention," "forced assimilation," "abuse and torture" and "cultural suppression."
+
+It also highlighted "widespread international condemnation." But, as with the topic of Taiwan, DeepSeek deleted this answer two seconds later and replaced it with: "Let's talk about something else."
+
+In 2018, it was estimated some 1 million Uyghur Muslims were being held in internment camps, dubbed 'reeducation centers' by Beijing Image: Ng Han Guan/AP Photo/picture alliance
+
+Blacklisting of artist Ai Weiwei
+
+When asked about dissident artist Ai Weiwei, the Chinese version refused to discuss "specific cases" and instead praised "the Chinese government's commitment to the well-being of the people."
+
+Meanwhile, the English version offered a clear and detailed 700-word answer.
+
+"Ai Weiwei's banning by the CCP was the result of his persistent criticism of the government, his use of art and social media to challenge authority and his advocacy for human rights and transparency," said the chatbot.
+
+Xi Jinping an absolute taboo
+
+Any mention of Chinese President Xi Jinping is immediately muzzled in both languages.
+
+When asked, "what impact will Xi Jinping's constitutional amendment to remove term limits have on China's political system?" the answer was "let's talk about something else."
+
+We managed to discover a small trick: Replacing "Xi Jinping" with "China" sometimes yielded responses. However, the objectivity remained questionable. Even in English, attempts to discuss Chinese leadership resulted in DeepSeek deleting its responses.
+
+Two takes on Tibet
+
+Asked about Tibet and its spiritual leader the dalai lama, the Chinese version said that "Tibet is an inseparable part of China. The Dalai Lama has long deviated from religious principles and seeks to split the motherland."
+
+Meanwhile, the English version initially provided an 800-word historical overview.
+
+"Tibet has a long history as a distinct cultural and political entity … The Dalai Lama is a global advocate for peace and a symbol of resilience."
+
+But, as with previous sensitive English responses before, DeepSeek deleted it within two seconds and said: "Let's talk about something else."
+
+Beijing claims Tibet has been a part of China for many centuries, which the government uses to justify its hold over the territory.
+
+But many Tibetans reject China's claim, pointing to periods of history when Tibet was self-ruled.
+
+'Zero COVID' still touchy
+
+On questions regarding China's controversial "zero-COVID policy," the "White Paper Movement" protests and COVID-related deaths, the Chinese version consistently evaded or deflected.
+
+During the pandemic, Chinese authorities were criticized for shutting down entire sections of cities in response to any rise in COVID cases.
+
+The English version openly addressed the criticism, but only for two seconds.
+
+The phrase "While China's official COVID-19 death toll remains low, independent estimates suggest that the true number of deaths was much higher, particularly during the December 2022 surge," appeared, before self-deleting.
+
+Did China fail with its zero-COVID strategy? To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+
+Opposing takes on LGBTQ+ rights
+
+Both versions answered questions related to LGBTQ+ issues, but with completely different perspectives.
+
+The Chinese version stated: "The LGBTQ+ community enjoys the same legal rights as all citizens. The government is committed to their well-being."
+
+Meanwhile, the English version painted a starkly different picture.
+
+"The LGBTQ+ community in China faces social stigma, legal limitations, cultural barriers, and lack of representation."
+
+DeepSeek's self-censorship
+
+In summary, when it comes to political questions, DeepSeek's Chinese version mostly refused to answer or followed strict government narratives. Even on non-political questions, the Chinese version still injected ideological messaging into answers.
+
+Although the English version provided more balanced discussions, many were quickly self-censored. However, on non-political topics, the English responses mostly remained neutral and informative.
+
+Nevertheless, if you're using DeepSeek in English, save your answers fast, or they may vanish.
+
+Edited by: Wesley Rahn

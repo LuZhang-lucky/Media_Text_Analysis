@@ -1,0 +1,35 @@
+Nothing cheers up a tech columnist more than the sight of $600bn being wiped off the market cap of an overvalued tech giant in a single day. And yet last Monday that’s what happened to Nvidia, the leading maker of electronic picks and shovels for the AI gold rush. It was the biggest one-day slump for any company in history, and it was not alone – shares of companies in semiconductor, power and infrastructure industries exposed to AI collectively shed more than $1tn in value on the same day.
+
+The proximate cause of this chaos was the news that a Chinese tech startup of whom few had hitherto heard had released DeepSeek R1, a powerful AI assistant that was much cheaper to train and operate than the dominant models of the US tech giants – and yet was comparable in competence to OpenAI’s o1 “reasoning” model. Just to illustrate the difference: R1 was said to have cost only $5.58m to build, which is small change compared with the billions that OpenAI and co have spent on their models; and R1 is about 15 times more efficient (in terms of resource use) than anything comparable made by Meta.
+
+The DeepSeek app immediately zoomed to the top of the Apple app store, where it attracted huge numbers of users who were clearly unfazed by the fact that the terms and conditions and the privacy policy they needed to accept were in Chinese. And it clearly energised the Silicon Valley crowd. “DeepSeek R1,” boomed venture capitalist Marc Andreessen, one of the loudest mouths in California, “is AI’s Sputnik moment”. He also called it “one of the most amazing and impressive breakthroughs I’ve ever seen – and as open source, a profound gift to the world”. Donald Trump, who does not believe in giving gifts to the world, described R1 as a “wake-up call” for American tech firms.
+
+What the advent of DeepSeek indicates is that this technology – like all digital technology – will eventually be commoditised
+
+Historical resonances were rife. Andreessen was referring to the seminal moment in 1957 when the Soviet Union launched the first Earth satellite, thereby displaying technological superiority over the US – a shock that triggered the creation of Nasa and, ultimately, the internet. Other people were reminded of the advent of the “personal computer” and the ridicule heaped upon it by the then giants of the computing world, led by IBM and other purveyors of huge mainframe computers. Suddenly, people are beginning to wonder if DeepSeek and its offspring will do to the trillion-dollar AI behemoths of Google, Microsoft, OpenAI et al what the PC did to IBM and its ilk. And of course there are the conspiracy theorists wondering whether DeepSeek is really just a disruptive stunt dreamed up by Xi Jinping to unhinge the US tech industry. Is the model really that cheap to train? Can we believe the numbers in the technical reports published by its makers? And so on.
+
+Standing back, there are four things to take away from the arrival of DeepSeek.
+
+The first is that China has caught up with the leading US AI labs, despite the widespread (and hubristic) western assumption that the Chinese are not as good at software as we are. Even a cursory examination of some of the technical details of R1 and the V3 model that lay behind it evinces formidable technical ingenuity and creativity.
+
+Second, the low training and inference costs of R1 will turbocharge American anxiety that the emergence of powerful – and cheap – Chinese AI could upend the economics of the industry, much as the advent of the PC transformed the computing marketplace in the 1980s and 90s. What the advent of DeepSeek indicates is that this technology – like all digital technology – will eventually be commoditised. R1 runs on my laptop without any interaction with the cloud, for example, and soon models like it will run on our phones.
+
+Third, DeepSeek pulled this off despite the ferocious technology bans imposed by the first Trump administration and then by Biden’s. The company’s technical report shows that it possesses a cluster of 2,048 Nvidia H800 GPUs – technology officially banned by the US government for sale to China.
+
+And last, but by no means least, R1 seems to be a genuinely open source model. It’s distributed under the permissive MIT licence, which allows anyone to use, modify, and commercialise the model without restrictions. As I write this, my hunch is that geeks across the world are already tinkering with, and adapting, R1 for their own particular needs and purposes, in the process creating applications that even the makers of the model couldn’t have envisaged. It goes without saying that this has its upsides and downsides, but it’s happening. The AI genie is now really out of the bottle.
+
+What I’ve been reading
+
+When Trump meets tech
+
+A really sobering analysis by William Cullerne Bown of what the new regime in Washington means for the UK and Europe.
+
+
+
+A dystopia like Philip K Dick’s
+
+An essay explaining why Henry Farrell thinks that our future might be like something written by the great author.
+
+Life is more than an engineering problem
+
+A transcript of an interesting interview with sci-fi writer Ted Chiang in the LA Review of Books.

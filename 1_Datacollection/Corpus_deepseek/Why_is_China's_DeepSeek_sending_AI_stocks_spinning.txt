@@ -1,0 +1,79 @@
+Tech stocks, especially those linked to artificial intelligence plunged on Monday due to speculation around the possible impact of a breakthrough made by Chinese startup DeepSeek.
+
+Tech stocks plunged on Monday after claims of advances by Chinese artificial intelligence (AI) startup DeepSeek cast doubts on United States firms' ability to cash in on the billions they have already invested on AI.
+
+Shares in chipmaker Nvidia, Microsoft and Meta all fell in early trading, with the tech-heavy Nasdaq also taking a serious tumble.
+
+The fall is tied to DeepSeek's recent release of its latest large language AI model, which claims to match the performance of leading US rivals such as OpenAI despite spending far less money and using far fewer Nvidia chips.
+
+The company explained in a detailed paper on January 20 how it had built the cutting-edge model on a budget which is a tiny fraction of what US AI firms might expect to pay to make the same gains.
+
+The claims have raised doubts among investors about the ongoing AI boom in Silicon Valley, which has seen company valuations soar over the past two years on the back of expectations around the growth potential of AI.
+
+Meanwhile DeepSeek's AI Assistant app, which was released on January 10, on Monday overtook rival ChatGPT to become the top-rated free application on Apple's App Store.
+
+DeepSeek's deep impact
+
+DeepSeek's growing popularity, and its detailed explanation for how it developed its model, has stunned the artificial intelligence community and sent a market already known for volatility into a further tailspin.
+
+The news on DeepSeek saw Nvidia and Microsoft shares plunge Image: VCG/MAXPPP/- und Matthias Balkdpa/picture alliance,
+
+Tech stocks tied to artificial intelligence have been prone to dramatic rises and falls over the past year and analysts say there was no doubt the latest turbulence was tied to DeepSeek.
+
+DeepSeek's success since launching and its claims about how it developed its latest model, known as R1, are challenging fundamental assumptions about the development of large-scale AI language and reasoning models.
+
+It also points to the fact that China is increasingly able to compete with the US on AI.
+
+Angela Zhang, professor of law at the University of Southern California and the author of "High Wire: How China Regulates Big Tech and Governs Its Economy," told DW that DeepSeek is the "frontrunner" in China, and that the country on the whole is rapidly catching up with the US on AI.
+
+"There are at least four Chinese firms that claim to have trained AI models that closely rival the competitors in Silicon Valley," she said. "This is just not a one-off phenomenon. It's actually just one example of the whole AI industry in China."
+
+Genuine success but doubts remain
+
+Richard Windsor, a tech analyst and the founder of research company Radio Free Mobile, told DW that there was no doubt that DeepSeek's model was as advanced as the claims suggest.
+
+"It's real. If they had not released it completely into the open source, then you would have way more doubts on the performance. But they have released it and it can be measured against existing benchmarks."
+
+When OpenAI released its latest model last December, it did not give technical details about how it had developed it. DeepSeek has however revealed detailed methods behind how it is developing an AI model capable of reasoning and learning itself, without human supervision.
+
+DeepSeek appears to have caught up with rivals such as ChatGPT Image: Jaap Arriens/NurPhoto/picture alliance
+
+Then there is the fact that DeepSeek has achieved the apparent breakthrough despite Washington banning Nvidia from sending its most advanced chips to China. DeepSeek says it developed its model using Nvidia H800 chips and not the most advanced chips, but that claim has been disputed by some in the sector.
+
+Zhang says that while export restrictions meant Chinese firms did have to go through a "very difficult time," they have also "incentivized innovation" in AI in the country.
+
+Where Richard Windsor has doubts is around DeepSeek's claim on what it cost them to develop the model. DeepSeek claimed it used just over 2,000 Nvidia H800 chips and spent just $5.6 million (€5.24 million) to train a model with more than 600 billion parameters.
+
+"That's what all the fuss is about," said Windsor. "It's more than 95% cheaper than OpenAI does it."
+
+He added that he is "dubious" about the $5.6 million figure as it's not clear what help the company had from the Chinese government to keep costs low, whether that be on electricity, salaries or the large computing costs associated with training AI models.
+
+He also believes the fact that the data release happened on the same day as Donald Trump's inauguration as US President suggests a degree of political motivation on the part of the Chinese government.
+
+Liang Wenfeng, the man behind DeepSeek, has already become something of a national hero in China. Last week he was the only AI boss invited to join other entrepreneurs in a high-profile meeting with Chinese Premier Li Qiang.
+
+Seeking a deeper impact?
+
+DeepSeek is a small Chinese artificial intelligence lab which was developed as a research offshoot of a hedge fund known as High-Flyer. High-Flyer was set up by Liang in 2016.
+
+Why does AI need so much energy? To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+
+His interest in AI led to him focusing on research into AI algorithms, eventually establishing an AI research lab called High-Flyer AI and then rebranding it as DeepSeek in 2023.
+
+Angela Zhang says a key part of DeepSeek's success is the fact that its founder does not appear to be "commercially driven."
+
+"DeepSeek shows the capability of Chinese AI firms, but also shows that in China's innovation ecosystem, in certain circumstances, when you have an excellent team that is led by somebody who has great vision, you can actually see this immense innovative capability coming out from a Chinese team," she said.
+
+There has also been speculation about the extent of the company's ties with the Chinese Communist Party, but Zhang is not convinced.
+
+"True innovative capability actually come from the dynamic private sector in China, not from the state sector," she says. "Whenever you see the state fund something, it's like I'm almost betting it's going to fail. But that said, DeepSeek is now on the radar of the Chinese government, given its immense, incredible success."
+
+DeepSeek is now outperforming ChatGPT on the Apple App Store Image: CFOTO/picture alliance
+
+The company's stunning impact on Silicon Valley in recent weeks suggests it may be an global AI giant in the making. However, Windsor says there is a lot of uncertainty over how DeepSeek's breakthrough will impact the wider market.
+
+He says firms will now try to replicate what DeepSeek has done using the methods it has outlined. If they succeed, it could mean it becomes much cheaper to train AI systems. "The question then is if the amount of AI trained suddenly increases massively because it's now much cheaper to train, or has everyone overstated the requirement for data centers?"
+
+It all points to further upheaval for investors in a sector which has become defined by uncertainty.
+
+Edited by: Uwe Hessler

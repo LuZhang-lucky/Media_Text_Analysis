@@ -1,0 +1,31 @@
+OpenAI has warned that Chinese startups are “constantly” using its technology to develop competing products and said it is “reviewing” allegations that DeepSeek used the ChatGPT maker’s AI models to create a rival chatbot.
+
+OpenAI and its partner Microsoft – which has invested $13bn in the San Francisco-based AI developer – have been investigating whether proprietary technology had been obtained in an unauthorised manner through a technique known as “distillation”.
+
+The launch of DeepSeek’s latest chatbot sent markets into a spin on Monday after it topped Apple’s free app store, wiping $1trn from the market value of AI-linked US tech stocks. The impact came from its claim that the model underpinning its AI was trained with a fraction of the cost and hardware used by rivals such as OpenAI and Google.
+
+Sam Altman, the chief executive of OpenAI, initially said that he was impressed with DeepSeek and that it was “legitimately invigorating to have a new competitor”.
+
+However, on Wednesday OpenAI said that it had seen some evidence of “distillation” from Chinese companies, referring to a development technique that boosts the performance of smaller models by using larger, more advanced ones to achieve similar results on specific tasks.
+
+A spokesperson for OpenAI said: “We know that groups in [China] are actively working to use methods, including what’s known as distillation, to try to replicate advanced US AI models.
+
+“We are aware of and reviewing indications that DeepSeek may have inappropriately distilled our models, and will share information as we know more. We take aggressive, proactive countermeasures to protect our technology and will continue working closely with the US government to protect the most capable models being built here.”
+
+OpenAI, which has itself been accused of using data without permission or a licence from publishers and the creative industry to train its own models, has already blocked unnamed entities from attempting to distill its models.
+
+View image in fullscreen The launch of DeepSeek was a ‘wake-up call’ for Silicon Valley, Donald Trump said earlier this week. Photograph: Lionel Bonaventure/AFP/Getty Images
+
+On Tuesday, David Sacks, Donald Trump’s AI and crypto tsar, told Fox News that he thought it was “possible” that intellectual property theft had occurred.
+
+“There’s substantial evidence that what DeepSeek did here is they distilled the knowledge out of OpenAI’s models,” he said. “I think one of the things you’re going to see over the next few months is our leading AI companies taking steps to try and prevent distillation. That would definitely slow down some of these copycat models.”
+
+skip past newsletter promotion Sign up to Business Today Free daily newsletter Get set for the working day – we'll point you to all the business news and analysis you need every morning Enter your email address Sign up Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
+
+The US navy has reportedly already banned its members from using DeepSeek’s apps due to “potential security and ethical concerns”.
+
+The White House press secretary, Karoline Leavitt, said the US national security council was looking into the potential implications the AI app posed.
+
+Earlier this week, Trump called the launch of DeepSeek a “wake-up call” for Silicon Valley in the global race to dominate artificial intelligence.
+
+The investigation by OpenAI and Microsoft into possible distillation was first reported by Bloomberg. Microsoft declined to comment.

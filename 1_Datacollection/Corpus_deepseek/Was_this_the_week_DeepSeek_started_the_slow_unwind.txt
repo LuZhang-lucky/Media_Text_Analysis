@@ -1,0 +1,57 @@
+At 2.16pm California time last Sunday, the US billionaire tech investor Marc Andreessen called it. “DeepSeek R1 is AI’s Sputnik moment,” he posted on X.
+
+A Chinese startup, operating since 2023 and helmed by a millennial mathematician, had unveiled a new chatbot that seemed to equal the performance of America’s leading models at a fraction of the cost.
+
+Never mind that its answers on everything from the status of Taiwan to the 1989 Tiananmen Square massacre were curbed by Chinese Communist party (CCP) censors. To Andreessen, a veteran of decades of technology booms and busts, it was like the Soviet Union getting the first satellite into orbit in 1957 and shocking America.
+
+The next day, shares in several of the world’s biggest companies plunged – including the biggest fall in US market history for microchip maker Nvidia, which lost nearly $600bn. Investors believed DeepSeek’s achievement meant China would no longer need so many American chips; that US supremacy in AI was under threat or already over; and that the Silicon Valley giants, who had only a week earlier announced a $500bn AI investment plan, were spending much more money than they needed. The Chinese AI lab said the training cost for one of its base models had been just $5.6m.
+
+In the biggest week for AI since the launch of ChatGPT in November 2022, DeepSeek’s app, with its jaunty blue whale logo, became the most downloaded free app on Apple’s app stores in the US and UK as people rushed to find out what it was about.
+
+But was the world’s largest autocratic nation about to leapfrog the west in AI? What might it mean for control of a technology that many fear could be pressed into malicious use in cyber-attacks, the production of biological weapons and thought control? And given AI is widely considered to now be one of the main playing fields of geopolitical competition, where did this leave US hopes of maintaining supremacy by suppressing China’s progress with export bans on microchips that are key to progress?
+
+Tremors had been rumbling out of DeepSeek’s laboratory in Hangzhou, outside Shanghai, for a while. Some experts had been quietly impressed by the developments overseen by DeepSeek’s boss, Liang Wenfeng, a 40-year-old hedge fund entrepreneur. But it wasn’t until last Wednesday that a proper earthquake hit. The firm published a 22-page paper unveiling the DeepSeek R1 model, boasting of “powerful and intriguing reasoning behaviours” and saying it is comparable to Open AI’s 01 model, and even better in some areas.
+
+Liang was said to be on holiday as his team’s creation upended not just markets, but also the geopolitical calculus between the US and China
+
+While Google, Meta and OpenAI typically swaddle their new releases in marketing hype, DeepSeek’s matter-of-fact approach was clear from the soporific title of its announcement: “Incentivizing Reasoning Capability in LLMs via Reinforcement Learning”.
+
+The model was free to use and it seemed pioneering in the way it was engineered to be more efficient than ChatGPT-o1, OpenAI’s $20-a-month reasoning model. It used less computing power as it had been engineered only to activate the relevant part of the system to answer the query. Performance that cost other companies billions seemed to be available for millions.
+
+In response, OpenAI announced the launch of a new reasoning model, o3-Mini, on Friday that will be made available to all users, including people on ChatGPT’s free tier.
+
+Liang was said to be on holiday for lunar new year as his team’s creation upended not just markets, but also the geopolitical calculus between the US and China as they vie for supremacy in AI with all its economic, political and military potentials. Around the world, experts tried to make sense of how the Chinese had made necessity the mother of invention and found a way around a shortage of chips.
+
+Jimmy Goodrich, an adviser on technology to the Rand Corporation, told Reuters: “It’s been long known that DeepSeek has a really good team, and if they had access to even more compute, God knows how capable they would be.”
+
+“I confess I hadn’t heard of them,” said Michael Wooldridge, a professor of the foundations of AI at the University of Oxford. “[They] appear to have built something which is as capable as a GPT class model, not necessarily better, with something like a hundredth of the resources.”
+
+By midweek, DeepSeek had disappeared from app stores in Italy after the data protection regulator demanded reassurances
+
+He says the development “pulls the rug out from under Nvidia”, meaning a far greater number of developers can build AI models, making it a “much more accessible technology”.
+
+Mike Gualtieri, a principal analyst at Forrester Research, says that accessibility will widen the number of startups that can create their own AI models. But also, the bigger US tech players, with their considerable data processing firepower, could accelerate their own development.
+
+“The companies that already have a lot of chips, or access to them – the OpenAIs and the Googles – once they apply these [DeepSeek] techniques, they can experiment more rapidly,” he said.
+
+In London, hopes and fears were in conflict. The technology secretary, Peter Kyle, said he would not download the Chinese app, surely aware that anything he typed in or uploaded would be stored in China and that all Chinese firms are obliged under the national intelligence law to “support, assist and cooperate” with intelligence efforts.
+
+But, as a minister tasked with using AI to deliver economic growth, he was “really excited” by the breakthrough. It seemed to show that skills, rather than brute-force computing power funded by hundreds of billions of dollars, were more important than previously thought in making significant AI breakthroughs – good news for the research-heavy UK tech economy.
+
+By midweek, DeepSeek had disappeared from app stores for Google and Apple devices in Italy after the data protection regulator demanded reassurances about what personal data is collected. The Dublin Data Protection Commission also demanded from DeepSeek explanations about its “data processing conducted in relation to data subjects in Ireland”.
+
+When it ruminated on how “in China, the primary threat is the state itself”, the whole screed of “thinking” was deleted
+
+In the US, where Donald Trump signed an executive order to “solidify [the US] position as the leader in AI”, the arrival of DeepSeek was like a needle scratching across a record. Trump called it a “wake-up call for our industries that we need to be laser-focused on competing to win”. Or as one X user parsed his message: “Get back in the code mines.”
+
+It didn’t take long for suspicions to take hold. David Sacks, the White House AI adviser, said: “There’s substantial evidence that what DeepSeek did here is they distilled knowledge out of OpenAI models, and I don’t think OpenAI is very happy about this.”
+
+OpenAI’s founder, Sam Altman, said he thought it was “legit invigorating to have a new competitor”. But then, a day later, his company said it was “reviewing indications that DeepSeek may have inappropriately distilled our models”.
+
+It also became apparent that DeepSeek would censor itself in real time when its answers might be politically embarrassing or challenging for the CCP. In Brazil, one user showed how DeepSeek began thinking about a question about free speech in China by wondering whether to include issues like Beijing’s crackdown on protests in Hong Kong; the “persecution of human rights lawyers”; the “censorship of discussions on Xianjiang re-education camps”; and China’s “social credit system punishing dissenters”.
+
+Then, when it ruminated on how “in China, the primary threat is the state itself which actively suppresses dissent”, the whole screed of “thinking” was deleted and DeepSeek apologetically asked the user if he wouldn’t mind talking about maths or logic problems instead.
+
+Users could see what the chatbot really thought and the effect of the CCP on free speech; to see it all in action was unintentionally subversive.
+
+It was another week in which the strange world of AI got stranger and the stakes rose higher.

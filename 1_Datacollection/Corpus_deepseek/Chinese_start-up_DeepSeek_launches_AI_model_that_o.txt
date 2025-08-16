@@ -1,0 +1,13 @@
+Advertisement
+
+The Hangzhou -based company said in a WeChat post on Thursday that its namesake LLM, DeepSeek V3, comes with 671 billion parameters and trained in around two months at a cost of US$5.58 million, using significantly fewer computing resources than models developed by bigger tech firms.
+
+LLM refers to the technology underpinning generative AI services such as ChatGPT. In AI, a high number of parameters is pivotal in enabling an LLM to adapt to more complex data patterns and make precise predictions.
+
+Reacting to the Chinese start-up’s technical report on its new AI model, computer scientist Andrej Karpathy – a founding team member at OpenAI – said in a post on social-media platform X : “DeepSeek making it look easy … with an open weights release of a frontier-grade LLM trained on a joke of a budget.”
+
+Open weights refers to releasing only the pretrained parameters, or weights, of an AI model, which allows a third party to use the model for inference and fine-tuning only. The model’s training code, original data set, architecture details and training methodology are not provided.
+
+The chatbot icons of DeepSeek and OpenAI’s ChatGPT are displayed on a smartphone screen. Photo: Shutterstock
+
+DeepSeek’s development of a powerful LLM – at a fraction of the capital outlay that bigger companies like Meta and OpenAI typically invest – shows how far Chinese AI firms have progressed, despite US sanctions that have blocked their access to advanced semiconductors used for training models.

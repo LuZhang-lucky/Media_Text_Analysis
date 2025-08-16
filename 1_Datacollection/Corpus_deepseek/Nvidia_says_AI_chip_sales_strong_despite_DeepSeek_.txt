@@ -1,0 +1,27 @@
+Nvidia says AI chip sales strong despite DeepSeek fears
+
+But DeepSeek said it had trained its chatbot using less advanced, and less expensive chips.
+
+Nvidia has seen a surge of demand, as big tech companies turn to the firm for chips that can handle the large amounts of data used to train AI models.
+
+Sales of the firm's chips hit more than $39bn (£30.7bn) over the three months ended 27 January, up 74% year-on-year.
+
+Nvidia, the chip giant at the heart of the artificial intelligence (AI) boom, said its business remained strong, despite fears of a bubble stirred by the emergence of Chinese AI firm DeepSeek last month.
+
+Its launch prompted a sharp sell-off in Nvidia shares earlier this month, a hit felt throughout the market.
+
+Investors calmed after big companies such as Facebook owner Meta said they expected to continue their current AI investment strategies.
+
+Nvidia boss Jensen Huang said he was not worried that demand would suddenly shift, saying that software in the future would be created by machine learning that needs chips with different architecture than the "hand-coding" of the past.
+
+"We know fundamentally software has changed," he said, adding that it was also still "early days" for the use of AI to spread.
+
+Nvidia currently dominates the market in advanced chips, making it central to the boom in AI investment at companies such as Microsoft.
+
+Its shares have surged more than 400% over the last two years, giving the company a market value of more than $3tn.
+
+Nvidia said it was focused on rapidly building out production of its latest chips, known as Blackwell, which helped to drive a surge in the firm's revenue.
+
+The company's finance chief Collette Kress said its AI data centre business was strongest in the US, but the firm was also seeing demand grow in other parts of the world, pointing to investments by France and the European Union.
+
+She said demand in China - where US trade controls have blocked the firm from exporting certain chips - remained lower and that the firm expected shipments to remain roughly at the current level.

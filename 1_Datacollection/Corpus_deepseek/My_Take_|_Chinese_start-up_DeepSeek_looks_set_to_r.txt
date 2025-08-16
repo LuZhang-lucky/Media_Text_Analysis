@@ -1,0 +1,15 @@
+China’s hottest artificial intelligence (AI) start-up has demonstrated an ability to create AI models at a fraction of the cost compared with leading industry players such as OpenAI. Its newly released reasoning model DeepSeek-R1 is “rivalling OpenAI’s o1”, but was developed at a far lower cost.
+
+Advertisement
+
+There are still many undisclosed facts about DeepSeek, regarding its team, funding and chip resources, but “the biggest dark horse” in the AI community has released enough technical information to prove that it spent far less money in developing large language models (LLMs), including its open-source DeepSeek V3, compared to those from bigger tech firms such as Facebook parent Meta Platforms and ChatGPT creator OpenAI . But its models can deliver similar performance.
+
+This photo illustration created on January 7, 2025, shows Mark Zuckerberg, CEO of Meta, and the Meta logo. Photo: AFP
+
+The breakthrough by DeepSeek has stirred heated debate. For those who believe in DeepSeek, the firm’s success has significant implications for China’s rivalry with the US in AI, and even the future of AI. When Sam Altman’s team unveiled ChatGPT in November 2022, China was caught by surprise. Chinese tech companies scrambled to launch their own LLMs in a chaotic situation known as the “battle of over 100 models”, but the exuberance has been dampened by two dark clouds.
+
+The first potential repercussion is US export restrictions on advanced graphic processing units (GPUs), particularly Nvidia’s much-sought after chips – a restriction that is depriving China of the most powerful weapons in the AI arena.
+
+The second implication is the limited financial resources of Chinese Big Tech firms, compared to their US peers. Under the scaling law, which literally means “the more investment in advanced chips, the better the performance of models”, Chinese AI companies were put in a disadvantageous position.
+
+Advertisement

@@ -1,0 +1,123 @@
+Chip giant Nvidia shed nearly $600bn in market value after Chinese AI model cast doubt on supremacy of US tech firms.
+
+DeepSeek, a little-known Chinese startup, has sent shockwaves through the global tech sector with the release of an artificial intelligence (AI) model whose capabilities rival the creations of Google and OpenAI.
+
+DeepSeek-R1’s creator says its model was developed using less advanced, and fewer, computer chips than employed by tech giants in the United States.
+
+In a research paper released last week, the model’s development team said they had spent less than $6m on computing power to train the model – a fraction of the multibillion-dollar AI budgets enjoyed by US tech giants such as OpenAI and Google, the creators of ChatGPT and Gemini, respectively.
+
+Marc Andreessen, one of the most influential tech venture capitalists in Silicon Valley, hailed the release of the model as “AI’s Sputnik moment”.
+
+The sudden emergence of a small Chinese startup capable of rivalling Silicon Valley’s top players has challenged assumptions about US dominance in AI and raised fears that the sky-high market valuations of companies such as Nvidia and Meta may be detached from reality.
+
+On Monday, Nvidia, which holds a near-monopoly on producing the semiconductors that power generative AI, lost nearly $600bn in market capitalisation after its shares plummeted 17 percent.
+
+US President Donald Trump, who last week announced the launch of a $500bn AI initiative led by OpenAI, Texas-based Oracle and Japan’s SoftBank, said DeepSeek should serve as a “wake-up call” on the need for US industry to be “laser-focused on competing to win”.
+
+Advertisement
+
+What is DeepSeek?
+
+DeepSeek, which is based in Hangzhou, was founded in late 2023 by Liang Wenfeng, a serial entrepreneur who also runs the hedge fund High-Flyer.
+
+Though little known outside China, Liang has an extensive history of combining burgeoning technologies and investing.
+
+In 2013, he co-founded Hangzhou Jacobi Investment Management, an investment firm that employed AI to implement trading strategies, along with a co-alumnus of Zhejiang University, according to Chinese media outlet Sina Finance.
+
+Liang went on to establish two more firms focused on computer-directed investment – Hangzhou Huanfang Technology Co and Ningbo Huanfang Quantitative Investment Management Partnership – in 2015 and 2016, respectively.
+
+In an interview with Chinese media outlet Waves in 2023, Liang dismissed the suggestion that it was too late for startups to get involved in AI or that it should be considered prohibitively costly.
+
+“Reproduction alone is relatively cheap — based on public papers and open-source code, minimal times of training, or even fine-tuning, suffices. Research, however, involves extensive experiments, comparisons, and higher computational and talent demands,” Liang said, according to a translation of his comments published by the ChinaTalk Substack.
+
+Liang said his interest in AI was driven primarily by “curiosity”.
+
+“From a broader perspective, we want to validate certain hypotheses. For example, we hypothesise that the essence of human intelligence might be language, and human thought could essentially be a linguistic process,” he said, according to the transcript.
+
+“What you think of as ‘thinking’ might actually be your brain weaving language. This suggests that human-like AGI could potentially emerge from large language models,” he added, referring to artificial general intelligence (AGI), a type of AI that attempts to imitate the cognitive abilities of the human mind.
+
+DeepSeek did not immediately respond to a request for comment.
+
+On Monday, Gregory Zuckerman, a journalist with The Wall Street Journal, said he had learned that Liang, who he had not heard of previously, wrote the preface for the Chinese edition of a book he authored about the late American hedge fund manager Jim Simons.
+
+“Simons left a deep impact, apparently,” Zuckerman wrote in a column, describing how Liang praised his book as a tome that “unravels many previously unresolved mysteries and brings us a wealth of experiences to learn from”.
+
+“Even my mother didn’t get that much out of the book,” Zuckerman wrote.
+
+Advertisement
+
+Why has DeepSeek taken the tech world by storm?
+
+Put simply, the company’s success has raised existential questions about the approach to AI being taken by both Silicon Valley and the US government.
+
+US tech firms have been widely assumed to have a critical edge in AI, not least because of their enormous size, which allows them to draw top talent from around the world and invest massive sums in building data centres and purchasing large quantities of costly high-end chips.
+
+DeepSeek’s arrival on the scene has challenged the assumption that it takes billions of dollars to be at the forefront of AI.
+
+“OpenAI was founded 10 years ago, has 4,500 employees, and has raised $6.6 billion in capital. DeepSeek was founded less than 2 years ago, has 200 employees, and was developed for less than $10 million,” Adam Kobeissi, the founder of market analysis newsletter The Kobeissi Letter, said on X on Monday.
+
+“How are these two companies now competitors?”
+
+In their research paper, DeepSeek’s engineers said they had used about 2,000 Nvidia H800 chips, which are less advanced than the most cutting-edge chips, to train its model.
+
+The team said it utilised multiple specialised models working together to enable slower chips to analyse data more efficiently.
+
+For the US government, DeepSeek’s arrival on the scene raises questions about its strategy of trying to contain China’s AI advances by restricting exports of high-end chips.
+
+DeepSeek’s research paper suggests that either the most advanced chips are not needed to create high-performing AI models or that Chinese firms can still source chips in sufficient quantities – or a combination of both.
+
+California-based Nvidia’s H800 chips, which were designed to comply with US export controls, were freely exported to China until October 2023, when the administration of then-President Joe Biden added them to its list of restricted items.
+
+In his 2023 interview with Waves, Liang said his company had stockpiled 10,000 Nvidia A100 GPUs before they were banned for export. GPUs, or graphics processing units, are electronic circuits used to speed up graphics and image processing on computing devices.
+
+Tanishq Abraham, former research director at Stability AI, said he was not surprised by China’s level of progress in AI given the rollout of various models by Chinese firms such as Alibaba and Baichuan.
+
+“While there have been restrictions on China’s ability to obtain GPUs, China still has managed to innovate and squeeze performance out of whatever they have,” Abraham told Al Jazeera.
+
+“I think it is a lesson to US companies that there is still a lot of performance they can squeeze out of.”
+
+Tara Javidi, co-director of the Center for Machine Intelligence, Computing and Security at the University of California San Diego, said DeepSeek made her excited about the “rapid progress” taking place in AI development worldwide.
+
+“My only hope is that the attention given to this announcement will foster greater intellectual interest in the topic, further expand the talent pool, and, last but not least, increase both private and public investment in AI research in the US,” Javidi told Al Jazeera.
+
+Meanwhile, investors’ confidence in the US tech scene has taken a hit – at least in the short term.
+
+Advertisement
+
+Apart from Nvidia’s dramatic slide, Google parent Alphabet and Microsoft on Monday saw their stock prices fall 4.03 percent and 2.14 percent, respectively, though Apple and Amazon finished higher.
+
+“If DeepSeek’s cost numbers are real, then now pretty much any large organisation in any company can build on and host it,” Tim Miller, a professor specialising in AI at the University of Queensland, told Al Jazeera.
+
+“So, in this sense, the game has changed completely because there is a new ‘rule’ that anyone can play.”
+
+Does this mean China is winning the AI race?
+
+Not necessarily.
+
+While tech analysts broadly agree that DeepSeek-R1 performs at a similar level to ChatGPT – or even better for certain tasks – the field is moving fast.
+
+OpenAI CEO Sam Altman said earlier this month that the company would release its latest reasoning AI model, o3 mini, within weeks after considering user feedback.
+
+On Monday, Altman acknowledged that DeepSeek-R1 was “impressive” while defending his company’s focus on greater computing power.
+
+“We will obviously deliver much better models and also it’s legit invigorating to have a new competitor! We will pull up some releases,” Altman said on X.
+
+“But mostly we are excited to continue to execute on our research roadmap and believe more compute is more important now than ever before to succeed at our mission.”
+
+Rui Ma, the founder of Tech Buzz China, said the Chinese tech sector had itself been taken aback when OpenAI initially released ChatGPT in 2022.
+
+“Most entrepreneurs had completely missed the opportunity that generative AI represented, and felt very humbled,” Ma told Al Jazeera.
+
+“It’s clear that they have been hard at work since. I think what this past weekend shows us is how seriously they self-reflected and took the challenge to ‘catch up’ to Silicon Valley. I think that for the US to retain its lead, Washington should focus on boosting Silicon Valley instead of on suppressing China.”
+
+Abraham, the former research director at Stability AI, said perceptions may also be skewed by the fact that, unlike DeepSeek, companies such as OpenAI have not made their most advanced models freely available to the public.
+
+“DeepSeek made its best model available for free to use. On the other hand, OpenAI’s best model is not free,” he said.
+
+“So most people who use ChatGPT for free are shocked by DeepSeek and believe there is a huge jump in capabilities when OpenAI has had a similar performing model paywalled for a few months already. This pay-walling of frontier AI models leads to people not truly grasping the progress and capabilities of AI.”
+
+Miller, the University of Queensland professor, said DeepSeek’s advances and other recent developments suggest that China is at least “up there” with the US in AI.
+
+“I made somewhat of a throwaway prediction late last year that the next scientific breakthrough in AI could come from a small player such as an individual university researcher who doesn’t have access to much computing power – they would need to be smarter to compete,” he said.
+
+“DeepSeek’s apparent progress is almost an example of this: by not having enough computational power to build models as large as ChatGPT, they had to be smart. Necessity is the mother of invention.”

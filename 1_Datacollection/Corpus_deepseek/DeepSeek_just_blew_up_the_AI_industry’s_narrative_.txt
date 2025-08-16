@@ -1,0 +1,69 @@
+A version of this story appeared in CNN Business’ Nightcap newsletter. To get it in your inbox, sign up for free here.
+
+New York CNN —
+
+The story of AI in the 2020s has gone something like this:
+
+Sam Altman: Look, a toy that can write your book report.
+
+Look, a toy that can write your book report. VCs: This will fix everything!
+
+This will fix everything! Doomers: This will ruin everything.
+
+This will ruin everything. Tech: We need money!
+
+We need money! Everyone else: Could we maybe not destroy the environment over this?
+
+Could we maybe not destroy the environment over this? Tech: Let’s restart Three Mile Island.
+
+Let’s restart Three Mile Island. Tech: We need money!
+
+We need money! Wall Street: Where’s our return?
+
+Where’s our return? Tech: (Chants) More power! More power! More power!
+
+And finally, in the year 2025, here comes DeepSeek to blow up the industry’s whole narrative about AI’s bottomless appetite for power, and potentially break the spell that had kept Wall Street funneling money to anyone with the words “harnessing artificial intelligence” in their pitch deck.
+
+ICYMI: DeepSeek dropped a bomb known as R1 that’s got all of Silicon Valley and much of Wall Street in a tizzy.
+
+The Chinese company’s large language model is basically a cheaper, more efficient ChatGPT, built on a fraction of OpenAI’s budget and using far fewer chips than any other leading chatbot.
+
+“That is a massive earthquake in the AI sector,” Gil Luria, head of tech research at investment group D.A. Davidson, told me. “Everybody is looking at it and saying, ‘We didn’t think this is possible. And since it is possible, we have to rethink everything that we have been planning.’”
+
+Suddenly, all that money and computing power that the Sam Altmans, Mark Zuckerbergs and Elon Musks have been saying are crucial to their AI projects — and thus America’s continued leadership in the industry — may end up being wildly overblown.
+
+DeepSeek, which on Monday climbed to No. 1 on the Apple app store, claims to have built its base model for less than $6 million (versus the more than $100 million Altman has said it cost to build GPT-4).
+
+It also claims to have used just 2,000 Nvidia chips that it obtained before US export restrictions were put in place. (OpenAI says it used 25,000 of the more powerful Nvidia H100 chips to build GPT-4.)
+
+It’s awkward timing for the Trump administration, which last week announced a half-trillion-dollar private-sector investment to build more data centers and keep the United States ahead of China in the AI race. (Oops!)
+
+And it’s incredibly bad news for Nvidia, the American chip maker powering the AI gold rush. Nvidia shares sank 17% Monday, shedding $600 billion in market cap in a single session — the biggest one-day loss for a single stock in history. Alphabet, Microsoft, Oracle, TSMC and plenty of others sank, and because tech stocks are so dominant, that dragged the broader stock market down, too.
+
+The tech-heavy Nasdaq plunged by 3% and the broader S&P 500 fell 1.5%. (The Dow, buoyed by health care and consumer companies, ended the day up less than 1%.)
+
+AI is over, long live AI
+
+Of course, one bad day on Wall Street does not an apocalypse make. (That’s for later, when one of these AI labs creates superintelligent murder bots. Kidding! Kind of.)
+
+But DeepSeek is forcing investors to take a beat and question tech companies’ assumptions. By its own reasoning, the AI industry needed to keep increasing “compute” (or computational power), which meant buying tens of thousands of Nvidia’s state-of-the-art chips and building giant data centers.
+
+“DeepSeek makes it very clear that that the current trajectory of scaling up of data centers is highly unlikely to be economic to Nvidia’s customers,” Luria said.
+
+The AI industry, and OpenAI in particular, has been going down two paths at once.
+
+There’s the business of designing AI models with better algorithms and sounder reasoning — the kind of stuff that requires “finesse, as opposed to brute force,” Luria says. And then there’s the Stargate path of giant energy investments.
+
+The first task is still “valid and important,” while the second path looks “ridiculous,” Luria said. “DeepSeek makes it clear that that scale and that spend would be, at the very least, wasteful.”
+
+In other words, AI isn’t dead. But the landscape is shifting faster than anyone, perhaps most of all Nvidia, expected.
+
+Picks and shovels
+
+Nvidia has become the ultimate “picks and shovels” play on Wall Street, transforming it into a $3 trillion company in the span of a couple of years. Up until now, the demand for Nvidia chips appeared boundless — tech companies were going to keep gobbling them up faster than Nvidia could produce them.
+
+But if DeepSeek really did manage to build a ChatGPT competitor using a handful of old processors, then maybe Nvidia’s tech customers soon won’t need as many as they’d thought. Many on Wall Street seemed to think so Monday as the stock went into a tailspin. (For its part, Nvidia seemed to shrug at the selloff in a statement to Bloomberg, calling DeepSeek’s model an “excellent AI advancement” that “illustrates how new models can be created.”)
+
+It’s also good to keep in mind that Wall Street is prone to tantrums, which is how some tech investors chalked up Monday’s selloff.
+
+“At the end of the day, there is only one chip company in the world launching autonomous, robotics, and broader AI use cases, and that is Nvidia,” Wedbush analysts wrote in a letter to clients. “Launching a competitive LLM model for consumer use cases is one thing… launching broader AI infrastructure is a whole other ballgame, and nothing with DeepSeek makes us believe anything different.”

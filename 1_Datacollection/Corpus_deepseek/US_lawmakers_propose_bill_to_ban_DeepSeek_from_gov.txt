@@ -1,0 +1,25 @@
+New York CNN —
+
+A pair of US lawmakers are seeking to ban government workers from using Chinese startup DeepSeek’s artificial intelligence chatbot on official devices.
+
+Reps. Darin LaHood, a Republican from Illinois, and Josh Gottheimer, a New Jersey Democrat, are set to propose legislation on Friday that would ban the use of DeepSeek on government devices over national security concerns.
+
+DeepSeek is just the latest target in a larger battle for tech supremacy between the United States and China.
+
+The attempted crackdown comes weeks after DeepSeek shocked Silicon Valley and Wall Street by releasing an advanced AI model, called R1, with the same capabilities as top American models, despite being cheaper to train and less power-hungry. The model — from a year-old Chinese startup subject to US export restrictions on the most powerful AI chips — has fueled concerns that the United States could fall behind China in AI.
+
+If passed, the proposed bill would give 60 days for government agencies to develop standards and guidelines for removing DeepSeek — as well as any other app developed by its parent company, High Flyer — from official devices.
+
+The proposal follows similar moves by Australia, Italy and Taiwan.
+
+DeepSeek did not respond to a request for comment.
+
+The language in the proposed bill also echoes the legislation that has sought to restrict access to TikTok in the United States over worries that its China-based owner, ByteDance, could be forced to share sensitive US user data with the Chinese government.
+
+Federal and state government agencies began banning the use of TikTok on official devices starting in 2022. And ByteDance now has fewer than 60 days to sell the app before TikTok is banned in the United States , because of a law that was passed with bipartisan support last year and extended by President Donald Trump in January.
+
+“The Chinese Communist Party has made it abundantly clear that it will exploit any tool at its disposal to undermine our national security, spew harmful disinformation, and collect data on Americans,” Gottheimer said in a statement. “We simply can’t risk the CCP infiltrating the devices of our government officials and jeopardizing our national security … We’ve seen China’s playbook before with TikTok, and we cannot allow it to happen again.”
+
+Many AI companies use the inputs from users’ conversations with chatbots to train and improve their models, stoking privacy concerns. But security experts have already cautioned that DeepSeek could pose a bigger risk because of its Chinese owner.
+
+“Users need to be aware that any data shared with the platform could be subject to government access under China’s cybersecurity laws, which mandate that companies provide access to data upon request by authorities,” NordVPN cybersecurity expert Adrianus Warmenhoven said in emailed commentary.

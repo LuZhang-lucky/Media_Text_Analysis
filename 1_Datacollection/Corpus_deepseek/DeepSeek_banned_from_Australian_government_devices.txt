@@ -1,0 +1,35 @@
+DeepSeek will be banned from all federal government devices as the Albanese government cracks down on the Chinese AI chatbot, citing unspecified national security risks.
+
+The launch of DeepSeek’s AI generative chatbot rocked US tech stocks last week amid concerns about censorship and data security.
+
+The home affairs department secretary signed a directive on Tuesday banning the program from all federal government systems and devices on national security grounds after advice from intelligence agencies that it posed an unacceptable risk.
+
+The home affairs minister, Tony Burke, said the decision had not been taken because of the app’s country of origin – China – but because of its risk to the government and its assets.
+
+1:23 How ChatGPT, Gemini and DeepSeek deal with Tiananmen Square and Taiwan questions – video
+
+“The Albanese government is taking swift and decisive action to protect Australia’s national security and national interest,” Burke said.
+
+“AI is a technology full of potential and opportunity – but the government will not hesitate to act when our agencies identify a national security risk.”
+
+Government departments and agencies will be required to report back to home affairs as soon as possible to ensure the app does not remain on any devices, and they are prevented from reinstalling it.
+
+The decision comes almost two years after the Albanese government issued its government-wide ban on the Chinese social media app TikTok, citing “security and privacy” risks.
+
+The science minister, Ed Husic, said in January he foresaw similar discussions happening about DeepSeek.
+
+skip past newsletter promotion Sign up to Breaking News Australia Free newsletter Get the most important news as it breaks Enter your email address Sign up Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
+
+“I think people will naturally gravitate towards that,” he said. “I think there’ll be parallels to what you’ve seen with discussion around TikTok that emerge around DeepSeek as well.”
+
+Australia is the latest country to ban DeepSeek on government devices, after Taiwan, Italy and some federal US agencies moved to block the app.
+
+This week the New South Wales government reportedly banned the app while other state governments were considering options.
+
+A Guardian Australia analysis in January revealed that the chatbot did not provide responses to certain political events sensitive to the Chinese government.
+
+Unlike other models – including OpenAI’s ChatGPT and Google’s Gemini – DeepSeek did not engage when asked about topics including Tiananmen Square and the Umbrella revolution. It said: “Sorry, that’s beyond my current scope. Let’s talk about something else.”
+
+DeepSeek proved immediately popular on global app stores after launching in January.
+
+On the day it launched, US$1tn was wiped from the leading US tech index.

@@ -1,0 +1,7 @@
+The South Korean government said on Monday that it had temporarily suspended new downloads of an artificial intelligence chatbot made by DeepSeek, the Chinese company that has sent shock waves through the tech world.
+
+On Monday night, the app was not available in the Apple or Google app store in South Korea, although DeepSeek was still accessible via a web browser. Regulators said the app service would resume after they had ensured it complied with South Korea’s laws on protecting personal information.
+
+The Chinese chatbot has topped the charts of most downloaded apps around the world since its release last month. The app is powered by an A.I. system whose performance rivals top products made by American companies and was built, DeepSeek said, for a fraction of their cost.
+
+DeepSeek’s claims that it built its technology with far fewer expensive computer chips than companies typically use sent U.S. tech stocks tumbling last month and provoked a debate over whether Washington has failed in its attempts to block China’s access to such chips.

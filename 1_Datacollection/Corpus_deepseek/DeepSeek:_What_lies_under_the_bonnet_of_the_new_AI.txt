@@ -1,0 +1,9 @@
+Tumbling stock market values and wild claims have accompanied the release of a new AI chatbot by a small Chinese company. What makes it so different?
+
+The release of China's new DeepSeek AI-powered chatbot app has rocked the technology industry. It quickly overtook OpenAI's ChatGPT as the most-downloaded free iOS app in the US, and caused chip-making company Nvidia to lose almost $600bn (£483bn) of its market value in one day – a new US stock market record.
+
+The reason behind this tumult? The "large language model" (LLM) that powers the app has reasoning capabilities that are comparable to US models such as OpenAI's o1, but reportedly requires a fraction of the cost to train and run.
+
+Analysis Dr Andrew Duncan is the director of science and innovation fundamental AI at the Alan Turing Institute in London, UK.
+
+DeepSeek claims to have achieved this by deploying several technical strategies that reduced both the amount of computation time required to train its model (called R1) and the amount of memory needed to store it. The reduction of these overheads resulted in a dramatic cutting of cost, says DeepSeek. R1's base model V3 reportedly required 2.788 million hours to train (running across many graphical processing units – GPUs – at the same time), at an estimated cost of under $6m (£4.8m), compared to the more than $100m (£80m) that OpenAI boss Sam Altman says was required to train GPT-4.

@@ -1,0 +1,57 @@
+CNN —
+
+The stunning rise of DeepSeek is sending shockwaves through the artificial intelligence world, threatening America’s dominance that seemed set in stone just a week ago.
+
+The fact that a little-known Chinese startup has built a model that can compete with leading US AI systems is challenging the conventional wisdom that it takes gobs of money and unlimited access to cutting-edge computer chips to train AI technology. It shouldn’t really be possible for a Chinese AI startup to go toe-to-toe with OpenAI’s GPT-4o and Google’s Gemini.
+
+Now, President Donald Trump has to decide how to respond.
+
+The United States has imposed tough restrictions that are designed to prevent Chinese firms from buying or building their own cutting-edge computer chips required to train AI models. These chips are at the heart of the AI arms race and the goal of the export curbs is to prevent China from keeping up.
+
+Some have argued that DeepSeek’s success – it claims to have trained its new AI model R1 at a fraction of the cost and on far fewer high-end chips than leading AI models – shows the Biden and first Trump administrations’ export curbs have backfired: These tough restrictions may have backed Beijing into a corner, forcing Chinese firms to come up with ways to innovate around the export curbs or build their own chips.
+
+“Rather than impeding China, these AI export controls may be accelerating China’s AI capacity by pushing them to innovate,” John Villasenor, a professor of engineering and law at UCLA, told CNN in a phone interview. “The export controls, arguably, are counterproductive.”
+
+That would be a blow to the tough crackdowns under both Trump and former President Joe Biden – and the ones envisioned during this new Trump administration.
+
+“We accidentally upped their technical game,” AI researcher Gary Marcus wrote in a Substack post. “It is clear that the game has changed.”
+
+That notion – that punishing restrictions may have had the opposite effect as the United States intended – is raising tough questions about the very foundation of the AI boom, the tech arms race between the United States and China and how the Trump administration should respond.
+
+The AI house of cards theory
+
+Trump may be unswayed.
+
+“I think Trump doubles down,” said Ed Mills, Washington policy analyst at Raymond James, noting that Trump has surrounded himself with China hawks, such as Secretary of State Marco Rubio. “His advisers around him point to more restrictions, not less.”
+
+If Trump adds even more pressure on China over AI, proponents of a more hawkish strategy believe China’s house of AI cards may crumble. Skeptics say it’s not clear how much of a gamechanger DeepSeek is. They argue its success could have been made possible either stockpiling high-end chips before restrictions were imposed or by buying the semiconductors on the black market.
+
+“It is either a Sputnik Moment or a Potemkin Moment,” Jeffrey Sonnenfeld, senior associate dean for leadership studies at the Yale School of Management, told CNN in an email. “It is either truly disruptive or deceptive, relying on hoarded Nvidia chips and others before the export sanction.”
+
+Sonnenfeld added that if it is a “Sputnik-style disruption, it is a blow to pure reliance on competitive private markets without government partnership and national industrial policies.”
+
+Scale AI CEO Alexandr Wang told CNBC that he understands DeepSeek has 50,000 leading-edge chips that they “can’t talk about, obviously, because it is against the export controls that the United States has put in place.”
+
+Art Hogan, chief market strategist at B. Riley Wealth Management, urged investors to take DeepSeek’s claims “with a grain of salt” because there is no concrete proof to back them up.
+
+“China is claiming it has come up with the silver bullet, but it could be like the guy in high school who says he has a girlfriend, but she’s just at a different school,” Hogan said in a phone interview, noting that there has long been skepticism among Western economists about the veracity of China’s economic statistics.
+
+If DeepSeek did have access to leading edge chips, that supports the argument that the export controls should be toughened. Mills notes that there is a “very active” black market for high-end chips and enforcement of export controls has been uneven.
+
+“This has been a game of whack-a-mole,” Mills said. “There are still glaring loopholes that need to be closed.”
+
+For example, Mills pointed to the need for more robust enforcement and further restrictions on the flow of leading-edge computer chips.
+
+Jake Sullivan, the US National Security Adviser under Biden, has acknowledged that the export controls are a work in progress.
+
+“This is an iterative process. We learn, they learn. We learn, they learn,” Sullivan said in May during a fireside chat.
+
+Sullivan also noted that China has tried to overwhelm export controls by projecting an air of inevitability to its AI ambitions.
+
+“The PRC has embarked on a massive and relentless information campaign to basically say, ‘This is futile. Resistance is futile.
+
+We will break these controls,’” Sullivan said.
+
+The stakes are massive.
+
+Many in Washington were well aware that the United States is in an AI arms race. But that race may be a bit closer, and perhaps significantly cheaper, than previously known.

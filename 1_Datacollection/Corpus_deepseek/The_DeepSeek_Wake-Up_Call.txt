@@ -1,0 +1,33 @@
+This is Atlantic Intelligence, a newsletter in which our writers help you wrap your mind around artificial intelligence and a new machine age. Sign up here.
+
+Earlier this week, almost overnight, the American tech industry entered a full-on panic. The latest version of DeepSeek, an AI model from a Chinese start-up of the same name, appeared to equal OpenAI’s most advanced program, o1. On Monday, DeepSeek overtook ChatGPT as the No. 1 free app on Apple’s mobile-app store in the United States.
+
+So far, China has lagged the U.S. in the AI race. DeepSeek suggests that the country has gained significant ground: The chatbot was built more quickly and with less money than analogous models in the U.S., and also appears to use less computing power. Software developers using DeepSeek pay roughly 95 percent less per word than they do with OpenAI’s top model. One prominent AI executive wrote that DeepSeek was a “wake up call for America.” Because DeepSeek appears to be cheaper and more efficient than similarly capable American AI models, the tech industry’s enormous investments in computer chips and data centers have been thrown into doubt—so much that the top AI chipmaker, Nvidia, lost $600 billion in market value on Monday, the largest single-day drop in U.S. history. Sam Altman, the CEO of OpenAI, said that it was “invigorating to have a new competitor” and that, in response, the company would move up some new software announcements. (Yesterday morning, OpenAI said that it is investigating whether DeepSeek used ChatGPT outputs to train its own model.)
+
+But many prominent American researchers and tech executives celebrated DeepSeek, as well. That’s because “the most notable feature of DeepSeek may be not that it is Chinese, but that it is relatively open,” I wrote on Monday. Whereas the top American AI labs at OpenAI, Google, and Anthropic have kept their technology top-secret, DeepSeek published an in-depth technical report and is allowing anybody to download and modify the program’s code. “Being democratic—in the sense of vesting power in software developers and users—is precisely what has made DeepSeek a success,” I wrote. Start-ups and researchers love this relative transparency. In theory, competitors can use DeepSeek’s code and research to rapidly catch up to OpenAI with far fewer resources—you might not need colossal data centers to get to the front of the AI race. (The Atlantic recently entered into a corporate partnership with OpenAI.) However, there’s substantial uncertainty about just how much cheaper DeepSeek was to build, based on reports about the start-up’s hardware acquisitions and uncertainty about how the model was trained.
+
+Meanwhile, for national-security hawks, the fear is that an open-source program that won’t answer questions about the Tiananmen Square protests could become a global technological touchpoint. DeepSeek could face similar privacy concerns as TikTok: Already, the U.S. Navy has banned its use, citing security concerns.
+
+Any predictions, for now, are highly speculative. The global AI race is far from over, and forthcoming products from Silicon Valley could leap ahead once again. At the very least, U.S. tech companies may have to reconsider whether the best way to build AI is by keeping their models a secret.
+
+Illustration by The Atlantic. Source: Getty.
+
+China’s DeepSeek Surprise
+
+By Matteo Wong
+
+One week ago, a new and formidable challenger for OpenAI’s throne emerged. A Chinese AI start-up, DeepSeek, launched a model that appeared to match the most powerful version of ChatGPT but, at least according to its creator, was a fraction of the cost to build. The program, called DeepSeek-R1, has incited plenty of concern: Ultrapowerful Chinese AI models are exactly what many leaders of American AI companies feared when they, and more recently President Donald Trump, have sounded alarms about a technological race between the United States and the People’s Republic of China. This is a “wake up call for America,” Alexandr Wang, the CEO of Scale AI, commented on social media. But at the same time, many Americans—including much of the tech industry—appear to be lauding this Chinese AI. As of this morning, DeepSeek had overtaken ChatGPT as the top free application on Apple’s mobile-app store in the United States. Researchers, executives, and investors have been heaping on praise. The new DeepSeek model “is one of the most amazing and impressive breakthroughs I’ve ever seen,” the venture capitalist Marc Andreessen, an outspoken supporter of Trump, wrote on X. The program shows “the power of open research,” Yann LeCun, Meta’s chief AI scientist, wrote online.
+
+Read the full article.
+
+What to Read Next
+
+The GPT era is already ending : “The release of o1, in particular, has provided the clearest glimpse yet at what sort of synthetic ‘intelligence’ the start-up and companies following its lead believe they are building,” I wrote in December.
+
+“The release of o1, in particular, has provided the clearest glimpse yet at what sort of synthetic ‘intelligence’ the start-up and companies following its lead believe they are building,” I wrote in December. The new AI panic: “The obsession with frontier models has now collided with mounting panic about China, fully intertwining ideas for the models’ regulation with national-security concerns,” Karen Hao wrote in 2023.
+
+P.S.
+
+After several major tech executives announced their support for Donald Trump, many liberal internet users are now alleging that they are being censored on certain social-media platforms. “To some, this pattern was as unmistakable as it was malicious,” my colleague Kaitlyn Tiffany writes. “Social media was turning against Democrats.” And they are panicking.
+
+— Matteo

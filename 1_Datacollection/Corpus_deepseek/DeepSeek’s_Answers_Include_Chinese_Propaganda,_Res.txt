@@ -1,0 +1,7 @@
+If you’re among the millions of people who have downloaded DeepSeek, the free new chatbot from China powered by artificial intelligence, know this: The answers it gives you will largely reflect the worldview of the Chinese Communist Party.
+
+Since the tool made its debut this month, rattling stock markets and more established tech giants like Nvidia, researchers testing its capabilities have found that the answers it gives not only spread Chinese propaganda but also parrot disinformation campaigns that China has used to undercut its critics around the world.
+
+In one instance, the chatbot misstated remarks by former President Jimmy Carter that Chinese officials had selectively edited to make it appear that he had endorsed China’s position that Taiwan was part of the People’s Republic of China. The example was among several documented by researchers at NewsGuard, a company that tracks online misinformation, in a Thursday report that called DeepSeek “a disinformation machine.”
+
+In the case of the repression of Uyghurs in Xinjiang, which the United Nations in 2022 said may have amounted to crimes against humanity, Cybernews, an industry news website, reported that the chatbot produced responses that claimed that China’s policies there “have received widespread recognition and praise from the international community.”

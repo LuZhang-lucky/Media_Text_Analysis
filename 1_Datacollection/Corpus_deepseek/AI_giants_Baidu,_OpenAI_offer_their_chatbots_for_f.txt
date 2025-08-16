@@ -1,0 +1,33 @@
+Hong Kong CNN —
+
+Chinese internet search giant Baidu will make its advanced AI chatbot services free, as competition heats up among global developers following the surging popularity of startup DeepSeek’s models.
+
+Ernie Bot, the Beijing-based company’s AI chatbot with premium features like AI painting, will be available to both mobile and desktop users at no cost starting from April 1, it posted on WeChat on Thursday.
+
+Just hours before Baidu’s announcement, OpenAI CEO Sam Altman announced the roadmap of its newest AI model, GPT-5, on X. He said ChatGPT users will have unlimited access to GPT-5 free of charge, though paid subscribers will be able to access a “higher level of intelligence.”
+
+On Friday, Baidu said in another post that it plans to launch the next generation of its AI model by the end of June. And for the first time, it would make that edition of the model open source, like all of DeepSeek’s models.
+
+It added that Ernie’s Deep Search function, featuring enhanced reasoning capabilities and expert-level responses, will also launch for free in April.
+
+The successive announcements reflect the squeeze that Baidu and other firms face in the intensifying AI race in China, particularly following DeepSeek’s recent release. The Chinese startup’s latest R1 AI model stunned the world by delivering comparable performance to US-based industry behemoths at significantly lower cost.
+
+Baidu’s Hong Kong-listed stock jumped as much as 12% on Thursday and last traded around 95 Hong Kong dollars ($12.20) per share on Friday. A component of the Hang Seng China Enterprises Index, it has helped power the index up 20% since January.
+
+ChatGPT’s debut in late 2022 enraptured the globe overnight and sent Chinese tech giants scrambling for a homegrown alternative. Baidu was one of the leading contenders in China’s AI scene, releasing its answer to ChatGPT within four months and was ahead of other established tech heavy weights like Tencent and Alibaba.
+
+But Baidu has trailed behind competitors like ByteDance’s Doubao in terms of popularity and the number of active users. Alibaba says Apple had chosen to work with it to roll out its AI functions in China after considering multiple Chinese AI firms, including Baidu.
+
+Lots of contenders
+
+China’s OG tech giants have lost the AI limelight in recent months to emerging startups like DeepSeek and Beijing-based Moonshot AI, which have released models that punch above their weight.
+
+Moonshot AI first launched its ChatGPT equivalent, Kimi, late last year. It was the third-most visited AI Chatbot in China after DeepSeek and Doubao in January, according to aircpb.com, an AI product tracker.
+
+Other promising Chinese AI companies include Zhipu AI, a startup originating from Beijing’s prestigious Tsinghua University. Based in the Chinese capital, Zhipu is backed by Tencent and Alibaba and has strong government ties. The US Commerce Department last month added Zhipu to its “Entity List,” accusing the company of supporting the Chinese military, which it has denied.
+
+Most major AI large language models — including Ernie Bot, OpenAI’s ChatGPT and American startup Anthropic’s Claude — have offered their basic chatbot services for free.
+
+ChatGPT debuted without charging before it began to offer premium features on subscription.
+
+In 2023, Baidu launched paid premium functions for its AI service, including its text to image generator, charging users from up to 59.9 yuan ($8.2) a month. Ernie Bot has amassed 430 million users as of November 2024, according to Baidu.

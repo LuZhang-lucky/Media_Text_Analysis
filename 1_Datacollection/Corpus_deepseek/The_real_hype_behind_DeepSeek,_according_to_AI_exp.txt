@@ -1,0 +1,55 @@
+CNN —
+
+DeepSeek turned the tech world on its head last month – and for good reason, according to artificial intelligence experts, who say we’re likely only seeing the beginning of the Chinese tech startup’s influence on the AI field.
+
+DeepSeek grabbed headlines in late January with its R1 AI model, which the company says can roughly match the performance of Open AI’s o1 model at a fraction of the cost. Tech stocks tumbled as DeepSeek briefly unseated ChatGPT to become the top app in Apple’s App Store.
+
+The achievement pushed US tech behemoths to question America’s standing in the AI race against China – and the billions of dollars behind those efforts. While Vice President JD Vance didn’t mention DeepSeek or China by name in his remarks at the Artificial Intelligence Action Summit in Paris on Tuesday, he certainly emphasized how big of a priority it is for the United States to lead the sector.
+
+“The United States of America is the leader in AI, and our administration plans to keep it that way,” he said, although he added that “America wants to partner” with other countries.
+
+But it’s not just DeepSeek’s efficiency and power. The way DeepSeek R1 can reason and “think” through answers to provide quality results, along with the company’s decision to make key parts of its technology publicly available, will also push the field forward, experts say.
+
+While AI has long been used in tech products, it’s reached a flashpoint over the last two years thanks to the rise of ChatGPT and other generative AI services that have reshaped the way people work, communicate and find information. It’s made Wall Street darlings out of companies like chipmaker Nvidia and upended the trajectory of Silicon Valley giants. So any development that can help build more capable and efficient models is sure to be closely watched.
+
+“This is definitely not hype,” said Oren Etzioni, former CEO of the Allen Institute for Artificial Intelligence. “But also, this is a very fast-moving world.”
+
+AI’s TikTok moment
+
+Tech leaders have been quick to respond to DeepSeek’s rise. Google DeepMind CEO Demis Hassabis called the hype around DeepSeek “exaggerated , ” but also said its model as “probably the best work I’ve seen come out of China,” according to CNBC.
+
+Microsoft CEO Satya Nadella said on the company’s quarterly earnings call in January that DeepSeek has some “real innovations,” while Apple CEO Tim Cook said on the iPhone maker’s earnings call that “innovation that drives efficiency is a good thing.”
+
+But the attention hasn’t all been positive. Semiconductor researcher SemiAnalysis cast doubt over DeepSeek’s claims that it only cost $5.6 million to train. OpenAI told The Financial Times it found evidence that DeepSeek used the US company’s models to train its own competitor.
+
+“We are aware of and reviewing indications that DeepSeek may have inappropriately distilled our models, and will share information as we know more,” an OpenAI spokesperson said in a comment to CNN. DeepSeek could not immediately be reached for comment.
+
+And a pair of US lawmakers has already called for the app to be banned from government devices after security researchers highlighted its potential links to the Chinese government, as the Associated Press and ABC News reported. Similar concerns have been raised about the popular social media app TikTok, which must be sold to an American owner or risk being banned in the US.
+
+“DeepSeek is the TikTok of (large language models),” Etzioni said.
+
+DeepSeek’s deep impression on the tech world
+
+Tech giants are already thinking about how DeepSeek’s technology can influence their products and services.
+
+“What DeepSeek gave us was essentially the recipe in the form of a tech report, but they didn’t give us the extra missing parts,” said Lewis Tunstall, a senior research scientist at Hugging Face, an AI platform that offers tools for developers.
+
+Tunstall is leading an effort at Hugging Face to fully open source DeepSeek’s R1 model; while DeepSeek provided a research paper and the model’s parameters, it didn’t reveal the code or training data.
+
+Nadella said on Microsoft’s earnings call that Windows Copilot+ PCs, or PCs built to a certain spec to support AI models, will be able to run AI models distilled from DeepSeek R1 locally. Mobile chipmaker Qualcomm said on Tuesday that models distilled from DeepSeek R1 were running on smartphones and PCs powered by its chips within a week.
+
+AI researchers, academics and developers are still exploring what DeepSeek means for the advancement of AI.
+
+DeepSeek’s model isn’t the only open-source one, nor is it the first to be able to reason over answers before responding; OpenAI’s o1 model from last year can do that, too.
+
+What makes DeepSeek significant is the way it can reason and learn from other models, along with the fact that the AI community can see what’s happening behind the scenes. Those who use the R1 model in DeepSeek’s app can also see its “thought” process as it answers questions.
+
+“You can see the wheels turning inside the machine,” Durga Malladi, senior vice president and general manager for technology planning and edge solutions at Qualcomm, said to CNN.
+
+Tunstall thinks we may see a wave of new models that can reason like DeepSeek in the not-too-distant future. That could be critical as tech giants race to build AI agents, which Silicon Valley generally believes are the next evolution of the chatbot and how consumers will interact with devices – although that shift hasn’t quite happened yet.
+
+Grok 3, the next iteration of the chatbot on the social media platform X, will have “very powerful reasoning capabilities,” its owner, Elon Musk, said on Thursday in a video appearance during the World Governments Summit.
+
+For now, the AI community will keep tinkering with what DeepSeek has to offer. That is, until the next breakthrough comes along.
+
+“I certainly predict that in the next 12 months, it’ll be supplanted by something else,” said Etzioni. “But it’s a very real advance.”

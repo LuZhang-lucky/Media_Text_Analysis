@@ -1,0 +1,19 @@
+DeepSeek said its newly popular app was hit with a cyber-attack on Monday, which forced the Chinese company to temporarily limit registrations. The attack came after the DeepSeek AI assistant app soared to the top of Apple’s App Store, becoming the highest rated free app in the US, and climbed high in Google’s Play Store.
+
+On its status page, DeepSeek said it started to investigate the issue late Monday night Beijing time. After about two hours of monitoring, the company said it was the victim of a “large-scale malicious attack”. While DeepSeek limited registrations, existing users were still able to log on as usual. The app is now allowing registrations again.
+
+skip past newsletter promotion Sign up to TechScape Free weekly newsletter A weekly dive in to how technology is shaping our lives Enter your email address Sign up Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
+
+DeepSeek’s app is an AI assistant similar to OpenAI’s ChatGPT chatbot. The news of the app’s ascendency in the US – and ability to edge out American rivals for a fraction of the cost – sent technology stocks tumbling on Monday. Nvidia, the AI chip maker and most valuable US company, saw its stocks plummet by 13.6% in early trading, wiping out some $500bn in market capitalization.
+
+Some tech investors were impressed at how quickly DeepSeek was able to create an AI assistant that nearly equals Google’s and OpenAI’s for roughly $5m while other AI companies spend billions for the same results, particularly with China under strict chip export controls that limit DeepSeek’s access to computational power. The model’s low-budget success could threaten the US’s lead in the AI market.
+
+“Deepseek R1 is AI’s Sputnik moment,” the investor Marc Andreessen wrote on X. Carrying on the “Sputnik” theme, Vivek Ramaswamy posted: “Sputnik-like moments are a good thing. We don’t need to freak out, we just need to wake up.” Ramaswamy is an entrepreneur and politician who is close to Donald Trump.
+
+Trump himself announced a new $500bn AI venture called Stargate last week. It is a collaboration with OpenAI, Softbank and Oracle, and the president guaranteed it would be “the future of technology” in the US. The announcement was derided by the Trump ally and AI pioneer Elon Musk, who got into a tiff on X with OpenAI’s CEO, Sam Altman, over how much money Stargate actually has to invest.
+
+Trump, who was attending a House Republicans conference in Florida, said the emergence of DeepSeek should be a “wake-up call” for US companies. He said American companies “need to be laser-focused on competing to win”.
+
+Trump said his decision to revoke the Biden AI rules through executive order would allow AI companies to “focus on being the best” instead of on being the most “woke”.
+
+DeepSeek did not return a request for comment.

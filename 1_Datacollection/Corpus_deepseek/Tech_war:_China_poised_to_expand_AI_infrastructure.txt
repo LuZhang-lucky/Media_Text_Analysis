@@ -1,0 +1,13 @@
+Advertisement
+
+The Stargate Project – a venture initially led by SoftBank Group ChatGPT creator OpenAI , Oracle and Emirati investment firm MGX – plans to plough up to US$500 billion in the US over the next four years into an advanced network of data centres , housing high-performance computing infrastructure needed for AI development initiatives. The first such facilities have already started construction in the state of Texas.
+
+“China has been making stunning strides in building intelligent computing centres,” Omdia chief analyst Lian Jye said on Thursday. “As long as China keeps with the current pace, the country’s [computing infrastructure] gap with the US will narrow further … in spite of the Stargate Project”.
+
+That assessment reflects how a growing number of Chinese local governments, state-owned telecommunications network operators and Big Tech companies have been building high-performance computing facilities over the past few years amid sweeping semiconductor export restrictions imposed by the US
+
+Official data showed that about 250 advanced data centres and other computing facilities were being completed or were under construction across the mainland at the end of June last year.
+
+Advertisement
+
+The China Academy of Information and Communications Technology, a scientific research institute under the Ministry of Industry and Information Technology (MIIT), estimated that the nation’s total scale of computing power in 2023 reached 230 eflops – a unit for measuring the speed of a computer system, equal to one quintillion floating-point operations a second – which put the country behind the US.

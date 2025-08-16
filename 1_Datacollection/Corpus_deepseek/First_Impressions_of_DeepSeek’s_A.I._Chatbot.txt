@@ -1,0 +1,7 @@
+A new chatbot created by the Chinese company DeepSeek is the talk of the A.I. world, and has sent a jolt through the U.S. stock market. Not only does it seem to be comparable to those of leading companies like OpenAI and Anthropic, but it was seemingly created with a fraction of the resources.
+
+Throughout Monday morning, the app experienced outages, which it said were from high traffic. And it temporarily limited registrations due to a cyber attack. Still, DeepSeek quickly became the most downloaded free app on Apple’s app store, overtaking ChatGPT.
+
+I spent the morning playing with the chatbot, asking it, along with OpenAI’s ChatGPT and Anthropic’s Claude, all the questions I could think of. After some initial toying, I was impressed.
+
+It was able to solve some complex math, physics and reasoning problems I fed it twice as fast as OpenAI’s ChatGPT. When I asked it questions about computer programming, the types a job applicant might be faced with in a technical interview, its responses were as in-depth and speedy as its competitors.

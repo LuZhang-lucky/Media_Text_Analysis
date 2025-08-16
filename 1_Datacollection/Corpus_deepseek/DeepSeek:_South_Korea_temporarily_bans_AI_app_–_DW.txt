@@ -1,0 +1,29 @@
+Authorities said Chinese AI app DeepSeek will be removed from app stores temporarily, pending a review. Many countries have raised concerns over the app's collection and usage of sensitive data.
+
+South Korea on Monday said the ChineseAI DeepSeek app would not be available from local app stores, pending a review of the company's handling of user data.
+
+Choi Jang-hyuk, vice chairperson of Seoul's Personal Information Protection Commission, told reporters that authorities will "thoroughly examine" DeepSeek's personal data processing practices "to ensure compliance" with local laws.
+
+App temporarily suspended
+
+The data protection agency also added in a statement that DeepSeek was cooperating with them and "acknowledged that considerations for domestic privacy laws were somewhat lacking."
+
+Authorities said this will take time which was why they were temporarily suspending the app in the country.
+
+The app was removed from local app stores on Saturday and the South Korean version of the Apple store on Monday. Users who had already downloaded DeepSeek were still able to use the app.
+
+Seoul asked existing users to use the app with extreme caution until it was made compliant with local laws.
+
+DeepSeek and data privacy
+
+The Chinese startup has gained a lot of attention in recent weeks due to its ability to match functions of western AI chatbots such as ChatGPT at a fraction of the cost. However, many countries are wary of its storage of personal data from users.
+
+DeepSeek says the data is stored in secure servers located in China.
+
+Earlier this month, many South Korean government ministries and police had banned access to DeepSeek on their devices. Australia has also banned the app from all government devices over concerns that the app was gathering too much sensitive information.
+
+Beijing denies trying to use companies to access private data, and has condemned the "politicisation of economic, trade and technological issues."
+
+DeepSeek: Cheap AI model shakes up tech industry To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+
+Edited by: Kieran Burke

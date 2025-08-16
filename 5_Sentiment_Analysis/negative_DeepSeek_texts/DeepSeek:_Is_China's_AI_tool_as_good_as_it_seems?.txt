@@ -1,0 +1,21 @@
+Is China's AI tool DeepSeek as good as it seems?
+
+DeepSeek, a Chinese AI-chatbot app which launched last week, has sparked chaos in the US markets and raised questions about the future of America's AI dominance. The BBC takes a look at how the app works.
+
+DeepSeek looks and feels like any other chatbot, though it leans towards being overly chatty.
+
+Just as with OpenAI's ChatGPT or Google's Gemini, you open the app (or website) and ask it questions about anything, and it does its best to give you a response.
+
+It gives long answers and will not be drawn on expressing an opinion, however directly it is asked for one.
+
+The chatbot often begins its response by saying the topic is "highly subjective" – whether that is politics (is Donald Trump a good US president?) or soft drinks (which is more tasty, Pepsi or Coke?).
+
+It wouldn't even commit to saying whether or not it was better than OpenAI's rival artificial intelligence (AI) assistant ChatGPT, but it did weigh up the pros and cons of both - ChatGPT did exactly the same, and even used very similar language.
+
+DeepSeek says it was trained on data up to October 2023, and while the app seems to have access to current information such as today's date, the website version does not.
+
+That is not dissimilar to earlier versions of ChatGPT and is probably a similar attempt at safeguarding – to stop the chatbot spewing out misinformation pumped onto the web in real time.
+
+It can be quite fast in its responses, but is currently groaning under the weight of so many people rushing to try it out as it has gone viral.
+
+But there is one area in which it is nothing like its US rival - DeepSeek censors itself when it comes to questions about subjects banned in China.

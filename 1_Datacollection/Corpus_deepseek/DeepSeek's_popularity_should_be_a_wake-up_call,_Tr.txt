@@ -1,0 +1,35 @@
+The popularity of China's DeepSeek's chatbot appears to have shattered a widespread belief that developing artificial intelligence requires many billions of dollars of investment as has been in the case of US AI models.
+
+US President Donald Trump said Monday that Chinese AI startup DeepSeek's dark-horse entry into the AI race should serve as a "wake-up call" for American companies developing artificial intelligence.
+
+"Hopefully, the release of DeepSeek AI from a Chinese company should be a wake-up call for our industries that we need to be laser-focused on competing to win," Trump told a Republican congressional retreat in Florida.
+
+Trump's comments came after the AI model powering DeepSeek's chatbot began outperforming top US models, with the Chinese company saying they were made at a fraction of the cost.
+
+By Monday, DeepSeek's chatbot was the number one product on the Apple App Store in the US, surpassing OpenAI's ChatGPT chatbot that had taken the internet by storm in a similar fashion when it first burst onto the scene in 2023.
+
+DeepSeek rattles tech stocks
+
+The increasing popularity of DeepSeek has shaken the confidence of investors, while raising bigger questions about the future of American AI models.
+
+Nvidia, the leading supplier of AI chips, lost close to 600 billion in market cap on Monday, the biggest drop for any company on a single day in US history.
+
+In Japan, chip-testing equipment maker Advantest, a supplier to Nvidia, lost 10% on Tuesday after diving nearly 9% on Monday.
+
+Chip-making equipment maker Tokyo Electron fell 5.3%, while technology start-up investor SoftBank Group was 6% lower.
+
+Over in the US, Broadcom finished down 17.4%, followed by ChatGPT backer Microsoft which fell 2.1% and then Google parent Alphabet which ended down 4.2%.
+
+Trump says shock could also be 'positive' for US companies
+
+Trump said the shock news could spur a "positive" future for US tech companies, as it would force them to innovate more cheaply.
+
+"I've been reading about China and some of the companies in China, one in particular coming up with a faster method of AI and much less expensive method, and that's good because you don't have to spend as much money. I view that as a positive, as an asset," Trump said.
+
+"I view that as a positive because you'll be doing that too, so you won't be spending as much, and you'll get the same result, hopefully," he added.
+
+Last week, Trump announced a $500 billion (€478 billion) project to build AI infrastructure in the US, led by Japanese giant SoftBank and ChatGPT maker OpenAI.
+
+Why does AI need so much energy? To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+
+dh/rm (AFP, Reuters)

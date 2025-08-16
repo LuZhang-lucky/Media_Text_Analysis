@@ -1,0 +1,53 @@
+The potential for artificial intelligence systems to be used for malicious acts is increasing, according to a landmark report by AI experts, with the study’s lead author warning that DeepSeek and other disruptors could heighten the safety risk.
+
+Yoshua Bengio, regarded as one of the godfathers of modern AI, said advances by the Chinese startup DeepSeek could be a worrying development in a field that has been dominated by the US in recent years.
+
+“It’s going to mean a closer race, which usually is not a good thing from the point of view of AI safety,” he said.
+
+Bengio said American firms and other rivals to DeepSeek could focus on regaining their lead instead of on safety. OpenAI, the developer of ChatGPT, which DeepSeek has challenged with the launch of its own virtual assistant, pledged this week to accelerate product releases as a result.
+
+“If you imagine a competition between two entities and one thinks they’re way ahead, then they can afford to be more prudent and still know that they will stay ahead,” Bengio said. “Whereas if you have a competition between two entities and they think that the other is just at the same level, then they need to accelerate. Then maybe they don’t give as much attention to safety.”
+
+Bengio was speaking in a personal capacity before the publication of a wide-ranging report on AI safety.
+
+The first full International AI Safety report has been compiled by a group of 96 experts including the Nobel prize winner Geoffrey Hinton. Bengio, a co-winner in 2018 of the Turing award – referred to as the Nobel prize of computing – was commissioned by the UK government to preside over the report, which was announced at the global AI safety summit at Bletchley Park in 2023. Panel members were nominated by 30 countries as well as the EU and UN. The next global AI summit takes place in Paris on 10 and 11 February.
+
+The report states that since publication of an interim study in May last year, general-purpose AI systems such as chatbots have become more capable in “domains that are relevant for malicious use”, such as the use of automated tools to highlight vulnerabilities in software and IT systems, and giving guidance on the production of biological and chemical weapons.
+
+It says new AI models can generate step-by-step technical instructions for creating pathogens and toxins that surpass the capability of experts with PhDs, with OpenAI acknowledging that its advanced o1 model could assist specialists in planning how to produce biological threats.
+
+However, the report says it is uncertain whether novices would be able to act on the guidance, and that models can also be used for beneficial purposes such as in medicine.
+
+Speaking to the Guardian, Bengio said models had already emerged that could, with the use of a smartphone camera, theoretically guide people through dangerous tasks such as trying to build a bioweapon.
+
+“These tools are becoming easier and easier to use by non-experts, because they can decompose a complicated task into smaller steps that everyone can understand, and then they can interactively help you get them right. And that’s very different from using, say, Google search,” he said.
+
+The report says AI systems have improved significantly since last year in their ability to spot flaws in software autonomously, without human intervention. This could help hackers plan cyber-attacks.
+
+However, the report says carrying out real-world attacks autonomously is beyond AI systems so far because they require “an exceptional level of precision”.
+
+Elsewhere in its analysis of the risks posed by AI, the report points to a significant increase in deepfake content, where the technology is used to produce a convincing likeness of a person – whether their image, voice or both. It says deepfakes have been used to trick companies into handing over money, to commit blackmail and to create pornographic images of people. It says gauging the precise level of increase in such behaviour is difficult due to a lack of comprehensive and reliable statistics.
+
+There are also risks of malicious use because so-called closed-source models, where the underlying code cannot be modified, can be vulnerable to jailbreaks that circumvent safety guardrails, while open-source models such as Meta’s Llama, which are free to download and can be tweaked by specialists, pose risks of “facilitating malicious or misguided” use by bad actors.
+
+In a last-minute addition to the report written by Bengio, the Canadian computer scientist notes the emergence in December – shortly after the report had been finalised – of a new advanced “reasoning” model by OpenAI called o3. Bengio said its ability to make a breakthrough on a key abstract reasoning test was an achievement that many experts, including himself, had thought until recently was out of reach.
+
+skip past newsletter promotion Sign up to TechScape Free weekly newsletter A weekly dive in to how technology is shaping our lives Enter your email address Sign up Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
+
+“The trends evidenced by o3 could have profound implications for AI risks,” writes Bengio, who also flagged DeepSeek’s R1 model. “The risk assessments in this report should be read with the understanding that AI has gained capabilities since the report was written.”
+
+Bengio told the Guardian that advances in reasoning could have consequences for the job market by creating autonomous agents capable of carrying out human tasks, but could also assist terrorists.
+
+“If you’re a terrorist, you’d like to have an AI that’s very autonomous,” he said. “As we increase agency, we increase the potential benefits of AI and we increase the risks.”
+
+However, Bengio said AI systems had yet to pull off the long-term planning that could create fully autonomous tools that evade human control. “If an AI cannot plan over a long horizon, it’s hardly going to be able to escape our control,” he said.
+
+Elsewhere, the near 300-page report cites “well-established” concerns about AI including generating scams and child sexual abuse imagery; biased outputs, and privacy violations such as the leaking of sensitive information shared with a chatbot. It said researchers had not been able to “fully resolve” those fears.
+
+AI can be loosely defined as computer systems performing tasks that typically require human intelligence.
+
+The report, whose full title is the International Scientific Report on the Safety of Advanced AI, flags AI’s “rapidly growing” impact on the environment through the use of datacentres, and the potential for AI agents to have a “profound” impact on the job market.
+
+It says the future of AI is uncertain, with a wide range of outcomes possible in the near future including “very positive and very negative outcomes”. It says societies and governments still have a chance to decide which path the technology takes.
+
+“This uncertainty can evoke fatalism and make AI appear as something that happens to us. But it will be the decisions of societies and governments on how to navigate this uncertainty that determine which path we will take,” the report says.

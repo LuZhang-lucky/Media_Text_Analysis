@@ -1,0 +1,83 @@
+Elon Musk and Palmer Luckey are among tech leaders to cast doubts on the Chinese startup’s claimed budget and chip use.
+
+After causing shockwaves with an AI model with capabilities rivalling the creations of Google and OpenAI, China’s DeepSeek is facing questions about whether its bold claims stand up to scrutiny.
+
+The Hangzhou-based startup’s announcement that it developed R1 at a fraction of the cost of Silicon Valley’s latest models immediately called into question assumptions about the United States’s dominance in AI and the sky-high market valuations of its top tech firms.
+
+Some sceptics, however, have challenged DeepSeek’s account of working on a shoestring budget, suggesting that the firm likely had access to more advanced chips and more funding than it has acknowledged.
+
+“It’s very much an open question whether DeepSeek’s claims can be taken at face value. The AI community will be digging into them and we’ll find out,” Pedro Domingos, professor emeritus of computer science and engineering at the University of Washington, told Al Jazeera.
+
+“It’s plausible to me that they can train a model with $6m,” Domingos added.
+
+“But it’s also quite possible that that’s just the cost of fine-tuning and post-processing models that cost more, that DeepSeek couldn’t have done it without building on more expensive models by others.”
+
+In a research paper released last week, the DeepSeek development team said they had used 2,000 Nvidia H800 GPUs – a less advanced chip originally designed to comply with US export controls – and spent $5.6m to train R1’s foundational model, V3.
+
+OpenAI CEO Sam Altman has stated that it cost more than $100m to train its chatbot GPT-4, while analysts have estimated that the model used as many as 25,000 more advanced H100 GPUs.
+
+The announcement by DeepSeek, founded in late 2023 by serial entrepreneur Liang Wenfeng, upended the widely held belief that companies seeking to be at the forefront of AI need to invest billions of dollars in data centres and large quantities of costly high-end chips.
+
+Advertisement
+
+It also raised questions about the effectiveness of Washington’s efforts to constrain China’s AI sector by banning exports of the most advanced chips.
+
+Shares of California-based Nvidia, which holds a near-monopoly on the supply of GPUs that power generative AI, on Monday plunged 17 percent, wiping nearly $593bn off the chip giant’s market value – a figure comparable with the gross domestic product (GDP) of Sweden.
+
+While there is broad consensus that DeepSeek’s release of R1 at least represents a significant achievement, some prominent observers have cautioned against taking its claims at face value.
+
+Palmer Luckey, the founder of virtual reality company Oculus VR, on Wednesday labelled DeepSeek’s claimed budget as “bogus” and accused too many “useful idiots” of falling for “Chinese propaganda”.
+
+“It is pushed by a Chinese hedge fund to slow investment in American AI startups, service their own shorts against American titans like Nvidia, and hide sanction evasion,” Luckey said in a post on X.
+
+“America is a fertile bed for psyops like this because our media apparatus hates our technology companies and wants to see President Trump fail.”
+
+In an interview with CNBC last week, Alexandr Wang, CEO of Scale AI, also cast doubt on DeepSeek’s account, saying it was his “understanding” that it had access to 50,000 more advanced H100 chips that it could not talk about due to US export controls.
+
+Wang did not provide evidence for his claim.
+
+Tech billionaire Elon Musk, one of US President Donald Trump’s closest confidants, backed DeepSeek’s sceptics, writing “Obviously” on X under a post about Wang’s claim.
+
+DeepSeek did not respond to requests for comment.
+
+But Zihan Wang, a PhD candidate who worked on an earlier DeepSeek model, hit back at the startup’s critics, saying, “Talk is cheap.”
+
+“It’s easy to criticize,” Wang said on X in response to questions from Al Jazeera about the suggestion that DeepSeek’s claims should not be taken at face value.
+
+“If they’d spend more time working on the code and reproduce the DeepSeek idea theirselves it will be better than talking on the paper,” Wang added, using an English translation of a Chinese idiom about people who engage in idle talk.
+
+He did not respond directly to a question about whether he believed DeepSeek had spent less than $6m and used less advanced chips to train R1’s foundational model.
+
+In a 2023 interview with Chinese media outlet Waves, Liang said his company had stockpiled 10,000 of Nvidia’s A100 chips – which are older than the H800 – before the administration of then-US President Joe Biden banned their export.
+
+Advertisement
+
+Users of R1 also point to limitations it faces due to its origins in China, namely its censoring of topics considered sensitive by Beijing, including the 1989 massacre in Tiananmen Square and the status of Taiwan.
+
+In a sign that the initial panic about DeepSeek’s potential impact on the US tech sector had begun to recede, Nvidia’s stock price on Tuesday recovered nearly 9 percent.
+
+The tech-heavy Nasdaq 100 rose 1.59 percent after dropping more than 3 percent the previous day.
+
+Tim Miller, a professor specialising in AI at the University of Queensland, said it was difficult to say how much stock should be put in DeepSeek’s claims.
+
+“The model itself gives away a few details of how it works, but the costs of the main changes that they claim – that I understand – don’t ‘show up’ in the model itself so much,” Miller told Al Jazeera.
+
+Miller said he had not seen any “alarm bells” but there are reasonable arguments both for and against trusting the research paper.
+
+“The breakthrough is incredible – almost a ‘too good to be true’ style. The breakdown of costs is unclear,” Miller said.
+
+On the other hand, he said, breakthroughs do happen occasionally in computer science.
+
+“These massive-scale models are a very recent phenomenon, so efficiencies are bound to be found,” Miller said.
+
+“Given they knew that this would be reasonably straightforward for others to reproduce, they would have known that they would look stupid if they were b*********** everyone. There is a team already committed to trying to reproduce the work.”
+
+Falling costs
+
+Lucas Hansen, co-founder of the nonprofit CivAI, said while it was difficult to know whether DeepSeek circumvented US export controls, the startup’s claimed training budget referred to V3, which is roughly equivalent to OpenAI’s GPT-4, not R1 itself.
+
+“GPT-4 finished training late 2022. There have been a lot of algorithmic and hardware improvements since 2022, driving down the cost of training a GPT-4 class model. A similar situation happened for GPT-2. At the time it was a serious undertaking to train, but now you can train it for $20 in 90 minutes,” Hansen told Al Jazeera.
+
+“DeepSeek made R1 by taking a base model – in this case, V3 – and applying some clever methods to teach that base model to think more carefully,” Hansen added.
+
+“This teaching process is comparatively cheap when compared to the price of training the base model. Now that DeepSeek has published details about how to bootstrap a base model into a thinking model, we will see a huge number of new thinking models.”

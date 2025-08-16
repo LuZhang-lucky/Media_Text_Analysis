@@ -1,0 +1,7 @@
+When a small Chinese company called DeepSeek revealed that it had created an A.I. system that could match leading A.I. products made in the United States, the news was greeted in many circles as a warning that China was closing the gap in the global race to build artificial intelligence.
+
+DeepSeek also said it built its new A.I. technology more cost effectively and with fewer hard-to-get computers chips than its American competitors, shocking an industry that had come to believe that bigger and better A.I. would cost billions and billions of dollars.
+
+But A.I. experts inside the tech giant Meta saw DeepSeek’s breakthrough as something more than the arrival of a nimble, new competitor from the other side of the world: It was vindication that an unconventional decision Meta made nearly two years ago was the right call.
+
+In 2023, Meta, in a widely criticized move, gave away its cutting-edge A.I. technology after spending millions to build it. DeepSeek used parts of that technology as well as other A.I. tools freely available on the internet through a software development method called open source.

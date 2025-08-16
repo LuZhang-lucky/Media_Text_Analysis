@@ -1,0 +1,81 @@
+One Australian company has discouraged staff from using the technology, others are scrambling for advice on its cybersecurity implications – while federal government ministers are urging caution.
+
+But others have welcomed DeepSeek’s arrival, calling for Australia to follow China’s lead in developing powerful yet less energy-intensive AI technology.
+
+In the days since the Chinese company launched its R1 artificial intelligence model and publicly released its chatbot and app, it has upended the AI industry.
+
+Several global industry leaders saw their market values drop after the launch, as DeepSeek showed AI could be developed using a fraction of the cost and processing required to train models such as ChatGPT or Meta’s Llama.
+
+Its arrival may signal a new industry shift, but for government and business, the effect is unclear. Whereas ChatGPT’s 2022 arrival caught governments and businesses by surprise as staff began to try out the new AI technology, at least for the arrival of Deepseek, some had a playbook.
+
+Business as usual
+
+A spokesperson for Telstra said the company had “a rigorous process to assess all AI tools, capabilities, and use cases in our business”, including a list of approved generative AI tools, and guidelines on how to use them.
+
+For now at Telstra, DeepSeek is not approved and its use is not encouraged (although it’s not officially blocked).
+
+“Our preferred partner is MS Copilot, and we’re rolling out 21,000 Copilot for Microsoft 365 licences to our employees.”
+
+Other companies sought immediate advice on whether DeepSeek should be adopted.
+
+Major Australian cybersecurity firm CyberCX’s executive director of cyber intelligence, Katherine Mansted, said customers had already approached the company for advice on whether the technology was safe.
+
+“That’s no surprise, because it seems the whole world has been in a bit of a DeepSeek frenzy – both the economically and market inclined and those with the security lens,” Mansted said.
+
+DeepSeek and government
+
+CyberCX this week took the unusual step of quickly issuing advice recommending organisations, including government departments and those storing sensitive information, strongly consider restricting access to DeepSeek on work devices.
+
+“We know that there is no proactive policy here from government … We’ve been down this road before,” Mansted said. “We’ve had debates about TikTok, about Chinese surveillance cameras, about Huawei in the telco network, and we always act after the fact, not before the fact … Here, particularly because the threats are around compromise of sensitive information, in terms of any information that you put into this AI assistant: it’s going straight to China.
+
+“We thought we needed to act faster this time.”
+
+Under federal AI policy implemented in September 2024, agencies have until the end of February 2025 to publish transparency documents about their use of AI.
+
+But understanding who makes decisions on the specific use of DeepSeek in the federal government has proved tricky. The attorney general’s department, which made the decision to ban TikTok use on government devices, referred inquiries to the Digital Transformation Agency, which in turn referred enquires to the Department of Home Affairs.
+
+Home Affairs was asked on Thursday for its official policy and did not provide a response by the time of publication.
+
+Familiar debates …
+
+Some of the reaction in Australia to DeepSeek is by now familiar. There have been calls to ban the technology, amid concern over how the Chinese government might access user data – an echo of the days Huawei was banned from the NBN and 5G rollouts in Australia, and more recently, of the debate over banning TikTok.
+
+The Australian Strategic Policy Institute, a strong critic of the China government, said this week that Australia “cannot continue the current approach of responding to each new tech development”. It called for a tech strategy covering AI that included investing in sovereign AI capabilities.
+
+The industry minister, Ed Husic, said on Tuesday it was too early to make a decision on whether DeepSeek was a security risk.
+
+skip past newsletter promotion Sign up to Breaking News Australia Free newsletter Get the most important news as it breaks Enter your email address Sign up Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
+
+“If there is anything that presents a risk in the national interest, we will always keep an open mind and watch what occurs. I think it’s too early to jump to conclusions on that,” he said. “But, again, if we have to act, then responsible governments do.”
+
+He stressed that Australia is “in the final stages” of planning its response and would develop its own regulatory settings.
+
+“The US is flagging their approach. The EU has theirs. Canada likewise will have a different approach. And our regional partners as well are looking at this,” he said.
+
+“We will harmonise where we can and we’ll localise where we have to, and that’s the approach that we will take.”
+
+DeepSeek was approached for comment.
+
+… and new inspiration
+
+There are suggestions Australia could learn from what DeepSeek has achieved.
+
+DeepSeek, headed by previous hedge fund co-founder Liang Wenfeng, reportedly focused on research into developing AI over looking for ways to turn a profit, hiring top graduates from Chinese universities or those relatively early on in their careers.
+
+The Tech Council of Australia – whose members include Microsoft, Atlassian, Google and IBM – argued Australia should adopt a similar approach.
+
+“The process that DeepSeek has taken from going from idea to world-leading technology in less than two years, and they’ve done so employing largely new graduates straight out of universities – this is a model that Australia should be following,” the lobby group’s head of policy, Harry Godber, said.
+
+“We have some of the greatest AI research occurring at Australian universities. We also have amazing R and D that’s been undertaken by Australian companies like Atlassian and Canva.”
+
+Australia’s newly appointed chief scientist, Tony Haymet, noted on Tuesday how quickly DeepSeek had changed the conversation around AI.
+
+“Privately funded in Shanghai, a bunch of talented 22-year-olds without access to the world’s best chips, without access to Nvidia chips, seem to have created something that’s even better than the best companies in the western world have done,” he said.
+
+Husic last year announced plans to develop an AI capability plan by the end of 2025, as the government also looks towards mandatory guardrails for “high risk” AI.
+
+The Tech Council’s chief executive, Damian Kassabgi, said Australia stood to benefit from DeepSeek’s demonstrated cost and computing power efficiencies.
+
+But he argued the capability plan wasn’t moving quickly enough, with other countries pulling ahead in the AI race.
+
+“When we look at our R&D investment in Australia, especially business investment, we’re about one-third of that of the US [on GDP spend],” Kassabgi said. “So we’re not just a little bit behind.”

@@ -1,0 +1,19 @@
+Chinese artificial intelligence (AI) start-up DeepSeek’s chatbot app has dethroned OpenAI’s ChatGPT to claim the top spot on the US iOS App Store, a development that could potentially change the AI landscape due to its open-sourced approach.
+
+Advertisement
+
+DeepSeek’s namesake AI chatbot, which was released in the US App Store on January 10 and is free to use, skyrocketed in popularity in the US after the Chinese firm’s subsequent launch of its R1 open-source reasoning model.
+
+The release of DeepSeek’s R1 reasoning model attracted widespread attention in the global tech community, owing to a combination of performance and cost that undercuts its US rivals like OpenAI’s o1 series of reasoning models. On its website, DeepSeek said the model rivals OpenAI’s o1.
+
+DeepSeek founder Liang Wenfeng (right) was invited to meet Chinese Premier Li Qiang last week. Photo: CCTV
+
+DeepSeek has integrated the reasoning model into the web and app versions of its chatbots for unlimited use at no cost.
+
+In comparison, OpenAI charges US$200 per month for unlimited access to its o1 models, or a minimum of a US$20 monthly fee for a standard plan that includes limited access.
+
+R1 was ranked No 3 by Chatbot Arena, a benchmarking project from AI researchers at UC Berkeley who evaluate an AI model’s performance.
+
+Advertisement
+
+It trails only two models from Google’s Gemini family, ranks higher than a series of OpenAI’s o1 models, and is currently the highest-ranked open-source model by Chatbot Arena.

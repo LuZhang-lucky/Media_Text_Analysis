@@ -1,0 +1,15 @@
+Developers at leading AI firms in the United States are praising the DeepSeek AI models that have leapt into prominence while also trying to poke holes in the notion that their multibillion-dollar technology has been bested by a Chinese newcomer’s low-cost alternative.
+
+Advertisement
+
+Chinese start-up DeepSeek on Monday sparked a stock sell-off and its free AI assistant overtook OpenAI’s ChatGPT atop Apple’s App Store in the US, harnessing a model it said it trained on Nvidia’s lower-capability H800 processor chips using under US$6 million.
+
+As worries about competition reverberated across the US stock market, some AI experts applauded DeepSeek’s strong team and up-to-date research but remained unfazed by the development, said people familiar with the thinking at four of the leading AI labs, who declined to be identified as they were not authorised to speak on the record.
+
+OpenAI CEO Sam Altman wrote on social media that R1, one of several models DeepSeek released in recent weeks, “is an impressive model, particularly around what they’re able to deliver for the price”. Nvidia said in a statement DeepSeek’s achievement proved the need for more of its chips
+
+Software maker Snowflake decided on Monday to add DeepSeek models to its AI model marketplace after receiving a flurry of customer inquiries.
+
+Sam Altman, CEO of OpenAI, called DeepSeek’s R1 model “impressive”. Photo: Reuters
+
+With employees also calling DeepSeek’s models “amazing”, the US software seller weighed the potential risks of hosting AI technology developed in China before ultimately deciding to offer it to clients, said Christian Kleinerman, Snowflake’s executive vice-president of product.

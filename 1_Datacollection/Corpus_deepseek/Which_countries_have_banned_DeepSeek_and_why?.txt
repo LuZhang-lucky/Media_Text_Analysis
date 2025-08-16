@@ -1,0 +1,115 @@
+DeepSeek is banned on government devices in South Korea, Australia and Taiwan. More countries might follow suit.
+
+What’s DeepSeek and why is it sending shockwaves through global tech?
+
+This week, government agencies in countries including South Korea and Australia have blocked access to Chinese artificial intelligence (AI) startup DeepSeek’s new AI chatbot programme, mostly for government employees.
+
+Other countries, including the United States, have said they may also seek to block DeepSeek from government employees’ mobile devices, according to media reports. All cite “security concerns” about the Chinese technology and a lack of clarity about how users’ personal information is handled by the operator.
+
+Last month, DeepSeek made headlines after it caused share prices in US tech companies to plummet, after it claimed that its model would cost only a fraction of the money its competitors had spent on their own AI programmes to build. The news caused social media users to joke: “I can’t believe ChatGPT lost its job to AI.”
+
+Here’s what we know about DeepSeek and why countries are banning it.
+
+What is DeepSeek?
+
+DeepSeek is a Chinese AI startup. Based in Hangzhou city, it was founded by entrepreneur and businessman Liang Feng in 2023. Liang also founded the $7bn hedge fund group High-Flyer with two university classmates in 2016.
+
+In January, DeepSeek released the latest model of its programme, DeepSeek R1, which is a free AI-powered chatbot with a look and feel very similar to ChatGPT, owned by California-headquartered OpenAI.
+
+AI chatbots are computer programmes which simulate human-style conversation with a user. Users can ask the bot questions and it then generates conversational responses using information it has access to on the internet and which it has been “trained” with.
+
+Advertisement
+
+Among a plethora of potential uses, these programmes can be used to solve mathematics problems, draft text such as emails and documents, and translate or write codes.
+
+How does DeepSeek differ from ChatGPT and other similar programmes?
+
+For one, its developers say, it is much, much cheaper to build.
+
+DeepSeek sent shockwaves throughout AI circles when the company published a paper in December stating that “training” the latest model of DeepSeek – curating and in-putting the information it needs to answer questions – would require less than $6m-worth of computing power from Nvidia H800 chips.
+
+This is only a small fraction of the multibillion-dollar AI budgets enjoyed by US tech giants such as OpenAI for ChatGPT and US-owned Google for Gemini. OpenAI CEO Sam Altman said that OpenAI’s latest programme, GPT-4, cost more than $100m to train, Wired reported in April 2023.
+
+The new DeepSeek programme was released to the public on January 20. By January 27, DeepSeek’s app had already hit the top of Apple’s App Store chart. As a result, American multinational Nvidia, which holds a near-monopoly on making semiconductors for generative AI, lost nearly $600bn in market capitalisation when the share price plummeted by 17 percent.
+
+Which countries are banning DeepSeek’s AI programme?
+
+Some government agencies in several countries are seeking or enacting bans on the AI software for their employees. These include:
+
+United States
+
+The Wall Street Journal reported on Thursday that US lawmakers were planning to introduce a government bill to block DeepSeek from government-owned devices.
+
+On January 31, US space agency NASA blocked DeepSeek from its systems and the devices of its employees. A week earlier, the US Navy warned its members in an email against using DeepSeek because of “potential security and ethical concerns associated with the model’s origin and usage”, CNBC reported.
+
+South Korea
+
+A spokesperson for South Korea’s Ministry of Trade, Industry and Energy announced on Wednesday that the industry ministry had temporarily prohibited DeepSeek on employees’ devices, also citing security concerns.
+
+Officials said that the government had urged ministries and agencies on Tuesday to be careful about using AI programmes generally, including ChatGPT and DeepSeek.
+
+This came after Seoul’s information privacy watchdog, the Personal Information Protection Commission, announced on January 31 that it would send a written request to DeepSeek for details about how the personal information of users is managed.
+
+Advertisement
+
+Korea Hydro & Nuclear Power, which is run by the South Korean government, said it blocked the use of AI services on its workers’ devices including DeepSeek last month.
+
+Australia
+
+The Australian government announced on Tuesday that it has blocked access to DeepSeek on all government devices, claiming there were “security risks”.
+
+This ban was mandated for all government agencies in a Tuesday statement by the secretary of the Department of Home Affairs. The statement directed all government entities to “prevent the use or installation of DeepSeek products, applications and web services and where found remove all existing instances of DeepSeek products, applications and web services from all Australian Government systems and devices”.
+
+Home Affairs Minister Tony Burke said that the ban was “to protect Australia’s national security and national interest”, Australian media outlets reported.
+
+Italy
+
+On January 30, the Italian Data Protection Authority (Garante) announced that it had ordered “the limitation on processing of Italian users’ data” by DeepSeek because of the lack of information about how DeepSeek might use personal data provided by users.
+
+Two days before, the Garante had announced that it was seeking answers about how users’ data was being stored and handled by the Chinese startup.
+
+Taiwan
+
+On Monday, Taiwan blocked government departments from using DeepSeek programmes, also blaming security risks.
+
+Why have some countries placed bans on the use of DeepSeek?
+
+Most countries blocking DeepSeek programmes say they are concerned about the security risks posed by the Chinese application. They also say they do not have enough information about how the personal data of users will be stored or used by the group.
+
+According to DeepSeek’s privacy policy, it collects the following data from users:
+
+Personal information including email, phone number, password and date of birth, which are used to register for the application.
+
+Chat history in the application, including text or audio that the user inputs into the chatbot.
+
+Technical information about the user’s device and network, such as IP address, keystroke patterns and operating system.
+
+It shares this information with service providers and advertising partners. This information is retained for “as long as necessary”, the company’s website states.
+
+According to ChatGPT’s privacy policy, OpenAI also collects personal information such as name and contact information given while registering, device information such as IP address and input given to the chatbot “for only as long as we need”. This information may also be shared with OpenAI’s affiliates.
+
+On Wednesday, ABC News cited a report by Ivan Tsarynny, CEO of Feroot Security, an Ontario-based cybersecurity firm which claimed that DeepSeek “has code hidden in its programming which has the built-in capability to send user data directly to the Chinese government”.
+
+Tsarynny told ABC that the DeepSeek application is capable of sending user data to “CMPassport.com, the online registry for China Mobile, a telecommunications company owned and operated by the Chinese government”. Al Jazeera has not been able to independently verify this claim.
+
+Is this an unusual practice?
+
+“Virtually all major tech companies – from Meta to Google to OpenAI – exploit user data to some extent,” Eddy Borges-Rey, associate professor in residence at Northwestern University in Qatar, told Al Jazeera.
+
+Advertisement
+
+“They use data for targeted advertising, algorithmic refinement and AI training. Many have been fined or investigated for privacy breaches, but they continue operating because their activities are somewhat regulated within jurisdictions like the EU and the US,” he added.
+
+Borges-Rey explained that Chinese platforms such as DeepSeek are “treated differently by the West because they are seen as operating under the jurisdiction of the Chinese government, which has laws [such as the National Intelligence Law] that theoretically allow state access to corporate data”.
+
+He added, “Western governments fear that user data collected by Chinese platforms could be used for espionage, influence operations, or surveillance. Whether this is happening in practice is debatable, but the mere possibility is enough to justify bans from a national security perspective.”
+
+By contrast, Western applications are not perceived as a national security threat by Western governments. “Western companies are often seen as problematic but fixable through regulation, whereas Chinese companies are seen as direct security threats requiring bans.”
+
+In 2023, ChatGPT set off concerns that it had breached the European Union General Data Protection Regulation (GDPR). On April 1, Italy temporarily blocked the service for all users in the country. On April 28, 2023, ChatGPT was restored in Italy and OpenAI said it had “addressed or clarified” the issues raised by the Garante. The Garante told the BBC that it “welcomed the measures OpenAI implemented”.
+
+Are there concerns about the use of AI beyond security?
+
+Besides security and privacy concerns, there have been other concerns about the use of chatbots in workplace and academic settings, said Nayana Prakash, research fellow on the international security programme at London-based Chatham House. “From fears about bias to copyright breaches to the impact of LLMs [large language models] on many forms of original content.”
+
+For its part, China blocks access to Western technology companies including X, Facebook and even ChatGPT for all users in the country.

@@ -1,0 +1,37 @@
+DeepSeek’s advances have sparked a nationwide push in China to deploy its large language models everywhere from hospitals to local governments as Beijing seeks to consolidate its gains in generative artificial intelligence.
+
+Since the Hangzhou-based start-up shook global markets with its R1 model in late January there has been lightning adoption of its technology in its home country, with companies and state bodies throwing their weight behind the new national AI champion.
+
+All the major cloud service providers, at least six car manufacturers, several local governments, a number of hospitals and a handful of state-owned enterprises (SOEs) have moved to deploy DeepSeek, with the shift among traditionally conservative institutions particularly striking.
+
+“Even though the [Chinese Communist] party has long been supportive of AI, DeepSeek has provided the impetus for government departments and SOEs to roll out LLMs,” said an SOE tech supplier who did not wish to be named. “DeepSeek changed everything. It started a nationwide effort to push forward Chinese AI,” they added.
+
+The low cost of deploying DeepSeek’s models has contributed to the rapid adoption. Adina Yakefu, China AI expert at machine learning platform Hugging Face, said DeepSeek was “profoundly reshaping the landscape of the industry” after it “lowered the barriers to model development and application through its open-source strategy, knowledge distillation techniques and cost-effective training solutions”.
+
+Jilin University Hospital in the eastern city of Changchun has rolled out a diagnostic tool it claims can produce treatment plans through DeepSeek consulting the hospital’s database, medical guidelines and drug efficacy results. Jinxin Women and Children’s Hospital in south-western China said it had a tool for patients to track their ovulation cycles, with test results combined with the hospital’s patient data to produce personalised fertility plans.
+
+One doctor at a public hospital in Hubei province in central China said the institution’s leadership had issued a directive that DeepSeek should be used as a third-party arbiter if two doctors have differing views on a patient’s treatment.
+
+There have been rollouts in public hospitals in Chengdu, Hangzhou and Wuhan for less complex applications, such as digital nurses directing patients to the right consulting room or explaining complicated medical reports.
+
+Several industry insiders cautioned against taking all the announcements at face value, as some companies were trying to capture investor enthusiasm around DeepSeek without meaningfully deploying its models. Meanwhile, government bodies are also under political pressure to be seen as aligned with China’s AI darling.
+
+The SOE tech supplier said “much work still needs to be done to make these models useful” for more complex work such as medical diagnosis. “It must be trained on enough medical data to produce good results. This will take time and needs collaboration from leading AI companies. It is not something hospitals can build on their own,” they said.
+
+Another doctor described a move to deploy DeepSeek last week at a hospital in eastern Zhejiang as a “publicity stunt”.
+
+Even if some announcements should be treated with scepticism, experts say the willingness to test out its models still marks a step change.
+
+“The pace at which DeepSeek is spreading is incredible. Before, conservative institutions like government agencies and hospitals were nervous about introducing generative AI applications, fearing trouble if something goes wrong,” said one Hangzhou-based AI engineer.
+
+Local governments, including Jinan’s and Hangzhou’s, have launched citizen chatbots built on DeepSeek so that residents can ask questions about everything from tax payments and rubbish collection to birth certificates. The city of Shenzhen’s Futian district has launched multiple AI agents built on DeepSeek models, including a document generation tool for law enforcement officers to draft administrative reports.
+
+Beijing’s public embrace of DeepSeek is fuelling the rapid adoption, with the start-up’s founder, Liang Wenfeng, invited to a meeting with President Xi Jinping this month, alongside business heavyweights such as BYD chair Wang Chuanfu, Huawei founder Ren Zhengfei and Alibaba founder Jack Ma.
+
+Tencent announced it deployed DeepSeek in the search function of its ubiquitous app, WeChat. BYD and Great Wall Motor are among the automakers that have rolled out DeepSeek. Meanwhile, many SOEs, including Sinopec, PetroChina and the China Southern Power Grid, have all said they are deploying its technology.
+
+DeepSeek is not capitalising financially on its widespread usage, according to people familiar with its business model. It allows its models to be downloaded for free and they can be run on public cloud or private servers, making providers such as AliCloud and Huawei Cloud the prime beneficiaries of the recent surge in uptake.
+
+HSBC tech hardware analyst Frank He wrote in an analyst note that DeepSeek “AI inferencing workloads have been surging, triggered by the growing popularity of DeepSeek R1 in recent weeks”. He predicted demand would continue and “trigger related hardware and software upgrades in cloud computing and AI infrastructure”.
+
+Additional reporting by Tina Hu in Beijing

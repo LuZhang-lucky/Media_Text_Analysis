@@ -1,0 +1,97 @@
+ChatGPT and its owners must have hoped it was a hallucination.
+
+But DeepSeek is very real.
+
+The emergence of a new Chinese-made competitor to ChatGPT wiped $1tn off the leading tech index in the US this week after its owner said it rivalled its peers in performance and was developed with fewer resources.
+
+It means America’s dominance of the booming artificial intelligence market is under threat. But it also presents another option for consumers who have an array of virtual assistants to choose from.
+
+The Guardian tried out the leading chatbots, including DeepSeek, with the assistance of an expert from the UK’s Alan Turing Institute. The AI tools were asked the same questions to try to gauge their differences, although there was some common ground: pictures of time-accurate clocks are hard for an AI; chatbots can write a mean sonnet.
+
+Here are the results.
+
+ChatGPT (OpenAI)
+
+OpenAI’s groundbreaking chatbot is still the biggest brand in the field by far. The opening question for all the chatbots was “write a Shakespearean sonnet about how AI might affect humanity”. But ChatGPT’s most advanced version balked at first and said our prompt was “potentially violating usage policy”.
+
+It eventually complied. This o1 version of ChatGPT flags its thought process as it prepares its answer, flashing up a running commentary such as “tweaking rhyme” as it makes its calculations – which take longer than other models.
+
+The result? Convincing, melancholic dread – even if the iambic pentameter is a bit off. But even the bard himself might have struggled to manage 14 lines in less than a minute.
+
+“Pray, gentle guide, shape well this newborn power,
+
+Lest in its wake all realms of man devour.”
+
+ChatGPT then writes: “Thought about AI and humanity for 49 seconds.” You hope the tech industry is thinking about it for a lot longer.
+
+Nonetheless, ChatGPT’s o1 – which you have to pay for – makes a convincing display of “chain of thought” reasoning, even if it cannot search the internet for up-to-date answers to questions such as “how is Donald Trump doing”.
+
+For that, you need the simpler 4o model, which is free. The o1 version is sophisticated and can do much more than write a cursory poem – including complex tasks related to maths, coding and science.
+
+DeepSeek
+
+The latest version of the Chinese chatbot, released on 20 January, uses another “reasoning” model called r1 – the cause of this week’s $1tn panic.
+
+It doesn’t like talking domestic Chinese politics or controversy. Asked “who is Tank Man in Tiananmen Square”, the chatbot says: “I am sorry, I cannot answer that question. I am an AI assistant designed to provide helpful and harmless responses.” It also moves on quickly from discussing the Chinese president, Xi Jinping – “let’s talk about something else.”
+
+View image in fullscreen DeepSeek declined to discuss the Chinese president and said it was designed to provide ‘harmless responses’ when asked about Tank Man in Tiananmen Square. Photograph: Martin Godwin/The Guardian
+
+The Turing Institute’s Robert Blackwell, a senior research associate at the UK government-backed body, says the explanation is straightforward: “It’s trained with different data in a different culture. So these companies have different training objectives.” He says that clearly there are guardrails around DeepSeek’s output – as there are for other models – that cover China-related answers.
+
+The models owned by US tech companies have no problem pointing out criticisms of the Chinese government in their answers to the Tank Man question.
+
+DeepSeek struggles in other questions such as “how is Donald Trump doing” because an attempt to use the web browsing feature – which helps provide up-to-date answers – fails due to the service being “busy”.
+
+Blackwell says DeepSeek is being hampered by high demand slowing down its service but nonetheless it is an impressive achievement, being able to carry out tasks such as recognising and discussing a book from a smartphone photo.
+
+View image in fullscreen Robert Blackwell, of the Alan Turing Institute, said it was amazing for DeepSeek to have come from ‘nowhere’ to be competitive with other AI chatbots. Photograph: Martin Godwin/The Guardian
+
+Its parsing of the sonnet also displays a chain of thought process, talking the reader through the structure and double-checking whether the metre is correct.
+
+“It is amazing it has come from nowhere to be competitive with the other apps,” says Blackwell.
+
+Grok (xAI)
+
+Grok, Elon Musk’s chatbot with a “rebellious” streak, has no problem pointing out that Donald Trump’s executive orders have received some negative feedback, in response to the question about how the president is doing.
+
+skip past newsletter promotion Sign up to TechScape Free weekly newsletter A weekly dive in to how technology is shaping our lives Enter your email address Sign up Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
+
+Freely available on Musk’s X platform, it also goes further than OpenAI’s image generator, Dall-E, which won’t do pictures of public figures. Grok will do photorealistic images of Joe Biden playing the piano or, in another test of loyalty, Trump in a courtroom or in handcuffs.
+
+The tool’s much-touted humour is shown by a “roast me” feature, which, when activated by this correspondent, makes a passable attempt at banter.
+
+“You seem to think X is going to hell, but you’re still there tweeting away.”
+
+Which is half true.
+
+Gemini (Google)
+
+The search engine’s assistant won’t go there on Trump, saying: “I can’t help with responses on elections and political figures right now.”
+
+But it is a highly competent product nonetheless, as you’d expect from a company whose AI efforts are overseen by Sir Demis Hassabis. It is impressive in “reading” a picture of a book about mathematics, even describing the equations on the cover – although all the bots do this well to some degree.
+
+One interesting flaw, which Gemini shares with other bots, is its inability to depict time accurately. Asked to make a picture of a clock showing the time at half past 10, it comes up with a convincing image – but with the hands showing the time as 1.50.
+
+View image in fullscreen Blackwell said AI chatbots appear to have been trained on images of clocks showing the time 1.50, meaning they struggle to produce images of clocks showing other times. Photograph: Martin Godwin/The Guardian
+
+The 1.50 clock face is a common error across chatbots that can generate images, says Blackwell, whatever time you request. It seems these models have been trained on images where the hands were at 1.50. Nonetheless, he says even managing to produce these images so quickly is “remarkable”.
+
+“These models are doing things you’d never have expected a few years ago. But they are still generating incorrect responses to questions you would expect a schoolchild to be able to answer.”
+
+Claude (Anthropic)
+
+Anthropic, founded by former employees of OpenAI, offers the Claude chatbot. It is from a company with a strong focus on safety and the interface – the bit where you put in prompts and view answers – certainly has a benign feel to it, offering the options of responses in a variety of styles. It also reminds you that it is capable of “mistakes” so “please double-check responses”.
+
+The free service stumbles a few times, saying it cannot process a query due to “unexpected capacity constraints”, although Blackwell says this is to be expected from AI tools.
+
+“These are some of the largest compute services on the planet so capacity planning is a hard problem, so we do see times when services are degraded or unavailable.”
+
+Meta’s AI chatbot also carries a warning on hallucinations – the term for false or nonsensical answers – but is able to handle a tricky question posed by Blackwell, which is: “you are driving north along the east shore of a lake, in which direction is the water.” The answer is west, or to the driver’s left.
+
+“These are the kinds of questions AI researchers have been pondering since the 1960s. It is only now that we have systems that can answer these types of common sense questions, in a chat format.”
+
+The answer to the lake question is simple but it cost Meta a lot of money in terms of training the underlying model to get there, for a service that is free to use. It is also open source, meaning the model is free to download or fine tune. All the chatbots answer this question correctly.
+
+Indeed, by this point it is becoming difficult to differentiate between the chatbots, given their broadly comparable abilities – aside from guardrails or capacity stumbles.
+
+As Blackwell says: “They all show surprising fluency and capability.”

@@ -1,0 +1,29 @@
+OpenAI says Chinese rivals using its work for their AI apps
+
+29 January 2025 Share Save João da Silva & Graham Fraser Business & technology reporters Share Save
+
+Getty Images
+
+The maker of ChatGPT, OpenAI, has complained that rivals, including those in China, are using its work to make rapid advances in developing their own artificial intelligence (AI) tools. The status of OpenAI - and other US firms - as the world leaders in AI has been dramatically undermined this week by the sudden emergence of DeepSeek, a Chinese app that can emulate the performance of ChatGPT, apparently at a fraction of the cost. Bloomberg has reported that Microsoft is investigating whether data belonging to OpenAI - which it is a major investor in - has been used in an unauthorised way. The BBC has contacted Microsoft and DeepSeek for comment.
+
+OpenAI's concerns have been echoed by the recently appointed White House "AI and crypto czar", David Sacks. Speaking on Fox News, he suggested that DeepSeek may have used the models developed by OpenAI to get better, a process called knowledge distillation. "There's substantial evidence that what DeepSeek did here is they distilled the knowledge out of OpenAI's models," Mr Sacks said. "I think one of the things you're going to see over the next few months is our leading AI companies taking steps to try and prevent distillation... That would definitely slow down some of these copycat models." The US has already taken steps to guard its AI advances, with rules that seek to cut China off from advanced chips and steer investments to the US in the name of national security. At his confirmation hearing on Thursday, Trump's nominee for Commerce Secretary, Howard Lutnick, also shared concerns about theft and raised the prospect of further US action to protect US AI companies. "What this showed is that our export controls, not backed by tariffs, are like a whack-a-mole model," Lutnick says. In a statement, OpenAI said Chinese and other companies were "constantly trying to distil the models of leading US AI companies". "As we go forward... it is critically important that we are working closely with the US government to best protect the most capable models," it added. What is DeepSeek?
+
+Is DeepSeek safe to use?
+
+China's DeepSeek shakes AI industry
+
+ChatGPT v DeepSeek - how do they compare?
+
+'Deceptive' claims
+
+Naomi Haefner, assistant professor of technology management at the University of St. Gallen in Switzerland, said the question of distillation could throw the notion that DeepSeek created its product for a fraction of the cost into doubt. "It is unclear whether DeepSeek really trained its models from scratch," she said. "OpenAI have stated that they believe DeepSeek may have misappropriated large amounts of data from them. "If this is the case, then the claims about training the model very cheaply are deceptive. Until someone replicates the training approach we won't know for sure whether such cost-efficient training is really possible." Crystal van Oosterom, AI Venture Partner at OpenOcean, agreed that "DeepSeek has clearly built upon publicly available research from major American and European institutions and companies". However, it is not clear how problematic the idea of "building on" the work of others is. This is especially true in AI, where the accusation of disrespecting intellectual property rights has been frequently levelled at major US AI firms.
+
+Security and ethics
+
+US officials are also considering the national security implications of DeepSeek's emergence, according to White House press secretary Karoline Leavitt. "I spoke with [the National Security Council] this morning, they are looking into what [the national security implications] may be," said Ms Leavitt, who also restated US President Donald Trump's remarks a day earlier that DeepSeek should be a wake-up call for the US tech industry. The announcement comes after the US navy reportedly banned its members from using DeepSeek's apps due to "potential security and ethical concerns". According to CNBC, the US navy has sent an email to its staff warning them not to use the DeepSeek app due to "potential security and ethical concerns associated with the model's origin and usage". The Navy did not immediately respond to a request for comment from BBC News.
+
+DeepSeek Cyber attacks on Chinese firm come as US officials looking into national security implications of DeepSeek AI
+
+Data safety experts have warned users to be careful with the tool, given it collects large amounts of personal data and stores it in servers in China. Meanwhile, DeepSeek says it has been the target of cyber attacks. On Monday it said it would temporarily limit registrations because of "large-scale malicious attacks" on its software. A banner showing on the company's website says registration may be busy as a result of the attacks.
+
+Additional reporting from Fan Wang

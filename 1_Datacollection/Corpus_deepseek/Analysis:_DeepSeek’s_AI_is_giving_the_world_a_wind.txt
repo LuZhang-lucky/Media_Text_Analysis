@@ -1,0 +1,75 @@
+Hong Kong CNN —
+
+Previously little-known Chinese startup DeepSeek has dominated headlines and app charts in recent days thanks to its new AI chatbot, which sparked a global tech sell-off that wiped billions off Silicon Valley’s biggest companies and shattered assumptions of America’s dominance of the tech race.
+
+But those signing up for the chatbot and its open-source technology are being confronted with the Chinese Communist Party’s brand of censorship and information control.
+
+Ask DeepSeek’s newest AI model, unveiled last week, to do things like explain who is winning the AI race, summarize the latest executive orders from the White House or tell a joke and a user will get similar answers to the ones spewed out by American-made rivals OpenAI’s GPT-4, Meta’s Llama or Google’s Gemini.
+
+Yet when questions veer into territory that would be restricted or heavily moderated on China’s domestic internet, the responses reveal aspects of the country’s tight information controls.
+
+Using the internet in the world’s second most populous country is to cross what’s often dubbed the “Great Firewall” and enter a completely separate internet eco-system policed by armies of censors, where most major Western social media and search platforms are blocked. The country routinely ranks among the most restrictive for internet and speech freedoms in reports from global watchdogs.
+
+The international popularity of Chinese apps like TikTok and RedNote have already raised national security concerns among Western governments – as well as questions about the potential impact to free speech and Beijing’s ability to shape global narratives and public opinion.
+
+Now, the introduction of DeepSeek’s AI assistant – which is free and rocketed to the top of app charts in recent days – raises the urgency of those questions, observers say, and spotlights the online ecosystem from which they have emerged.
+
+‘Not sure how to approach this type of question’
+
+One example of a question DeepSeek’s new bot, using its R1 model, will answer differently than a Western rival? The Tiananmen Square massacre on June 4, 1989, when the Chinese government brutally cracked down on student protesters in Beijing and across the country, killing hundreds if not thousands of students in the capital, according to estimates from rights groups.
+
+Chinese authorities have so thoroughly suppressed discussion of the massacre in the decades since that many people in China grow up never having heard about it. A search for ‘what happened on June 4, 1989 in Beijing’ on major Chinese online search platform Baidu turns up articles noting that June 4 is the 155th day in the Gregorian calendar or a link to a state media article noting authorities that year “quelled counter-revolutionary riots” – with no mention of Tiananmen.
+
+When the same query is put to DeepSeek’s newest AI assistant, it begins to give an answer detailing some of the events, including a “military crackdown,” before erasing it and replying that it’s “not sure how to approach this type of question yet.” “Let’s chat about math, coding and logic problems instead,” it says. When asked the same question in Chinese, the app is faster – immediately apologizing for not knowing how to answer.
+
+It’s a similar patten when asking the R1 bot – DeepSeek’s newest model – “what happened in Hong Kong in 2019,” when the city was rocked by pro-democracy protests. First it gives a detailed overview of events with a conclusion that at least during one test noted – as Western observers have – that Beijing’s subsequent imposition of a National Security Law on the city led to a “significant erosion of civil liberties.” But quickly after or amid its response, the bot erases its own answer and suggests talking about something else.
+
+DeepSeek’s V3 bot, released late last year weeks prior to R1, returns different answers, including ones that appear to rely more heavily on China’s official stance.
+
+When asked about its sources, DeepSeek’s R1 bot said it used a “diverse dataset of publicly available texts,” including both Chinese state media and international sources. “Critical thinking and cross-referencing remain key when navigating politically charged subjects,” it said. CNN has approached the company for comment.
+
+Video Ad Feedback How China’s DeepSeek app compares to ChatGPT 02:48 - Source: CNN How China’s DeepSeek app compares to ChatGPT 02:48
+
+Controlling the narrative?
+
+Observers say that these differences have significant implications for free speech and the shaping of global public opinion. That spotlights another dimension of the battle for tech dominance: who gets to control the narrative on major global issues, and history itself.
+
+An audit by US-based information reliability analytics firm NewsGuard released Wednesday said DeepSeek’s older V3 chatbot model failed to provide accurate information about news and information topics 83% of the time, ranking it tied for 10th out of 11 in comparison to its leading Western competitors. It’s not clear how the newer R1 stacks up, however.
+
+DeepSeek becoming a global AI leader could have “catastrophic” consequences, said China analyst Isaac Stone Fish.
+
+“It would be incredibly dangerous for free speech and free thought globally, because it hives off the ability to think openly, creatively and, in many cases, correctly about one of the most important entities in the world, which is China,” said Fish, who is the founder of business intelligence firm Strategy Risks.
+
+That’s because the app, when asked about the country or its leaders, “present China like the utopian Communist state that has never existed and will never exist,” he added.
+
+In mainland China, the ruling Chinese Communist Party has ultimate authority over what information and images can and cannot be shown – part of their iron-fisted efforts to maintain control over society and suppress all forms of dissent. And tech companies like DeepSeek have no choice but to follow the rules.
+
+Because the technology was developed in China, its model is going to be collecting more China-centric or pro-China data than a Western firm, a reality which will likely impact the platform, according to Aaron Snoswell, a senior research fellow in AI accountability at the Queensland University of Technology Generative AI Lab.
+
+The company itself, like all AI firms, will also set various rules to trigger set responses when words or topics that the platform doesn’t want to discuss arise, Snoswell said, pointing to examples like Tiananmen Square.
+
+In addition, AI companies often use workers to help train the model in what kinds of topics may be taboo or okay to discuss and where certain boundaries are, a process called “reinforcement learning from human feedback” that DeepSeek said in a research paper it used.
+
+“That means someone in DeepSeek wrote a policy document that says, ‘here are the topics that are okay and here are the topics that are not okay.’ They gave that to their workers … and then that behavior would have been embedded into the model,” he said.
+
+US AI chatbots also generally have parameters – for example ChatGPT won’t tell a user how to make a bomb or fabricate a 3D gun, and they typically use mechanisms like reinforcement learning to create guardrails against hate speech, for example.
+
+“That’s how every other company makes these models behave better,” Snoswell said.
+
+“But it’s just that in this case, chances are that a Chinese company embedded (China’s official) values into their policy.”
+
+Security concerns
+
+There have also been questions raised about potential security risks linked to DeepSeek’s platform, which the White House on Tuesday said it was investigating for national security implications.
+
+Concerns about American data being in the hands of Chinese firms is already a hot button issue in Washington, fueling the controversy over social media app TikTok. The app’s Chinese parent company ByteDance is being required by law to divest TikTok’s American business, though the enforcement of this was paused by Trump.
+
+Unlike TikTok, which says as of July 2022 it stores all American data in the US, DeepSeek says in its privacy policy that personal information it collects is stored in “secure servers located in the People’s Republic of China.”
+
+A comparison of privacy policies between DeepSeek and some of its US competitors also show concerning differences, according to Snoswell.
+
+Each DeepSeek, OpenAI and Meta say they collect people’s data such as from their account information, activities on the platforms and the devices they’re using. But DeepSeek adds that it also collects “keystroke patterns or rhythms,” which can be as uniquely identifying as a fingerprint or facial recognition and used a biometric.
+
+“I’ve never seen another software platform that says they collect that unless it’s designed for (those purposes),” Snoswell said. He also noted what appeared to be vaguely defined allowances for sharing of user data to entities within DeepSeek’s corporate group.
+
+“It’s way, way more permissive than anything you’d see from a Western software company,” he said.

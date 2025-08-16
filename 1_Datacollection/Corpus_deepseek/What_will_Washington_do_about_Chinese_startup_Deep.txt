@@ -1,0 +1,23 @@
+The White House said on Tuesday that it was investigating the national security implications of DeepSeek’s rapid rise.
+
+The Chinese AI startup released an open-sourced problem-solving model, R1, that has wowed Silicon Valley. According to the company, the model uses far less computing power and far fewer chips – therefore far less money – to achieve the same or better results as its US counterparts. DeepSeek’s app, an AI assistant, has rocketed to the top of app stores in the US and UK, though it suffered a cyberattack on Monday that led the company to limit registrations.
+
+The tech sector saw its stock prices decline by a whopping $1tn in response on Monday. Nvidia, the greatest beneficiary of the AI boom, saw its share price slide by double-digit percentage points, which erased hundreds of billions in market cap, though it made a small recovery the next day.
+
+Questioning the online version of the assistant about Xi Jinping and other Chinese political topics return non-answers that are obviously censored, though it is possible to download a locally hosted version. The app’s privacy policy states that it collects information about users’ input to the chatbot, personal information a user may add to their DeepSeek profile such as an email address, a user’s IP address and operating system, and their keystrokes – all data that experts say could easily be shared with the Chinese government.
+
+As the TikTok ban hangs in the air unresolved, Washington is faced with another hugely popular Chinese app rife with concerns about propaganda and the collection of sensitive data. Donald Trump has taken a posture of being tough on China but vowed to save TikTok after finding success there during his presidential campaign. Congress’s law that either forces the sale of the short-form video app or bans cites the potential manipulation of the app’s content by the Chinese Communist party and its collection of sensitive personal data on Americans as prime reasons to prohibit it on US digital soil. Those issues seem to be equally severe with DeepSeek, which is based in Hangzhou and hosts users’ data on servers in China.
+
+Trump and Downing Street have so far offered only guarded assessments of the technology. The US president said early on Tuesday: “The release of DeepSeek, AI from a Chinese company, should be a wake-up call for our industries that we need to be laser-focused on competing to win.”
+
+The prime minister’s spokesperson said that DeepSeek’s advancements showed that the UK must “go further and faster to remove barriers to innovation” in AI.
+
+skip past newsletter promotion Sign up to TechScape Free weekly newsletter A weekly dive in to how technology is shaping our lives Enter your email address Sign up Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
+
+Sam Altman, CEO of OpenAI, offered an assessment that did not reflect the stock market’s enormous reaction. He said R1 was an “impressive model, particularly around what they’re able to deliver for the price”.
+
+DeepSeek’s AI is open-source, which has allowed engineers outside of China to audit its parent company’s claims. Venture capitalist Marc Andreessen, who is advising the Trump White House, called R1 “AI’s Sputnik moment”, a bona fide breakthrough. The global AI community widely considered the US the leader in AI, but R1 has called that dominance into question.
+
+DeepSeek’s training, done with tens of thousands of Nvidia’s chips, may also undermine the effectiveness of the US’s AI-focused trade embargoes on China. The sale of the company’s products in China are strictly regulated, but DeepSeek was able to secure about 50,000 graphics processing units (GPUs) anyway, per VentureBeat. That’s a far cry from the roughly 500,000 that OpenAI is reported to use, though. Another complicating factor: trade restrictions take effect over long periods of time, so they may not have impinged on DeepSeek’s work.
+
+Since DeepSeek says it was able to create such a promising product with a fraction of the resources other AI companies use, perhaps demand for chips will not be as sky-high as investors once believed. Utility companies are tied up in the AI boom as power demands for data centers grow. If a company can achieve the same result with fewer chips and therefore fewer data centers, demand for electricity may not rise so much that nuclear power plants need to be restarted.

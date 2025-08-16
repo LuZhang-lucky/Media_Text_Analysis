@@ -1,0 +1,53 @@
+New York CNN —
+
+Silicon Valley is coming to grips this week with the realization that creating an advanced artificial intelligence model may no longer be as specialized a task as was once believed.
+
+The wakeup call came in the form of DeepSeek, a year-old Chinese start-up whose free, open-source AI model, R1, is more or less on par with advanced models from American tech giants — and it was built for a fraction of the cost, apparently with less advanced chips and it demands far less data center power to run.
+
+Until now, the widely accepted wisdom in the US tech world was that American tech giants could stay ahead by spending billions of dollars, amassing advanced chips and building out huge data centers (despite the environmental cost). Essentially, because they’re among the richest companies in the world, they believed they could throw more resources at the problem than anyone else and come out on top.
+
+Now, all of that has been called into question. And tech giants are facing tough questions from Wall Street.
+
+The name of the AI game may no longer be winning with the most expensive, ever-more powerful models.
+
+“The paradigm is shifting,” said Zack Kass, an AI consultant and former OpenAI go-to-market lead.
+
+“It’s so hard to own a scientific breakthrough” such as an AI model advancement, Kass said, and prevent competitors from catching up. Instead, tech companies may now find themselves competing to lower costs and build more helpful applications for consumers and corporate customers — and also to suck up less power and natural resources in the process.
+
+Silicon Valley reacts
+
+At least one American tech leader has already promised to respond to DeepSeek by speeding up the release of more powerful models.
+
+OpenAI CEO Sam Altman called DeepSeek’s R1 model “impressive” in an X post Monday, adding that “we will pull up some releases” of new models in response. OpenAI Chief Product Officer Kevin Weil also said the company’s upcoming o3 model, set to launch in the coming weeks, would “be another major step up.”
+
+“It’s a super competitive industry, right? And this is showing that it’s competitive globally, not just within the US,” Weil said on a call with reporters about OpenAI’s new ChatGPT offering for government agencies, in response to a question from CNN. “We’re committed to moving really quickly here. We want to stay ahead.”
+
+But analysts also expect the Big Tech companies to scale back their data center spending plans and potentially rethink how much they’re charging consumers. DeepSeek has proved it’s possible to provide the technology at a lesser cost, although some industry experts have raised eyebrows at the startup’s claims about spending just under $6 million to build its model.
+
+OpenAI’s largest investor, Microsoft, is investigating whether DeepSeek trained its model off of stolen OpenAI data, Bloomberg reported. Even if the company achieved its efficiency revolution with some malfeasance, DeepSeek’s achievements have lit a fire under Silicon Valley’s AI industry.
+
+“All those other frontier model labs — OpenAI, Anthropic, Google — are going to build far more efficient models based on what they’re learning from DeepSeek,” said Gil Luria, head of technology research at investment firm D.A. Davidson. “And you’ll be able to use those at a fraction of the price that you can now, because it’s going to be a fraction of the cost to run those models.”
+
+To be sure, the industry was almost certainly going to eventually shift its focus to “efficiency” — working to add AI capabilities using a set amount of computing power versus adding more servers to juice the technology. There are only so many computers you can build and only so much electricity available to service them. And an AI tool can only get so proficient at, say, writing emails or planning trips, before making it marginally more powerful is no longer worthwhile.
+
+But DeepSeek appears to have sped up that timeline. And in Silicon Valley, unwinding spending on data centers could be tricky.
+
+Just last week, OpenAI, Oracle and SoftBank visited the White House to announce the creation of a new company and a $500 million investment in US AI infrastructure; Microsoft CEO Sundar Pichai affirmed he was “good for” his company’s planned $80 billion investment in AI development and infrastructure this year; and Meta CEO Mark Zuckerberg said his company’s AI spending could reach as much as $65 billion this year.
+
+“That crazy AI data center build-out that we’ve been talking about for the last couple of years? They don’t need to do that anymore. They can build a lot less because they can provide a lot more services at a much lower price,” Luria said. He added that investors will likely expect to hear about those plans in the American tech companies’ earnings calls over the next two weeks.
+
+Of course, if the tech giants cut data center costs for training AI models — and therefore charge customers less — their tools will get used more, putting more inference (or people asking questions) strain on the data centers, Bloomberg Intelligence analysts wrote Tuesday. So just how dramatic that pullback on data center spending might be remains to be seen.
+
+DeepSeek’s upside
+
+Some tech leaders say they’re looking at DeepSeek as validation — rather than a threat.
+
+Proponents of open-source AI — where the model’s underlying architecture is made publicly available, rather than charged for — say the Chinese model is proof that American companies should be sharing their innovations rather than gatekeeping them. That way, the whole US field could advance more quickly and remain the technology standard around the world.
+
+“The United States already has the best closed models in the world. To remain competitive, we must also support the development of a vibrant open-source ecosystem,” former Google CEO Eric Schmidt wrote in a Washington Post op-ed Tuesday.
+
+Meta, which has pushed open-source AI with its Llama model, also said such models are “driving a significant shift in the industry, and that’s going to bring the benefits of AI to everyone faster.”
+
+And even if DeepSeek forces a short-term rethinking of the business model Silicon Valley had envisioned for AI, people who believe the technology will change the world should be glad for the advancement, Kass said.
+
+“We are freaked out fairly, I suppose, because we thought we had global AI supremacy, when, in fact, we should be celebrating,” Kass said. “Because this is one more piece of evidence that the AI revolution is going to democratize technology and it’s going to be fairly distributed.”

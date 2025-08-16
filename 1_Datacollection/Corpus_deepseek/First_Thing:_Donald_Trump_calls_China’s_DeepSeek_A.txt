@@ -1,0 +1,17 @@
+Good morning.
+
+Donald Trump has described the launch of a Chinese chatbot, DeepSeek, as a “wake-up call” for the American tech industry after it wiped $1tn off the US stock market.
+
+Investors questioned the US artificial intelligence boom after the Chinese tool appeared to offer a comparable service to ChatGPT with far fewer resources. Nvidia, a leading maker of the computer chips that power AI models, saw its shares collapse by 17%, which works out to the single largest fall in absolute dollar value in US stock market history.
+
+“The release of DeepSeek, AI from a Chinese company, should be a wake-up call for our industries that we need to be laser-focused on competing to win,” said Trump. The DeepSeek assistant surpassed ChatGPT in downloads from Apple’s app store on Monday.
+
+How has OpenAI, which made ChatGPT, responded? CEO Sam Altman called DeepSeek “impressive” but said the US industry would speed up development.
+
+What are some differences between the chatbots? DeepSeek appears to censor answers to sensitive questions about China and its government: see what happened when the Guardian asked it about Tiananmen Square and Taiwan.
+
+
+
+
+
+

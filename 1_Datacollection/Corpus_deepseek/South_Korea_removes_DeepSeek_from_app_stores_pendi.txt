@@ -1,0 +1,31 @@
+South Korea has suspended downloads of DeepSeek’s artificial intelligence-powered chatbot pending a review of the Chinese start-up’s privacy standards.
+
+South Korea’s privacy watchdog said on Monday that DeepSeek’s R1 chatbot was removed from the local versions of Apple’s App Store and Google Play after the Hangzhou-based firm acknowledged that it had failed to comply with personal data protection rules.
+
+The Personal Information Protection Commission said in a statement that DeepSeek accepted its proposal to suspend downloads of the app.
+
+The chatbot is still available for those who have already downloaded the app.
+
+“To prevent further concerns from spreading, the commission recommended that DeepSeek temporarily suspend its service while making the necessary improvements,” the commission said, adding that bringing the app in line with local regulations would “inevitably take a significant amount of time”.
+
+DeepSeek did not immediately respond to Al Jazeera’s request for comment.
+
+The move comes after the privacy watchdog said last month that it would send a written request to DeepSeek seeking details about how it manages users’ personal data.
+
+South Korea’s Ministry of Trade, Industry and Energy earlier this month announced a temporary ban on employees using DeepSeek on their devices, citing security concerns.
+
+Australia and Taiwan have banned the chatbot on government devices, while the United States Congress is considering a bill to implement a similar ban.
+
+Italy’s data protection agency has ordered DeepSeek to limit the processing of Italian users’ data pending further information about how it is managed.
+
+Advertisement
+
+DeepSeek burst into the limelight last month when it announced that it had developed its chatbot at a tiny fraction of the cost of models created by tech giants such as Google and OpenAI.
+
+While DeepSeek’s Silicon Valley rivals have poured billions of dollars into their AI models, R1’s development team said in a research paper that they had spent less than $6m on computing power to train the chatbot.
+
+The announcement almost immediately raised existential questions about Silicon Valley’s business model of investing huge sums in AI.
+
+Investors concerned about DeepSeek’s effect on the AI industry last month wiped about $1 trillion off the market value of the so-called “Magnificent Seven” tech firms in a single day.
+
+Some sceptics have challenged DeepSeek’s account of working on a shoestring budget, suggesting that the start-up likely had access to more advanced chips and more funding than it has acknowledged.

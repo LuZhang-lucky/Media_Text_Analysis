@@ -1,0 +1,53 @@
+CNN —
+
+A surprisingly efficient and powerful Chinese AI model has taken the technology industry by storm. It’s called DeepSeek R1, and it’s rattling nerves on Wall Street.
+
+The new AI model was developed by DeepSeek, a startup that was born just a year ago and has somehow managed a breakthrough that famed tech investor Marc Andreessen has called “AI’s Sputnik moment”: R1 can nearly match the capabilities of its far more famous rivals, including OpenAI’s GPT-4, Meta’s Llama and Google’s Gemini — but at a fraction of the cost.
+
+The company said it had spent just $5.6 million powering its base AI model, compared with the hundreds of millions, if not billions of dollars US companies spend on their AI technologies. That’s even more shocking when considering that the United States has worked for years to restrict the supply of high-power AI chips to China, citing national security concerns. That means DeepSeek was supposedly able to achieve its low-cost model on relatively under-powered AI chips.
+
+What is DeepSeek?
+
+The company, founded in late 2023 by Chinese hedge fund manager Liang Wenfeng, is one of scores of startups that have popped up in recent years﻿ seeking big investment to ride the massive AI wave that has taken the tech industry to new heights.
+
+Liang has become the Sam Altman of China — an evangelist for AI technology and investment in new research. His hedge fund, High-Flyer, focuses on AI development.
+
+Like other AI startups, including Anthropic and Perplexity, DeepSeek released various competitive AI models over the past year that have captured some industry attention. Its V3 model raised some awareness about the company, although its content restrictions around sensitive topics about the Chinese government and its leadership sparked doubts about its viability as an industry competitor, the Wall Street Journal reported.
+
+But R1, which came out of nowhere when it was revealed late last year, launched last week and gained significant attention this week when the company revealed to the Journal its shockingly low cost of operation. And it is open-source, which means other companies can test and build upon the model to improve it.
+
+The DeepSeek app has surged on the app store charts, surpassing ChatGPT Monday, and it has been downloaded nearly 2 million times.
+
+Why is DeepSeek such a big deal?
+
+AI is a power-hungry and cost-intensive technology — so much so that America’s most powerful tech leaders are buying up nuclear power companies to provide the necessary electricity for their AI models.
+
+Meta last week said it would spend upward of $65 billion this year on AI development. Sam Altman, CEO of OpenAI, last year said the AI industry would need trillions of dollars in investment to support the development of high-in-demand chips needed to power the electricity-hungry data centers that run the sector’s complex models.
+
+So the notion that similar capabilities as America’s most powerful AI models can be achieved for such a small fraction of the cost — and on less capable chips — represents a sea change in the industry’s understanding of how much investment is needed in AI. The technology has many skeptics and opponents, but its advocates promise a bright future: AI will advance the global economy into a new era, they argue, making work more efficient and opening up new capabilities across multiple industries that will pave the way for new research and developments.
+
+Andreessen, a Trump supporter and co-founder of Silicon Valley venture capital firm Andreessen Horowitz, called DeepSeek “one of the most amazing and impressive breakthroughs I’ve ever seen,” in a post on X.
+
+If that potentially world-changing power can be achieved at a significantly reduced cost, it opens up new possibilities — and threats — to the planet.
+
+What does this mean for America?
+
+The United States thought it could sanction its way to dominance in a key technology it believes will help bolster its national security. Just a week before leaving office, former President Joe Biden doubled down on export restrictions on AI computer chips to prevent rivals like China from accessing the advanced technology.
+
+But DeepSeek has called into question that notion, and threatened the aura of invincibility surrounding America’s technology industry. America may have bought itself time with restrictions on chip exports, but its AI lead just shrank dramatically despite those actions.
+
+DeepSeek may show that turning off access to a key technology doesn’t necessarily mean the United States will win. That’s an important message to President Donald Trump as he pursues his isolationist “America First” policy.
+
+Wall Street was alarmed by the development. US stocks were set for a steep selloff Monday morning. Nvidia (NVDA), the leading supplier of AI chips, whose stock more than doubled in each of the past two years, fell 12% in premarket trading. Meta (META) and Alphabet (GOOGL), Google’s parent company, were also down sharply, as were Marvell, Broadcom, Palantir, Oracle and many other tech giants.
+
+Are we really sure this is a big deal?
+
+The industry is taking the company at its word that the cost was so low. No one is really disputing it, but the market freak-out hinges on the truthfulness of a single and relatively unknown company. The company notably didn’t say how much it cost to train its model, leaving out potentially expensive research and development costs. (Still, it probably didn’t spend billions of dollars.)
+
+It’s also far too early to count out American tech innovation and leadership. One achievement, albeit a gobsmacking one, may not be enough to counter years of progress in American AI leadership. And a massive customer shift to a Chinese startup is unlikely.
+
+“The DeepSeek model rollout is leading investors to question the lead that US companies have and how much is being spent and whether that spending will lead to profits (or overspending),” said Keith Lerner, analyst at Truist. “Ultimately, our view, is the required spend for data and such in AI will be significant, and US companies remain leaders.”
+
+Although the cost-saving achievement may be significant, the R1 model is a ChatGPT competitor — a consumer-focused large-language model. It hasn’t yet proven it can handle some of the massively ambitious AI capabilities for industries that — for now — still require tremendous infrastructure investments.
+
+“Thanks to its rich talent and capital base, the US remains the most promising ‘home turf’ from which we expect to see the emergence of the first self-improving AI,” said Giuseppe Sette, president of AI market research firm Reflexivity.

@@ -1,0 +1,31 @@
+China's DeepSeek AI shakes industry and dents America's swagger
+
+DeepSeek's developers say the chatbot was built at a fraction of the cost of rivals such as ChatGPT
+
+The speed at which the new Chinese AI app DeepSeek has shaken the technology industry, the markets and the bullish sense of American superiority in the field of artificial intelligence (AI) has been nothing short of stunning.
+
+Venture capitalist Marc Andreessen may have said it best. "DeepSeek-R1 is AI's Sputnik moment," he posted to X on Sunday, referring to the satellite which kicked off the space race.
+
+DeepSeek was the most downloaded free app on Apple's US App Store over the weekend. By Monday, the new AI chatbot had triggered a massive sell-off of major tech stocks which were in freefall as fears mounted over America's leadership in the sector.
+
+Shares of AI chip designer and recent Wall Street darling Nvidia, for example, had plunged by 17% by the time US markets closed on Monday. Or to put it in even starker terms, it lost nearly $600bn in market value which, according to Bloomberg, is the biggest drop in the history of the US stock market.
+
+This extraordinary, historic spooking can largely be attributed to something as simple as cost. And a claim by DeepSeek's developers which prompted serious questions in Silicon Valley.
+
+While ChatGPT-maker OpenAI has been haemorrhaging money - spending $5bn last year alone - DeepSeek's developers say it built this latest model for a mere $5.6m.
+
+That is a tiny fraction of the cost that AI giants like OpenAI, Google, and Anthropic have relied on to develop their own models.
+
+As this dramatic moment for the sector played out, there was a palpable silence in many corners of Silicon Valley when I contacted those who are usually happy to talk. Many observers, investors, and analysts appeared stunned.
+
+Some wondered if this marked a buying opportunity. Others questioned the information DeepSeek was providing.
+
+"I still think the truth is below the surface when it comes to actually what's going on," veteran analyst Gene Munster told me on Monday. He questioned the financials DeepSeek is citing, and wondered if the startup was being subsidised or whether its numbers were correct.
+
+The chatbot is "surprisingly good, which just makes it hard to believe", he said.
+
+Regardless, DeepSeek's sudden arrival is a "flex" by China and a "black eye for US tech," to use his own words.
+
+It was just last week, after all, that OpenAI's Sam Altman and Oracle's Larry Ellison joined President Donald Trump for a news conference that really could have been a press release.
+
+The event represented peak American bullishness on AI.

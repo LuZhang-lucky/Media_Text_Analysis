@@ -1,0 +1,47 @@
+Shock to financial markets comes from Chinese firm whose AI app it says was made at a fraction of US AI models.
+
+Wall Street’s superstars are tumbling as a competitor from China threatens to upend the artificial-intelligence frenzy that has created a spending bonanza.
+
+The S&P 500 was down 1.7 percent in midday trading on Monday and heading for its worst day in more than a month. Big Tech stocks took some of the heaviest losses with Nvidia down 14.4 percent, and they dragged the Nasdaq composite down 2.8 percent.
+
+Stocks outside AI-related industries held up much better, though, and the Dow Jones Industrial Average was down just 54 points, or 0.1 percent, as of 11:05 am in New York (16:05 GMT). The Dow, whose companies have much less of an emphasis on tech than the S&P 500 and Nasdaq, had briefly been on track for a small gain earlier in the morning.
+
+The shock to financial markets came from China, where a company called DeepSeek said it had developed a large language model that can compete with United States giants at a fraction of the cost.
+
+DeepSeek’s app had already hit the top of Apple’s App Store chart by Monday morning, and analysts said such a feat would be particularly impressive given how the US government has restricted Chinese access to top AI chips.
+
+Marc Andreessen, a Silicon Valley venture capitalist, said in a post on X on Sunday that DeepSeek’s R1 model was AI’s “Sputnik moment”, referencing the Soviet Union’s launch of a satellite that marked the start of the space race with the US in the late 1950s.
+
+“DeepSeek R1 is one of the most amazing and impressive breakthroughs I’ve ever seen — and as open source, a profound gift to the world,” he said in a separate post.
+
+Advertisement
+
+Scepticism, though, remains about how much DeepSeek’s announcement will ultimately shake the AI supply chain from the chipmakers making semiconductors to the utilities hoping to electrify vast data centres gobbling up computing power.
+
+“It remains to be seen if DeepSeek found a way to work around these chip restrictions rules and what chips they ultimately used as there will be many sceptics around this issue, given the information is coming from China,” according to Dan Ives, an analyst with Wedbush Securities.
+
+DeepSeek’s announcement nevertheless rocked stock markets worldwide.
+
+In Amsterdam, Dutch chip supplier ASML slid 6.6 percent. In Tokyo, Japan’s Softbank Group Corp lost 8.3 percent to pull closer to where it was before leaping on an announcement trumpeted by the White House that it was joining a partnership to invest up to $500bn in AI infrastructure.
+
+And on Wall Street, shares of Constellation Energy sank 19 percent. The company has said it would restart the shuttered Three Mile Island nuclear power plant to supply power for data centres for Microsoft.
+
+All the worries sent investors towards bonds, which can be safer investments than any stock.
+
+‘Magnificent seven’
+
+It’s a sharp turnaround for the one-time AI winners, whose stocks had soared in recent years on hopes that all the investment pouring in would remake the global economy and deliver gargantuan profits along the way.
+
+Before Monday’s drop, Nvidia’s stock, for instance, had soared from less than $20 to more than $140 in less than two years.
+
+Other Big Tech companies had also joined in the frenzy, and their stock prices had benefitted too. It was just on Friday that Meta Platforms CEO Mark Zuckerberg was saying he expected to invest up to $65bn this year while talking up a datacentre Meta is building in Louisiana that is so large it would cover a significant part of Manhattan.
+
+A small group of such companies has become so dominant that they’ve come to be known as the “Magnificent Seven”. These companies — Alphabet, Amazon, Apple, Meta Platforms, Microsoft, Nvidia and Tesla — alone accounted for more than half of the S&P 500’s total return last year, according to S&P Dow Jones Indices.
+
+Their immense sizes in turn have also given them huge sway over the S&P 500 and other indexes that give more weight to bigger companies. It shows the risk of betting too much on just a few winning stocks, something that market experts call “concentration risk”.
+
+That “can feel good when those few names or ideas are on the ascent, but it is even more dangerous when disruptions take place”, said Brian Jacobsen, chief economist at Annex Wealth Management.
+
+Advertisement
+
+Still, he suggested not overreacting to Monday’s sharp swings. “It is possible that the news out of China could be overstated, and then we could see a reversal of the recent market moves,” Jacobsen said. “It is also possible that the news is true, but then that would present new investment opportunities.”

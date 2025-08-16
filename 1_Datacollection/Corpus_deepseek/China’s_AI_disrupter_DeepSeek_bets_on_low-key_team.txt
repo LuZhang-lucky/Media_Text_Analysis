@@ -1,0 +1,19 @@
+DeepSeek, the Chinese artificial intelligence (AI) start-up that took the tech world by surprise with its powerful AI model developed on a shoestring, is betting on its secret weapon of “young geniuses” to take on deep-pocketed US giants, according to insiders and Chinese media reports.
+
+Advertisement
+
+On December 26, the Hangzhou-based firm released its DeepSeek V3 large language model (LLM), which was trained using fewer resources but still matched or even exceeded in certain areas the performance of AI models from its larger US competitors such as Facebook parent Meta Platforms and ChatGPT creator OpenAI . The breakthrough is considered significant as it could offer a path for China to exceed the US in AI capabilities despite its restricted access to advanced chips and funding resources.
+
+DeepSeek did not immediately respond to a request for comment on Friday.
+
+The DeepSeek logo is displayed on a smartphone. Photo: Shutterstock Images
+
+Behind its breakthrough is the firm’s low-key founder and a nascent research team, according to an examination of authors credited on its V3 model technical report and career websites, interviews with former employees, as well as local media reports. The V3 technical report is attributed to a team of 150 Chinese researchers and engineers, in addition to a 31-strong team of data automation researchers.
+
+The start-up was spun off in 2023 by hedge-fund manager High Flyer-Quant . The entrepreneur behind DeepSeek is High-Flyer Quant founder Liang Wenfeng, who studied AI at Zhejiang University. Liang’s name is also on the technical report.
+
+In an interview with Chinese online media outlet 36Kr in May 2023, Liang said most developers at DeepSeek were either fresh graduates, or those early in their AI career, in line with the company’s preference for ability over experience in recruiting new employees. “Our core technical roles are filled with mostly fresh graduates or those with one or two years of working experience,” Liang said.
+
+Advertisement
+
+Among DeepSeek’s breadth of talent, Gao Huazuo and Zeng Wangding are singled out by the firm as having made “key innovations in the research of the MLA architecture”.

@@ -1,0 +1,19 @@
+US officials are looking at the national security implications of the Chinese artificial intelligence app DeepSeek, White House press secretary Karoline Leavitt said on Tuesday, while President Donald Trump’s cryptocurrency tsar said it was possible that intellectual property theft could have been at play.
+
+Advertisement
+
+The National Security Council is reviewing the app’s implications, Leavitt said. “This is a wake-up call to the American AI industry,” she added, echoing Trump’s comments from a day earlier while also saying the White House was working to “ensure American AI dominance”. Investors sold technology stocks across the globe on Monday over concerns the emergence of a low-cost Chinese AI model would threaten market dominance of US-based AI leaders such as OpenAI and Alphabet’s Google.
+
+White House AI and cryptocurrency tsar David Sacks was asked on Fox News if there was intellectual property theft involved in the rise of DeepSeek.
+
+David Sacks speaks to President Trump as he signs a series of executive orders in the Oval Office of the White House on January 23, 2025. Photo: AFP
+
+“Well, it’s possible. There’s a technique in AI called distillation, which you’re going to hear a lot about, and it’s when one model learns from another model,” Sacks said in the interview.
+
+“I think one of the things you’re going to see over the next few months is our leading AI companies taking steps to try and prevent distillation … That would definitely slow down some of these copycat models,” he added. During his administration, former President Joe Biden placed a wide range of export restrictions on AI chips and the equipment used to make them, hoping to hamper AI development in China.
+
+Trump said on Monday the Chinese app should act as a spur for American companies and added it was good that companies in China have come up with a cheaper, faster method of artificial intelligence.
+
+Advertisement
+
+“The release of DeepSeek AI from a Chinese company should be a wake-up call for our industries that we need to be laser-focused on competing to win,” Trump said.

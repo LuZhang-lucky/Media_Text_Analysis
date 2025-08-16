@@ -1,0 +1,13 @@
+Advertisement
+
+The Hangzhou-based company sent shock waves across Wall Street and Silicon Valley for developing AI models at a fraction of the cost compared with OpenAI and Meta Platforms, which prompted US President Donald Trump to call the breakthrough a “wake-up call” and “positive” for America’s tech sector.
+
+At home, Chinese tech executives and various commentators rushed to hail DeepSeek’s disruptive power.
+
+Zhou Hongyi , co-founder, chairman and chief executive of Chinese cybersecurity firm Qihoo 360, declared that DeepSeek has “upended the world” in a recent video posted on his Weibo account, after the start-up’s release of two powerful new AI models – built at a lower cost and with less computing resources than what larger tech firms typically need for LLM development.
+
+In a widely shared Weibo social media post, Feng Ji, founder and chief executive at Black Myth: Wukong developer Game Science, wrote that DeepSeek’s achievements in AI could change China’s “national fate” amid its prolonged tech war with the US.
+
+Advertisement
+
+On January 20, DeepSeek publicly released its open-source R1 reasoning model, which it claims is on par with the performance of OpenAI’s o1 – a model that the US start-up said can “reason through complex tasks and solve harder problems than previous models in science, coding and maths”.

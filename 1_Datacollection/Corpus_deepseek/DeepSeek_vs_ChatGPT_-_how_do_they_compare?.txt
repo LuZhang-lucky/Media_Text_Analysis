@@ -1,0 +1,41 @@
+DeepSeek vs ChatGPT - how do they compare?
+
+28 January 2025 Share Save Graham Fraser Technology Reporter Share Save
+
+Getty Images
+
+The emergence of Chinese AI app DeepSeek has shocked financial markets, and prompted US President Donald Trump to describe it as "a wake-up call" for the US tech industry. DeepSeek's claim that its R1 artificial intelligence (AI) model was made at a fraction of the cost of its rivals has raised questions about the future about of the whole industry, and caused some the world's biggest companies to sink in value. DeepSeek has become the most downloaded free app in the US just a week after it was launched. So how does it compare to its much more established and apparently much more expensive US rivals, such as OpenAI's ChatGPT and Google's Gemini?
+
+Writing Assistance
+
+Getty Images Kenny Dalglish in action for Scotland in 1985
+
+When you ask ChatGPT what the most popular reasons to use ChatGPT are, it says that assisting people to write is one of them. From gathering and summarising information in a helpful format to even writing blog posts on a topic, ChatGPT has become an AI companion for many across different workplaces. As a proud Scottish football fan, I asked ChatGPT and DeepSeek to summarise the best Scottish football players ever, before asking the chatbots to "draft a blog post summarising the best Scottish football players in history". DeepSeek responded in seconds, with a top ten list - Kenny Dalglish of Liverpool and Celtic was number one. It helpfully summarised which position the players played in, their clubs, and a brief list of their achievements. Live updates as US stock markets reopen following DeepSeek investor shock
+
+What you need to know about the AI app that has the world talking
+
+Australia raises concerns about the technology - so is it safe to use?
+
+How China's 'AI heroes' overcame US curbs to stun Silicon Valley
+
+Watch: Why DeepSeek has caused shockwaves DeepSeek also detailed two non-Scottish players - Rangers legend Brian Laudrup, who is Danish, and Celtic hero Henrik Larsson. For the latter, it added "although Swedish, Larsson is often included in discussions of Scottish football legends due to his impact at Celtic". For its subsequent blog post, it did go into detail of Laudrup's nationality before giving a succinct account of the careers of the players. ChatGPT's answer to the same question contained many of the same names, with "King Kenny" once again at the top of the list. Its detailed blog post briefly and accurately went into the careers of all the players. It concluded: "While the game has changed over the decades, the impact of these Scottish greats remains timeless." Indeed. For this fun test, DeepSeek was certainly comparable to its best-known US competitor.
+
+Coding
+
+Getty Images
+
+The emergence of advanced AI models has made a difference to people who code. When ChatGPT experienced an outage last week, X had a number of amusing posts from developers saying they couldn't do their work without the faithful tool by their side. How does DeepSeek compare here? Javier Aguirre, an AI researcher at Samsung Medical Center in Seoul, South Korea, specialises in researching in medicine and AI. In a post on LinkedIn on Tuesday, he wrote: "I am quite impressed with Deepseek. While coding, we usually try to explode AI chatbots to the limit to see their capabilities in assisting with coding. "Today I had a really tricky and complex problem. Even chatGPT o1 was not able to reason enough to solve it. I gave a try to Deepseek and it solved it at once and straight to the point." He also pointed out that for coders, the combination of models can lead to success. This was echoed by Addy Osmani, who is the Head of Chrome Developer Experience at Google. In a post to his 208k followers on LinkedIn, he spoke about combining DeepSeek with US AI firm Anthropic's tool Claude Sonnet. In 2023, Amazon invested $4bn into Anthropic. Mr Osmani said: "Code with AI? DeepSeek R1 + Claude Sonnet may be the best new hybrid coding model. Yes, engineers are using them together." Mr Osmani also said DeepSeek was "significantly cheaper" to use than both Claude Sonnet and OpenAI's o1 model.
+
+Brainstorming ideas
+
+Getty Images
+
+What about brainstorming? I asked ChatGPT and DeepSeek to give me "ideas for a story for children about a boy who lives on the moon". ChatGPT responded in seconds with six neatly summarised ideas. One was about a boy called Max who worked as a postman on the moon and was sent on an adventure. Another was about Oliver, who was drawn by the sounds of a mysterious orchestra made up of aliens. None of these stories are going to challenge Harry Potter or Roald Dahl any time soon, but it is a start for more refined ideas to flourish perhaps. DeepSeek, on the other hand, responded with just one idea - "Luna and the Boy Who Chased the Stars". Its response was 387 words (with no mention of anyone or thing called "Luna"), and comprised a story about a curious boy called Milo who lived on the moon. It struck me that while ChatGPT gave me ideas, DeepSeek wrote a full story. It wasn't particularly good, with a simple focus on a character going from A to B, but it was a start - and it was impressive how quickly it delivered it.
+
+Learning and research
+
+IWM/ Getty Images One of the most famous images from the First World War is this picture of British soldiers from the Battle of the Somme in 1916
+
+One of my memories from high school is my history teacher explaining to us how the First World War came about following a complex situation regarding many European powers, with the conflict finally sparked by the assassination of Archduke Franz Ferdinand in 1914. How would the chatbots deal with explaining such a complex and nuanced piece of history? Pretty well. ChatGPT gave a detailed account and outlined the key factors. DeepSeek's account was not as detailed, but its brief overview did cover all the main points and events. Google's Gemini assistant gave a similar synopsis to ChatGPT and DeepSeek, and also gave the user the opportunity to click on links from reputable sources such as the Imperial War Museum in the UK. As I saw on other tasks and prompts, DeepSeek was certainly comparable to its US competitors.
+
+Steaming ahead

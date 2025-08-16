@@ -1,0 +1,17 @@
+Microsoft Corp. and OpenAI are investigating whether data output from OpenAI’s technology was obtained in an unauthorised manner by a group linked to Chinese artificial intelligence start-up DeepSeek , according to people familiar with the matter.
+
+Advertisement
+
+Microsoft’s security researchers observed individuals they believe may be linked to DeepSeek exfiltrating a large amount of data in the autumn using the OpenAI application programming interface, or API, said the people, who asked not to be identified because the matter is confidential. Software developers can pay for a licence to use the API to integrate OpenAI’s proprietary AI models into their own applications.
+
+Microsoft, an OpenAI technology partner and its largest investor, notified OpenAI of the activity, the people said. Such activity could violate OpenAI’s terms of service or could indicate the group acted to remove OpenAI’s restrictions on how much data they could obtain, the people said.
+
+David Sacks, Donald Trump’s “AI tsar”, speaks to the US president in the Oval Office last week. Photo: Getty Images/AFP
+
+DeepSeek earlier this month released a new open-source AI model called R1 that can mimic the way humans reason, upending a market dominated by OpenAI and US rivals such as Google and Meta Platforms Inc . The Chinese upstart said R1 rivalled or outperformed leading US developers’ products on a range of industry benchmarks, including for mathematical tasks and general knowledge – and was built for a fraction of the cost.
+
+The potential threat to the US firms’ edge in the industry sent technology stocks tied to AI, including Microsoft, Nvidia Corp., Oracle Corp. and Google parent Alphabet Inc., tumbling , erasing a total of almost US$1 trillion in market value.
+
+OpenAI didn’t respond to a request for comment, and Microsoft declined to comment. DeepSeek and hedge fund High-Flyer, where DeepSeek was started, didn’t immediately respond to requests for comment via email.
+
+There’s substantial evidence that what DeepSeek did here is they distilled knowledge out of OpenAI models David Sacks, Trump’s AI tsar

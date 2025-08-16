@@ -1,0 +1,93 @@
+Hello, and welcome back to TechScape. There was a lot of news last week. To run it down in an expedient fashion:
+
+The Guardian’s journalism is independent. We will earn a commission if you buy something through an affiliate link. Learn more.
+
+Donald Trump, Sam Altman, Masayoshi Son and Larry Ellison announced a $500bn initiative to expand infrastructure supporting artificial intelligence dubbed Stargate. On its heels came a press release from Meta vowing to expand its capital expenditure to $65bn in the coming year to expand its data centers.
+
+Trump launched a memecoin, as did Melania, to coincide with his inauguration.
+
+OpenAI released Operator, an AI agent meant to browse the web and complete tasks for you. Early tests say it’s not quite there yet.
+
+What will governments and AI companies do about DeepSeek?
+
+View image in fullscreen DeepSeek’s model uses far less computing power and far fewer chips – therefore far less money. Photograph: Dado Ruvić/Reuters
+
+A Chinese AI startup, DeepSeek, has released an open-sourced problem-solving model, R1, that’s wowed Silicon Valley. The model uses far less computing power and far fewer chips – therefore far less money, roughly 3-5% of the development costs for ChatGPT – to achieve the same or better results as its US counterparts.
+
+The model is open-source, which has allowed engineers outside of China to audit its parent company’s claims. Venture capitalist Marc Andreessen, who is advising the Trump White House, called R1 “AI’s Sputnik moment”, a bona fide breakthrough. The global AI community widely considered the US the leader in AI, but R1 has called that dominance into question.
+
+DeepSeek’s training, done with tens of thousands of Nvidia’s chips, may also undermine the effectiveness of the US’s AI-focused trade embargoes on China. The sale of the company’s products in China are strictly regulated, but DeepSeek was able to secure about 50,000 graphics processing units (GPUs) anyway, per VentureBeat. That’s a far cry from the roughly 500,000 that OpenAI is reported to use, though. Another complicating factor: trade restrictions take effect over long periods of time, so they may not have impinged on DeepSeek’s work.
+
+Since DeepSeek was able to create such a promising product with a fraction of the resources other AI companies use, perhaps demand for chips will not be as sky-high as investors once believed. Nvidia, the greatest beneficiary of the AI boom, saw its stock slide by multiple percentage points on Monday, which erased hundreds of billions in market cap.
+
+The tech sector saw its share prices decline, giving rise to fears of a wider sell-off. Utility companies are tied up in the AI boom as power demands for data centers grow. If a company can achieve the same result with fewer chips and therefore fewer data centers, demand for electricity may not rise so much that nuclear power plants need to be restarted. After DeepSeek shot up the app charts and rattled the world’s stock markets, the company suffered a cyber-attack and limited sign-ups for R1 in response.
+
+Along similar policy lines, R1 has rocketed to the top of app stores in the US and across the world. Questions about Xi Jinping and other Chinese political topics return non-answers that are obviously censored. As the TikTok ban hangs in the air unresolved, what will Washington do with another hugely popular Chinese app that presents propaganda concerns?
+
+Elon Musk is inaugurated
+
+View image in fullscreen Guests including Mark Zuckerberg, Lauren Sanchez, Jeff Bezos, Sundar Pichai and Elon Musk attend the inauguration of Donald Trump in the US Capitol’s rotunda in Washington, on 20 January. Photograph: Getty Images
+
+Elon Musk was inaugurated as Donald Trump’s shadow vice-president on Monday. The image of Trump sitting with Jeff Bezos, Mark Zuckerberg, Musk and Sundar Pichai was quite a striking illustration of Joe Biden’s warning of an American oligarchy.
+
+Musk’s first two actions from his office in the White House made a mess, however. During a speech at Trump’s inauguration, he offered a gesture of solidarity to his listeners and said: “My heart goes out to you.” He touched his hand to his heart and raised his hand up diagonally, palm down. Uproar, outrage and debate over what exactly he did ensued.
+
+Whatever you see in Musk’s gesture, neo-Nazis saw an approving reference to their beliefs, Wired reported. When Ron DeSantis (remember him?) was campaigning to become governor of Florida in 2018, his opponent made a remark that has remained relevant in US politics: “Now, I’m not calling Mr DeSantis a racist. I’m simply saying the racists believe he’s a racist.”
+
+Community leaders in Germany, where Musk has endorsed the far-right AfD party, told the Guardian the same. One called the billionaire’s gesture a “dangerous point for the entire free world”. Over the weekend, Musk told a crowd at a rally for the AfD: “There is too much focus on past guilt, and we need to move beyond that … Children should not be guilty of the sins of their parents, let alone their great-grandparents.”
+
+Musk retweeted a video of Emmanuel Macron making a similar gesture, asking when the French president would resign since Musk himself was facing so much backlash. The question is revealing – people are willing to believe Musk is a neo-Nazi. Macron’s movements did not elicit the same reaction. Might that give Musk pause and cause him to re-evaluate his political positions? I doubt it, but we can wonder.
+
+… and then Musk makes a mess
+
+View image in fullscreen Sam Altman, Elon Musk and Satya Nadella. Composite: EPA, Rex/Shutterstock, Getty Images
+
+One day after Trump threw his weight behind Stargate, Musk declared the project a financial farce.
+
+“They don’t actually have the money,” he said about the initiative.
+
+Even considering his propensity to post on Twitter/X about an eye-watering swath of topics, Musk’s tweets pronouncing Stargate nothing more than hot air represent an extraordinary break with the White House, where he is one of Trump’s closest and most senior advisers.
+
+Altman tried to strike a conciliatory tone with his first response. Then at least one glove came off when he wrote snidely about Musk’s Softbank remark. Microsoft’s Satya Nadella chimed in with: “All I know is that I’m good for my $80bn.”
+
+Members of Trump’s staff are furious that Musk would trash a public commitment the president called “monumental”, Politico reports. One Trump ally gave a choice quote: “It’s clear he has abused the proximity to the president. The problem is the president doesn’t have any leverage over him and Elon gives zero fucks.”
+
+skip past newsletter promotion Sign up to TechScape Free weekly newsletter A weekly dive in to how technology is shaping our lives Enter your email address Sign up Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
+
+Exclusive: Don Lemon expands his suit against Musk
+
+View image in fullscreen Don Lemon speaks at the Glaad Media awards in New York, on 11 May 2024; Elon Musk attends an antisemitism symposium in Kraków, Poland, on Wednesday. Composite: Getty Images, NurPhoto
+
+Former CNN anchor Don Lemon is widening his lawsuit against X. He’s added new claims – defamation, retaliation, breach of implied contract and harassment – and two new defendants: CEO Linda Yaccarino and X’s head of content, talent and brand sales, Brett Weitz, whom he alleges were party to his broken contract. The amended suit was filed in late December in San Francisco superior court.
+
+Lemon sued Musk and X in August for fraud, misuse of Lemon’s name and likeness, and breach of contract. X did not respond to a request for comment by press time.
+
+The expanded suit alleges Musk and co retaliated against Lemon for raising concerns that they were “fostering a workplace that promoted racism and sexism” during his interview with Musk, the first in what was supposed to be a series hosted on X. From the Guardian’s story on the lawsuit: “The interview quickly became tense and awkward as Lemon questioned Musk on a variety of issues from his thoughts on white privilege and opposition to diversity, equity and inclusion programs.”
+
+According to the amended filing, after Lemon voiced these reservations, the billionaire subjected him to a “relentless series of insults, name-calling, and vulgarities on the X platform, which targeted his identity as a homosexual man”, including comparing him with the histrionic teenage girl in Charlie and the Chocolate Factory, Veruca Salt.
+
+Lemon’s contractual allegations concern the fact that there was, in fact, no signed agreement between the anchor and X or Musk.
+
+“Within one day of the interview, Musk sent Lemon’s agent a text message stating that Lemon’s partnership ‘contract [with Defendants] is canceled.’ Close to this time, Weitz spoke with Lemon by phone and told Lemon that Defendants were not going to pay him or follow through with the promises and representations made to him because there was no signed agreement, despite Musk previously representing to Lemon that there would be no need for a formal written agreement or to ‘fill out paperwork.’ To this day, Defendants have not compensated Lemon pursuant to the exclusive partnership deal that Defendants induced Lemon to enter into.”
+
+Lemon alleges that the defendants then defamed him to cover up their own wrongdoing. His additional allegations come at a time when tech companies and the Trump administration, of which Musk is an integral part, are slashing programs meant to decrease discrimination.
+
+Are Crypto.com and Kalshi’s new ‘sports trading products’ legal?
+
+View image in fullscreen Are ‘sports event trading products’ and sports betting the same thing? Illustration: Guardian Design
+
+My colleague Callum Jones writes:
+
+The Super Bowl, the biggest sporting event in the US, typically consists of a spectacular half-time show and semi-amusing commercials, with a few hours of sport sprinkled in between. But this year’s event, in New Orleans next month between the Philadelphia Eagles and Kansas City Chiefs, has been commandeered for an extraordinary experiment.
+
+Prediction betting markets grew rapidly around the US presidential election. Now their owners are trying to push the envelope – testing the legal and political parameters of the “golden age”, hailed by Trump – to find the boundaries of this nascent industry.
+
+Late last month, Crypto.com announced the “first ever sports event trading product”, enabling people across the US to “trade their own prediction” on the result of sports events, including the Super Bowl.
+
+There’s another word for putting money on sports, in the hope of making a profit if your prediction proves right. But sports betting is technically only allowed in some of the US – 38 states, to be exact, and operating a legal platform often requires close cooperation with local authorities. Are “sports event trading products” and sports betting the same thing?
+
+Crypto.com launched its new sports service across all 50 states. In the final days of the Biden administration, the federal Commodity Futures Trading Commission (CFTC) launched a review and asked the firm to suspend its sports markets. It did not.
+
+Not only did Crypto.com ignore this request, but Kalshi, another leading player in prediction markets, has since launched its own sports markets. With Trump now in office, these platforms are using sports, and the Super Bowl, to gauge how aggressively his new administration will regulate online prediction markets. The president hailed what he called “gambling polls” (and his healthy lead in them) in the final weeks of the election campaign; one of his sons had since joined Kalshi as a strategic adviser.
+
+“The Golden Age of markets is here,” Kalshi declared on social media last week. The CFTC, under new management, did not respond to a request for comment.

@@ -1,0 +1,21 @@
+South Korea’s data protection watchdog has accused DeepSeek, the Chinese start-up whose artificial intelligence-powered chatbot took the tech scene by storm earlier this year, of transferring personal data without users’ consent.
+
+The Personal Information Protection Commission said on Thursday that DeepSeek had been transferring information to several companies in China and the United States before its ChatGPT-like AI model was removed from app stores in February, pending a privacy review.
+
+Nam Seok, director of the commission’s investigation bureau, said during a news conference that the app had sent user prompts and device and network information to a Beijing-based cloud service called Volcano Engine.
+
+DeepSeek “acknowledged it had insufficiently considered Korea’s data protection laws” and “expressed its willingness to cooperate with the commission, and voluntarily suspended new downloads”, Nam said.
+
+DeepSeek did not immediately respond to a request for comment.
+
+Following the South Korean watchdog’s announcement, China’s Ministry of Foreign Affairs said it placed a high level of importance on data privacy and security.
+
+“We have never – and will never – require companies or individuals to collect or store data through illegal means,” ministry spokesperson Guo Jiakun said during a regular news conference.
+
+DeepSeek’s R1 caused a sensation in January after its developers released a research paper claiming they spent less than $6m on computing power to train the model – a fraction of the multibillion-dollar AI budgets of US tech giants such as OpenAI and Google.
+
+Advertisement
+
+The emergence of a Chinese startup capable of rivalling Silicon Valley’s leading players challenged assumptions about US dominance in AI and prompted scrutiny of the sky-high market valuations of companies such as Nvidia and Meta.
+
+Marc Andreessen, one of the most influential tech venture capitalists in Silicon Valley, hailed DeepSeek’s model as “AI’s Sputnik moment”.

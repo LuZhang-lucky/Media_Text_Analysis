@@ -1,0 +1,13 @@
+Chinese start-up DeepSeek has emerged as “the biggest dark horse” in the open-source large language model (LLM) arena in 2025, just days after the firm made waves in the global artificial intelligence (AI) community with its latest release.
+
+Advertisement
+
+That assessment came from Jim Fan, a senior research scientist at Nvidia and lead of its AI Agents Initiative, in a New Year’s Day post on social-media platform X , following the Hangzhou -based start-up’s release last week of its namesake LLM, DeepSeek V3.
+
+“[The new AI model] shows that resource constraints force you to reinvent yourself in spectacular ways,” Fan wrote, referring to how DeepSeek developed the product at a fraction of the capital outlay that other tech companies invest in building LLMs.
+
+DeepSeek V3 comes with 671 billion parameters and was trained in around two months at a cost of US$5.58 million, using significantly fewer computing resources than models developed by bigger tech firms such as Facebook parent Meta Platforms and ChatGPT creator OpenAI
+
+LLM refers to the technology underpinning generative AI services such as ChatGPT. In AI, a high number of parameters is pivotal in enabling an LLM to adapt to more complex data patterns and make precise predictions. Open source gives public access to a software program’s source code, allowing third-party developers to modify or share its design, fix broken links or scale up its capabilities.
+
+Jim Fan, a senior research scientist at semiconductor design giant Nvidia, says he has been closely following developments at artificial intelligence start-up DeepSeek. Photo: SCMP

@@ -1,0 +1,43 @@
+After years of worrying in the US that its artificial intelligence ambitions could be leapfrogged by Beijing, the biggest threat to Silicon Valley’s hegemony has come not from one of China’s big four tech firms, but from a previously little known startup.
+
+Rather than Baidu, Alibaba, Tencent or Xiaomi topping the iOS app store with its latest chatbot this week and sending the markets reeling, it is DeepSeek – founded less than two years ago – that is being credited with a “Sputnik moment” in the global AI development race.
+
+The upset has come from its claim that it trained an AI model on a par with OpenAI’s ChatGPT with less than $6m (£4.8m). For comparison, Microsoft, OpenAI’s primary partner, plans to invest about $80bn in AI infrastructure this year.
+
+So who is behind DeepSeek and how did it achieve such an impressive and market-moving feat in such a small time?
+
+Founded in May 2023, the startup is the passion project of Liang Wenfeng, a millennial hedge fund entrepreneur from south China’s Guangdong province. Part of its success appears to come from the fact it is designed as a purely research-focused organisation, not a commercial, profit-driven enterprise.
+
+In an interview with Chinese media last year, after the debut of an earlier AI model that had caused a buzz in industry circles, Liang said: “Our principle is not to lose money, nor to make huge profits … our starting point is not to take advantage of the opportunity to make a fortune, but to be at the forefront of technology and promote the development of the entire ecosystem.”
+
+DeepSeek’s research focus is bankrolled by Liang’s hedge fund, High-Flyer Capital, which he started in 2015. After studying electronic information engineering at Zhejiang University, Liang eschewed programmer jobs at large software companies to focus on his obsession with AI. With High-Flyer Capital, Liang used AI to spot patterns in stock prices – generating tonnes of cash. In 2021, its assets under management reportedly surpassed 100bn yuan (£11bn)
+
+That same year, rumours started spreading that Liang had amassed a large collection of Nvidia graphic processing units (GPUs). By 2021, he was reported to have bought 10,000 of the chips, seemingly for his personal hobby. Only a handful of large Chinese tech firms have similar reserves of Nvidia semiconductors. “Many people would think that there is an unknown business logic behind this, but in fact, it is mainly driven by curiosity,” Liang said in 2023.
+
+The curiosity was well timed. In 2022, Joe Biden announced sweeping export controls on semiconductors bound for China, aimed at stopping the country from accessing the equipment necessary for rapid AI development. Nvidia’s powerful H100 chip was banned. The company developed the less powerful H800 chips for the Chinese market – which DeepSeek trained its model on – although these were also banned in 2023.
+
+“Our biggest challenge has never been money, it is the embargo on high-end chips,” Liang has said.
+
+He is reported to be personally involved in DeepSeek’s research and has spoken about how he prefers to hire local talent for the company’s campus in Hangzhou, the eastern Chinese city where Alibaba is also based, rather than workers who have studied in the US or overseas.
+
+That makes DeepSeek’s success all the more striking. The US has traditionally been in the lead in the AI race with China, dominating the most advanced chip-making equipment and producing top-tier talent from its universities.
+
+The launch of DeepSeek’s powerful model suggests that Chinese scientists – as predicted – have found a way around the US restrictions intend to prevent them catching up.
+
+That may prompt further tightening of US controls, or undermine the idea that they can work effectively. Beyond DeepSeek, many Chinese AI firms are struggling to develop without access to advanced GPUs.
+
+skip past newsletter promotion Sign up to TechScape Free weekly newsletter A weekly dive in to how technology is shaping our lives Enter your email address Sign up Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
+
+China analyst Bill Bishop said in a newsletter: “Whatever the Trump administration decides about export controls it will likely cause an even greater split over AI between the US and its close friends and the rest of the world, and especially the global south.”
+
+Some analysts and investors have expressed scepticism about DeepSeek’s market-rattling claims.
+
+“The Chinese labs have more H100s than people think,” said Alexandr Wang, an American AI entrepreneur, in an interview with CNBC. Wang said he believed DeepSeek had a stockpile of advanced chips that it had not disclosed publicly because of the US sanctions. DeepSeek has been approached for comment.
+
+Karen Hao, an AI journalist, said on X that DeepSeek’s success had come from its small size. “It innovated because of, not in spite of, its constraints.”
+
+The company is also known to pay well for top talent, poaching developers with job offers from bigger companies such as Nvidia. Job listings for developers at DeepSeek on the Chinese recruitment website Zhipin advertise salaries of up to 60,000 yuan a month (about £6,600). The average salary at Tencent and other big tech firms is about 35,000 yuan a month.
+
+As for Liang himself, he is staying out of the spotlight. A schoolfriend interviewed in the Chinese press said: “A few days ago, I sent him a message to congratulate him. He said that he would return to [his home town] for the lunar new year, but that he would be hiding.”
+
+Additional research by Jason Tzu Kuan Lu
