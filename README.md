@@ -3,7 +3,7 @@
 This project analyzes sentiment trends and key discussion topics from international news coverage using Python and Jupyter Notebooks. It demonstrates the application of Natural Language Processing (NLP) techniques, exploratory data analysis, and data visualization in a real-world scenario.
 
 ## About This Project
-The project analyzes media text data using a structured workflow inspired by the learning material *Introduction to Cultural Analytics and Python* (Designed by Melanie Walsh)（https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html）.It follows key steps including data collection, text preprocessing, and various text analysis methods such as TF-IDF, sentiment analysis, topic modeling, and part-of-speech tagging.
+The project analyzes media text data using a structured workflow inspired by the learning material *Introduction to Cultural Analytics and Python* (Designed by Melanie Walsh)（https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html）. It follows key steps including data collection, text preprocessing, and various text analysis methods such as TF-IDF, sentiment analysis, topic modeling, and part-of-speech tagging.
 
 The directory structure is organized to reflect these analytical stages, making it easy to follow the process from raw data to insights.
 
