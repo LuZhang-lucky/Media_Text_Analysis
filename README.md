@@ -35,7 +35,13 @@ DeepSeek_Media_Text_Analysis/
 └── README.md                # Documentation
 ```
 ## Example Output
+![positive words](5_Sentiment_Analysis/visualizations/positive_word_frequency_vs_sentiment.png)
+![negative words](5_Sentiment_Analysis/visualizations/negative_word_frequency_vs_sentiment.png)
+One of the valuable outputs of this project is an interesting two-dimensional visualization that maps word frequency against sentiment scores, helping to surface meaningful insights from the text data.
 
+![sentiment_over_time by source](5_Sentiment_Analysis/visualizations/sentiment_over_time.png)
+
+Overall, this project reflects a focused curiosity about media narratives surrounding DeepSeek, integrating computational analysis with interpretive perspectives to reveal meaningful patterns and insights.
 
 
 
