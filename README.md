@@ -35,11 +35,18 @@ DeepSeek_Media_Text_Analysis/
 └── README.md                # Documentation
 ```
 ## Example Output
+![topic distribution by source](4_topic_modeling/visualizations/topic_distribution_by_source.png)
+The heatmap summarizes multiple articles per source, allowing us to compare the average probability of each topic across different sources. From this heatmap, we can see that Technology is the dominant topic across most newsletters, as it consistently shows the highest average probability.
+
 ![positive words](5_Sentiment_Analysis/visualizations/positive_word_frequency_vs_sentiment.png)
 ![negative words](5_Sentiment_Analysis/visualizations/negative_word_frequency_vs_sentiment.png)
 One of the valuable outputs of this project is an interesting two-dimensional visualization that maps word frequency against sentiment scores, helping to surface meaningful insights from the text data.
 
 ![sentiment_over_time by source](5_Sentiment_Analysis/visualizations/sentiment_over_time.png)
+Most sentiment scores are between 0.0 and 1.0 → generally positive.
+High density of articles between Jan 26 and Feb 23 → suggests an important event (likely stock-related).
+Many articles have strong positive sentiment (0.6–1.0).
+A few articles have very negative sentiment (≤ -0.8) → potential outliers or critical views.
 
 Overall, this project reflects a focused curiosity about media narratives surrounding DeepSeek, integrating computational analysis with interpretive perspectives to reveal meaningful patterns and insights.
 
