@@ -48,18 +48,12 @@ High density of articles between Jan 26 and Feb 23 → suggests an important eve
 Many articles have strong positive sentiment (0.6–1.0).
 A few articles have very negative sentiment (≤ -0.8) → potential outliers or critical views.
 
-![](5_Sentiment_Analysis/visualizations/TF-IDF_heatmap_negtive_texts.png)
+![TF-IDF analysis of negative texts](5_Sentiment_Analysis/visualizations/TF-IDF_heatmap_negative_texts.png)
+
+![POS nanlysis of negative texts](5_Sentiment_Analysis/outputs/top_adjectives_negative_texts.csv)
 
 Overall, this project reflects a focused curiosity about media narratives surrounding DeepSeek, integrating computational analysis with interpretive perspectives to reveal meaningful patterns and insights.
 
-
-## 🚀 Main Features
-
-- Text preprocessing and cleaning with Python
-- Sentiment analysis using lexicons and frequency calculations
-- Topic modeling using LDA (Latent Dirichlet Allocation)
-- Data visualization with Matplotlib
-- Interactive exploratory analysis in Jupyter Notebooks
 
 ## 🛠 Tools & Libraries Used
 
