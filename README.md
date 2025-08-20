@@ -1,8 +1,8 @@
 # Text Analysis of News Coverage
 
 ## Project Overview
-This project analyzes sentiment trends and key discussion topics from international news coverage using Python and Jupyter Notebooks. It demonstrates the application of Natural Language Processing (NLP) techniques, exploratory data analysis, and data visualization in a real-world scenario.
 
+This project focuses on text data analysis, including data collection, preprocessing, TF-IDF, frequency analysis, sentiment analysis, part-of-speech tagging and topic modeling. It leverages Python’s scientific stack (numpy, pandas, scikit-learn) alongside powerful NLP libraries (spacy, nltk, gensim, tomotopy,transformers,vaderSentiment) and visualization tools (altair,matplotlib, seaborn, plotly).
 
 ## Project Background
 
@@ -48,9 +48,9 @@ High density of articles between Jan 26 and Feb 23 → suggests an important eve
 Many articles have strong positive sentiment (0.6–1.0).
 A few articles have very negative sentiment (≤ -0.8) → potential outliers or critical views.
 
+![](5_Sentiment_Analysis/visualizations/TF-IDF_heatmap_negtive_texts.png)
+
 Overall, this project reflects a focused curiosity about media narratives surrounding DeepSeek, integrating computational analysis with interpretive perspectives to reveal meaningful patterns and insights.
-
-
 
 
 ## 🚀 Main Features
@@ -61,14 +61,32 @@ Overall, this project reflects a focused curiosity about media narratives surrou
 - Data visualization with Matplotlib
 - Interactive exploratory analysis in Jupyter Notebooks
 
-## 🛠️ Tools and Libraries Used
+## 🛠 Tools & Libraries Used
 
-- Python 3.x
-- Jupyter Notebook
-- Pandas
-- NLTK
-- Gensim
-- Matplotlib
+* **Core Scientific Libraries**
+
+  * `numpy`, `scipy`, `pandas` – numerical computations, data manipulation, and preprocessing
+  * `matplotlib`, `seaborn`, `plotly`, `wordcloud` – data visualization and exploration
+  * `altair` – interactive and exportable charts
+
+* **Natural Language Processing (NLP)**
+
+  * `newspaper3k` – media text extraction from websets
+  * `nltk`, `spacy`, `textblob` – text preprocessing, tokenization
+  * `gensim` – topic modeling (LDA, word embeddings)
+  * `little-mallet-wrapper` – Python wrapper for MALLET, a powerful Java-based tool for topic modeling (especially LDA)
+  * `tomotopy` - topic modeling
+  * `spacytextblob`,`vaderSentiment` - sentiment analysis
+  * `transformers`, `sentence-transformers` – modern transformer-based embeddings and sentiment models
+
+* **Machine Learning & Analysis**
+
+  * `scikit-learn` – TF-IDF, frequency analysis, clustering, and ML pipelines
+
+* **Utility & Workflow**
+
+  * `notebook`, `jupyterlab`,`VS Code`  – interactive analysis
+ 
 
 ## 📌 How to Use
 
@@ -86,4 +104,4 @@ Overall, this project reflects a focused curiosity about media narratives surrou
 ## 💡 Author
 
 **Lu Zhang**  
-Ph.D. in Social History, transitioning into Data Science with a focus on text analysis and data visualization. Currently pursuing a Master's in Digital Humanities at Uppsala University, Sweden.
+Academic background in social history, transitioning into Data Science with a focus on text analysis and data visualization. Currently pursuing a Master's in Digital Humanities at Uppsala University, Sweden.
