@@ -51,6 +51,7 @@ A few articles have very negative sentiment (≤ -0.8) → potential outliers or
 ![TF-IDF analysis of negative texts](5_Sentiment_Analysis/visualizations/TF-IDF_heatmap_negative_texts.png)
 
 ![POS nanlysis of negative texts](5_Sentiment_Analysis/outputs/top_adjectives_negative_texts.csv)
+When I used part-of-speech tagging to analyze the texts with negative sentiment scores, I found that the most frequent adjective was "Chinese", followed by "political". The word political appeared 13 times across 11 articles, making it a notable and valuable term for further analysis.
 
 Overall, this project reflects a focused curiosity about media narratives surrounding DeepSeek, integrating computational analysis with interpretive perspectives to reveal meaningful patterns and insights.
 
